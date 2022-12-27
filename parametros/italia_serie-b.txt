@@ -1,0 +1,3 @@
+pais = "italia"
+liga = "serie-b"
+cant_omitir = 0

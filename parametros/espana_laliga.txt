@@ -1,0 +1,3 @@
+pais = "espana"
+liga = "laliga"
+cant_omitir = 0

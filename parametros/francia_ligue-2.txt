@@ -1,0 +1,3 @@
+pais = "francia"
+liga = "ligue-2"
+cant_omitir = 0
