@@ -4,44 +4,44 @@ import pandas as pd
 # Creacion de diccionarios con totales
 estadisticas = ['G', 'P', 'TS', 'SI', 'SO', 'BS', 'FK', 'C', 'OFF', 'TI',
                 'GS', 'F', 'RC', 'YC', 'TP', 'PC', 'T', 'A', 'DA']
-dictHome = {}
-dictAway = {}
 
 
 def average_stats_calculator(db_location):
     data = pd.read_csv(db_location.split(".")[0] + ".csv", sep=',', encoding='utf-8', na_values='-')
+    dict_home = {}
+    dict_away = {}
 
     for i in range(len(data)):
         partido = data.loc[i]
 
         # Local
         name_home_team = data["HomeTeam"][i]
-        if name_home_team not in dictHome:
-            dictHome[name_home_team] = []
+        if name_home_team not in dict_home:
+            dict_home[name_home_team] = []
 
         stats = []
         for j in range(len(estadisticas)):
             stats.append(partido["H" + estadisticas[j]])
-        dictHome[name_home_team].append(stats)
+        dict_home[name_home_team].append(stats)
 
         # Visitante
         name_away_team = data["AwayTeam"][i]
-        if name_away_team not in dictAway:
-            dictAway[name_away_team] = []
+        if name_away_team not in dict_away:
+            dict_away[name_away_team] = []
 
         stats = []
         for j in range(len(estadisticas)):
             stats.append(partido["A" + estadisticas[j]])
-        dictAway[name_away_team].append(stats)
+        dict_away[name_away_team].append(stats)
 
     # Calculo de promedios por equipo
     # Local
     print("Home:")
     home_averages = {}
-    for i in dictHome.keys():
+    for i in dict_home.keys():
         totals = [0 for _ in range(19)]
         nan_count = [0 for _ in range(19)]
-        for j in dictHome[i]:
+        for j in dict_home[i]:
             for k in range(len(j)):
                 if not pd.isna(j[k]):
                     totals[k] += j[k] if k != 1 else int(j[k][:-1])
@@ -51,7 +51,10 @@ def average_stats_calculator(db_location):
         result = []
         print(i, totals)
         for j in range(len(totals)):
-            result.append(totals[j] / (len(dictHome[i]) - nan_count[j]))
+            if (len(dict_home[i]) - nan_count[j]) != 0:
+                result.append(totals[j] / (len(dict_home[i]) - nan_count[j]))
+            else:
+                result.append(0)
 
         home_averages[i] = result
 
@@ -61,10 +64,10 @@ def average_stats_calculator(db_location):
     # Visitante
     print("Away:")
     away_averages = {}
-    for i in dictAway.keys():
+    for i in dict_away.keys():
         totals = [0 for _ in range(19)]
         nan_count = [0 for _ in range(19)]
-        for j in dictAway[i]:
+        for j in dict_away[i]:
             for k in range(len(j)):
                 if not pd.isna(j[k]):
                     totals[k] += j[k] if k != 1 else int(j[k][:-1])
@@ -74,7 +77,10 @@ def average_stats_calculator(db_location):
         result = []
         print(i, totals)
         for j in range(len(totals)):
-            result.append(totals[j] / (len(dictAway[i]) - nan_count[j]))
+            if (len(dict_away[i]) - nan_count[j]) != 0:
+                result.append(totals[j] / (len(dict_away[i]) - nan_count[j]))
+            else:
+                result.append(0)
 
         away_averages[i] = result
 
