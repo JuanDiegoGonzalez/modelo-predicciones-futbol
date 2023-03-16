@@ -85,7 +85,7 @@ def league_matches_scraper(link, output_file, cant_omitir):
 
         # Stats
         stats = str(soup).split("subTabs tabs__detail--sub")[1]
-        stats = stats.split("Cuotas prepartido")[0]
+        stats = stats.split("section__title")[0]
         temp = stats.split("</")
         lines_stats = []
         for j in temp:
@@ -94,7 +94,8 @@ def league_matches_scraper(link, output_file, cant_omitir):
 
         info_stats = []
         should_skip = True
-        for j in range(3, len(lines_stats) - 5, 5):
+        first_line = 11 if lines_stats[6].__contains__("xG") else 3
+        for j in range(first_line, len(lines_stats) - 5, 5):
             if lines_stats[j + 1].split(">")[-1] in nom_estadisticas:
                 info_stats.append(
                     [lines_stats[j].split(">")[-1], lines_stats[j + 1].split(">")[-1],
