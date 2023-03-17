@@ -64,6 +64,7 @@ def league_matches_scraper(link, output_file, cant_omitir):
             print("Partido " + str(completados) + " de " + str(total) + ":")
             print("No se disputó")
             print()
+            index += 1
             continue
 
         # Header
