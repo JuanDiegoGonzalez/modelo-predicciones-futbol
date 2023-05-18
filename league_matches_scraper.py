@@ -82,7 +82,7 @@ def league_matches_scraper(link, output_file, cant_omitir):
         info_header.append(
             lines_header[7].split(">")[-1] + " " + lines_header[8].split(">")[-1])  # Home Team Name and Goals
         info_header.append(
-            lines_header[16].split(">")[-1] + " " + lines_header[10].split(">")[-1])  # Away Team Name and Goals
+            lines_header[17].split(">")[-1] + " " + lines_header[10].split(">")[-1])  # Away Team Name and Goals
 
         # Stats
         stats = str(soup).split("subTabs tabs__detail--sub")[1]

@@ -80,7 +80,7 @@ def upcoming_matches_scraper(link, output_file):
         info_header.append(
             lines_header[7].split(">")[-1])  # Home Team Name
         info_header.append(
-            lines_header[14].split(">")[-1])  # Away Team Name
+            lines_header[15].split(">")[-1])  # Away Team Name
 
         # Stats (averages)
         home_stats = home_averages[info_header[-2]]
