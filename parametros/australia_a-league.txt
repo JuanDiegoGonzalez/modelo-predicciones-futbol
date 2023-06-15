@@ -1,0 +1,3 @@
+pais = "australia"
+liga = "a-league"
+cant_omitir = 0
