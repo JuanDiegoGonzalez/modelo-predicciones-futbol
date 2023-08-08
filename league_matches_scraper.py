@@ -85,7 +85,7 @@ def league_matches_scraper(link, output_file, cant_omitir):
             lines_header[17].split(">")[-1] + " " + lines_header[10].split(">")[-1])  # Away Team Name and Goals
 
         # Stats
-        stats = str(soup).split("subTabs tabs__detail--sub")[1]
+        stats = str(soup).split("subFilter__group")[1]
         stats = stats.split("section__title")[0]
         temp = stats.split("</")
         lines_stats = []
@@ -95,7 +95,8 @@ def league_matches_scraper(link, output_file, cant_omitir):
 
         info_stats = []
         should_skip = True
-        first_line = 11 if lines_stats[6].__contains__("xG") else 3
+        # Primera linea: primera estadistica del local (el numero)
+        first_line = 14 if lines_stats[9].__contains__("xG") else 6
         for j in range(first_line, len(lines_stats) - 5, 5):
             if lines_stats[j + 1].split(">")[-1] in nom_estadisticas:
                 info_stats.append(

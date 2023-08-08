@@ -49,4 +49,5 @@ def main(pais, liga, cant_omitir):
 #main("paises-bajos", "eredivisie", 0)
 #main("portugal", "liga-portugal", 0)
 #main("turquia", "super-lig", 0)
-main("colombia", "primera-a", 0)
+#main("colombia", "primera-a", 226)  # 0 / 226
+main("brasil", "brasileirao-serie-a", 0)

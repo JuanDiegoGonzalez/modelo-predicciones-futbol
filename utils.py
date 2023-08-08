@@ -76,7 +76,7 @@ def obtener_lista_partidos(browser, link):
             if str(soup).__contains__("Mostrar más partidos"):
                 time.sleep(1)
                 browser.execute_script("arguments[0].click();",
-                                       browser.find_element_by_xpath('//*[@id="live-table"]/div[1]/div/div/a'))
+                                       browser.find_element('xpath', '//*[@id="live-table"]/div[1]/div/div/a'))
             else:
                 break
     except TimeoutException:

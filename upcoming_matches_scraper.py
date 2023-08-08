@@ -50,7 +50,11 @@ def upcoming_matches_scraper(link, output_file):
     # Matches
     total = len(ids)
     completados = 0
-    for i in ids:
+    index = 0
+
+    while (index < len(ids)) and (completados < 30):
+        i = ids[index]
+
         # Match info retrieving
         soup = ""
         try:
@@ -79,8 +83,12 @@ def upcoming_matches_scraper(link, output_file):
         info_header.append(lines_header[1].split(">")[-1])  # Date
         info_header.append(
             lines_header[7].split(">")[-1])  # Home Team Name
-        info_header.append(
-            lines_header[15].split(">")[-1])  # Away Team Name
+        if lines_header[15].split(">")[-1] == "Resumen": # Away Team Name
+            info_header.append(
+                lines_header[13].split(">")[-1])  
+        else:
+            info_header.append(
+                lines_header[15].split(">")[-1])
 
         # Stats (averages)
         home_stats = home_averages[info_header[-2]]
@@ -154,6 +162,9 @@ def upcoming_matches_scraper(link, output_file):
         print(info_header[-2] + " vs " + info_header[-1])
         print(info_stats)
         print()
+
+        index += 1
+
 
     # Elimina la hoja por defecto
     eliminar_hoja_por_defecto(output_file)
