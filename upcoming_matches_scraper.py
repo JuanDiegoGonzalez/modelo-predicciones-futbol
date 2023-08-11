@@ -91,9 +91,22 @@ def upcoming_matches_scraper(link, output_file):
                 lines_header[15].split(">")[-1])
 
         # Stats (averages)
-        home_stats = home_averages[info_header[-2]]
+        try:
+            home_stats = home_averages[info_header[-2]]
+        except:
+            home_stats = [None for _ in range(17)]
+            home_stats.insert(0, "50")
+            home_stats.insert(0, "1")
+        
         print(info_header)
-        away_stats = away_averages[info_header[-1]]
+        
+        try:
+            away_stats = away_averages[info_header[-1]]
+        except:
+            away_stats = [None for _ in range(17)]
+            away_stats.insert(0, "50")
+            away_stats.insert(0, "1")
+
         info_stats = []
         for j in range(len(nom_estadisticas)):
             if j != 0:
