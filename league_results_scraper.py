@@ -10,7 +10,7 @@ from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.support.ui import WebDriverWait
 
 
-def league_matches_scraper(link, output_file, cant_omitir):
+def league_results_scraper(link, output_file, cant_omitir):
     file_exists = os.path.exists(output_file)
     previous_data = {}
     first_value = {}
@@ -54,9 +54,10 @@ def league_matches_scraper(link, output_file, cant_omitir):
         # Match info retrieving
         try:
             time.sleep(0.25)
-            browser.get("https://www.flashscore.co/partido/" + i + "/#/resumen-del-partido/estadisticas-del-partido/0")
+            browser.get("https://www.flashscore.co/partido/" + i + "/#/resumen-del-partido/resumen-del-partido")
+            print("https://www.flashscore.co/partido/" + i + "/#/resumen-del-partido/resumen-del-partido")
             WebDriverWait(browser, timeout_in_seconds).until(
-                ec.presence_of_element_located((By.CLASS_NAME, 'stat__worseSideOrEqualBackground')))
+                ec.presence_of_element_located((By.CLASS_NAME, 'detailScore__matchInfo')))
             html = browser.page_source
             soup = BeautifulSoup(html, features="html.parser")
         except TimeoutException:
@@ -83,34 +84,6 @@ def league_matches_scraper(link, output_file, cant_omitir):
             lines_header[7].split(">")[-1] + " " + lines_header[8].split(">")[-1])  # Home Team Name and Goals
         info_header.append(
             lines_header[17].split(">")[-1] + " " + lines_header[10].split(">")[-1])  # Away Team Name and Goals
-
-        # Stats
-        stats = str(soup).split("subFilter__group")[1]
-        stats = stats.split("section__title")[0]
-        temp = stats.split("</")
-        lines_stats = []
-        for j in temp:
-            if len(j) >= 6:
-                lines_stats.append(j)
-
-        info_stats = []
-        should_skip = True
-        # Primera linea: primera estadistica del local (el numero)
-        first_line = 14 if lines_stats[9].__contains__("xG") else 6
-        for j in range(first_line, len(lines_stats) - 5, 5):
-            if lines_stats[j + 1].split(">")[-1] in nom_estadisticas:
-                info_stats.append(
-                    [lines_stats[j].split(">")[-1], lines_stats[j + 1].split(">")[-1],
-                     lines_stats[j + 2].split(">")[-1]])
-                should_skip = False
-
-        if should_skip:
-            completados += 1
-            print("Partido " + str(completados) + " de " + str(total) + ":")
-            print("No se disputó")
-            print()
-            index += 1
-            continue
 
         # Escritura del archivo excel
         nom_hoja = (info_header[0].split("-"))[0] + season.split("/")[0]
@@ -145,25 +118,6 @@ def league_matches_scraper(link, output_file, cant_omitir):
         stats_gen.append(datos_local[-2:].strip())
         stats_gen.append(datos_visita[-2:].strip())
 
-        contador = 0
-        for j in info_stats:
-            act = j
-            if act[1] == nom_estadisticas[contador]:
-                stats_gen.append(act[0])
-                stats_gen.append(act[2])
-                contador = contador + 1
-            else:
-                dif_index = nom_estadisticas.index(act[1]) - contador
-                contador = nom_estadisticas.index(act[1]) + 1
-
-                for k in range(dif_index):
-                    stats_gen.append(None)
-                    stats_gen.append(None)
-                stats_gen.append(act[0])
-                stats_gen.append(act[2])
-
-        stats_gen.append(int(datos_local[-2:]) - int(datos_visita[-2:]))  # Resultado
-
         if file_exists and (first_value["Date"] == stats_gen[0]) and (
                 first_value["HomeTeam"] == stats_gen[1]) and (
                 first_value["AwayTeam"] == stats_gen[2]):
@@ -183,7 +137,6 @@ def league_matches_scraper(link, output_file, cant_omitir):
             print("Partido " + str(completados) + " de " + str(total) + ":")
             print(datos_local[:-2] + " vs " + datos_visita[:-2])
             print(datos_local[-1:] + " a " + datos_visita[-1:])
-            print(info_stats)
             print()
 
         index += 1

@@ -1,6 +1,7 @@
 # Imports
 import os
 from league_matches_scraper import league_matches_scraper
+from league_results_scraper import league_results_scraper
 from average_stats_calculator import average_stats_calculator
 from upcoming_matches_scraper import upcoming_matches_scraper
 
@@ -24,17 +25,20 @@ def main(pais, liga, cant_omitir):
     print("-------------------- Parte 1 de 3 --------------------")
     print("Recolectando estadísticas anteriores")
     print()
-    league_matches_scraper(link_liga + "-2022-2023/resultados/", path + "/resultados_anteriores.xlsx", cant_omitir)
+    #league_matches_scraper(link_liga + "-2022-2023/resultados/", path + "/resultados_anteriores.xlsx", cant_omitir)
+    #league_matches_scraper(link_liga + "/resultados/", path + "/resultados_anteriores.xlsx", cant_omitir)
+    league_results_scraper(link_liga + "-2022-2023/resultados/", path + f"/{pais}_{liga}.xlsx", cant_omitir)
+    #league_results_scraper(link_liga + "/resultados/", path + f"/{pais}_{liga}.xlsx", cant_omitir)
 
     print("-------------------- Parte 2 de 3 --------------------")
     print("Calculando estadísticas promedio")
     print()
-    average_stats_calculator(path + "/resultados_anteriores.xlsx")
+    #average_stats_calculator(path + "/resultados_anteriores.xlsx")
 
     print("-------------------- Parte 3 de 3 --------------------")
     print("Obteniendo lista de próximos partidos")
     print()
-    upcoming_matches_scraper(link_liga + "/partidos/", path + "/proximos_partidos.xlsx")
+    #upcoming_matches_scraper(link_liga + "/partidos/", path + "/proximos_partidos.xlsx")
 
 
 #main("belgica", "jupiler-pro-league", 0)
@@ -42,8 +46,21 @@ def main(pais, liga, cant_omitir):
 #main("francia", "ligue-1", 0)
 #main("inglaterra", "premier-league", 0)
 #main("italia", "serie-a", 0)
-#main("paises-bajos", "eredivisie", 0)
-main("portugal", "liga-portugal", 0)
-main("turquia", "super-lig", 0)
+###   main("paises-bajos", "eredivisie", 0)
+#main("portugal", "liga-portugal", 0)
+#main("turquia", "super-lig", 0)
+
+#main("belgica", "challenger-pro-league", 0)
+#main("espana", "laliga-hypermotion", 0)
+#main("francia", "ligue-2", 0)
+#main("inglaterra", "championship", 0)
+main("italia", "serie-b", 0)
+###   main("paises-bajos", "keuken-kampioen-divisie", 0)
+main("portugal", "liga-portugal-2", 0)
+main("turquia", "1-lig", 0)
+
+
 #main("colombia", "primera-a", 226)  # 0 / 226
 #main("brasil", "brasileirao-serie-a", 0)
+
+#main("colombia", "primera-b", 154)  # 0 / 154
