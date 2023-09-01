@@ -14,6 +14,7 @@ titulos_estadisticas = (
                     'Date',
                     'HomeTeam',
                     'AwayTeam',
+                    '''
                     'HG',  # Home Goals
                     'AG',  # Away Goals
                     'HP',  # Home Possession
@@ -53,6 +54,7 @@ titulos_estadisticas = (
                     'HDA',  # Home Dangerous Attacks
                     'ADA',  # Away Dangerous Attacks
                     'Resultado'
+                    '''
                 )
 
 

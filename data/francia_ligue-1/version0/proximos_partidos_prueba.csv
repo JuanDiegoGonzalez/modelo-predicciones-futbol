@@ -1,0 +1,71 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    "
+01.09.2023 14:00,Nantes,Marsella,
+02.09.2023 10:00,Brest,Stade Rennais,
+02.09.2023 14:00,Mónaco,Lens,
+03.09.2023 06:00,Toulouse,Clermont,
+03.09.2023 08:00,Le Havre,Lorient,
+03.09.2023 08:00,Lille,Montpellier,
+03.09.2023 08:00,Metz,Reims,
+03.09.2023 10:05,Niza,Estrasburgo,
+03.09.2023 13:45,Lyon,PSG,
+17.09.2023 08:00,Clermont,Nantes,
+17.09.2023 08:00,Estrasburgo,Montpellier,
+17.09.2023 08:00,Lens,Metz,
+17.09.2023 08:00,Lorient,Mónaco,
+17.09.2023 08:00,Lyon,Le Havre,
+17.09.2023 08:00,Marsella,Toulouse,
+17.09.2023 08:00,PSG,Niza,
+17.09.2023 08:00,Reims,Brest,
+17.09.2023 08:00,Stade Rennais,Lille,
+22.09.2023 14:00,Mónaco,Niza,
+23.09.2023 10:00,Nantes,Lorient,
+23.09.2023 14:00,Brest,Lyon,
+24.09.2023 06:00,Metz,Estrasburgo,
+24.09.2023 08:00,Le Havre,Clermont,
+24.09.2023 08:00,Lens,Toulouse,
+24.09.2023 10:05,Montpellier,Stade Rennais,
+24.09.2023 13:45,PSG,Marsella,
+26.09.2023 14:00,Lille,Reims,
+01.10.2023 10:00,Clermont,PSG,
+01.10.2023 10:00,Estrasburgo,Lens,
+01.10.2023 10:00,Le Havre,Lille,

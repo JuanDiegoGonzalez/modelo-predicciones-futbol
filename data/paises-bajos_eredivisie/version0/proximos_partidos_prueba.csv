@@ -1,0 +1,71 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    "
+01.09.2023 13:00,Sparta Rotterdam,Nijmegen,
+02.09.2023 09:30,Almere City,Zwolle,
+02.09.2023 11:45,G.A. Eagles,Heerenveen,
+02.09.2023 13:00,Waalwijk,PSV,
+02.09.2023 14:00,Heracles,Excelsior,
+03.09.2023 05:15,Utrecht,Feyenoord,
+03.09.2023 07:30,FC Volendam,Twente,
+03.09.2023 07:30,Sittard,Ajax,
+03.09.2023 09:45,Vitesse,AZ Alkmaar,
+16.09.2023 09:30,Feyenoord,Heerenveen,
+16.09.2023 11:45,Vitesse,Waalwijk,
+16.09.2023 13:00,PSV,Nijmegen,
+16.09.2023 13:00,Sittard,FC Volendam,
+16.09.2023 14:00,Heracles,Utrecht,
+17.09.2023 05:15,Zwolle,G.A. Eagles,
+17.09.2023 07:30,Excelsior,Almere City,
+17.09.2023 07:30,Twente,Ajax,
+17.09.2023 09:45,AZ Alkmaar,Sparta Rotterdam,
+22.09.2023 13:00,G.A. Eagles,Sittard,
+23.09.2023 09:30,FC Volendam,Heracles,
+23.09.2023 11:45,Nijmegen,Utrecht,
+23.09.2023 13:00,Almere City,PSV,
+23.09.2023 14:00,Heerenveen,Excelsior,
+24.09.2023 05:15,Sparta Rotterdam,Vitesse,
+24.09.2023 07:30,Ajax,Feyenoord,
+24.09.2023 09:45,Waalwijk,Twente,
+24.09.2023 09:45,Zwolle,AZ Alkmaar,
+27.09.2023 11:45,PSV,G.A. Eagles,
+27.09.2023 13:00,Twente,Vitesse,
+27.09.2023 14:00,Ajax,FC Volendam,

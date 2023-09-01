@@ -31,7 +31,7 @@ def upcoming_matches_scraper(link, output_file):
     for i in lines[1:]:
         if i[12] != "<":
             ids.append(i[4:12])
-
+    '''
     # Averages files reading
     home_averages = {}
     with open(output_file.split("proximos_partidos")[0] + "home_averages.csv", encoding='utf-8') as csv_file:
@@ -46,7 +46,7 @@ def upcoming_matches_scraper(link, output_file):
         for row in csv_reader:
             if len(row) > 0:
                 away_averages[row[0]] = row[1:]
-
+    '''
     # Matches
     total = len(ids)
     completados = 0
@@ -90,6 +90,7 @@ def upcoming_matches_scraper(link, output_file):
             info_header.append(
                 lines_header[15].split(">")[-1])
 
+        '''
         # Stats (averages)
         try:
             home_stats = home_averages[info_header[-2]]
@@ -113,7 +114,7 @@ def upcoming_matches_scraper(link, output_file):
                 info_stats.append([home_stats[j+1], nom_estadisticas[j], away_stats[j+1]])
             else:
                 info_stats.append([home_stats[j+1] + "%", nom_estadisticas[j], away_stats[j+1] + "%"])
-
+        '''
         # Escritura del archivo excel
         if len(season.split("/")) > 1:
             nom_hoja = (info_header[0].split("-"))[0] + season.split("/")[0] + season.split("/")[1]
@@ -146,10 +147,11 @@ def upcoming_matches_scraper(link, output_file):
         stats_gen.append(datos_local)
         stats_gen.append(datos_visita)
 
-        stats_gen.append(float(home_stats[0]))
-        stats_gen.append(float(away_stats[0]))
+        #stats_gen.append(float(home_stats[0]))
+        #stats_gen.append(float(away_stats[0]))
 
         contador = 0
+        '''
         for j in info_stats:
             act = j
             if act[1] == nom_estadisticas[contador]:
@@ -165,7 +167,7 @@ def upcoming_matches_scraper(link, output_file):
                     stats_gen.append(None)
                 stats_gen.append(act[0])
                 stats_gen.append(act[2])
-
+        '''
         hoja.append(stats_gen)
         wb.save(output_file)
 
@@ -173,7 +175,7 @@ def upcoming_matches_scraper(link, output_file):
         completados += 1
         print("Partido " + str(completados) + " de " + str(total) + ":")
         print(info_header[-2] + " vs " + info_header[-1])
-        print(info_stats)
+        #print(info_stats)
         print()
 
         index += 1

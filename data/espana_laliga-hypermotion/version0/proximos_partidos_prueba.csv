@@ -1,0 +1,71 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    "
+01.09.2023 12:30,Alcorcón,Racing de Ferrol,
+01.09.2023 14:30,Albacete,Real Valladolid,
+02.09.2023 09:15,Real Sporting,Burgos CF,
+02.09.2023 11:30,Levante,Real Oviedo,
+02.09.2023 14:00,Elche,Racing,
+02.09.2023 14:00,Villarreal B,Cartagena,
+03.09.2023 07:00,Andorra,Tenerife,
+03.09.2023 09:15,Eibar,Leganés,
+03.09.2023 11:30,Espanyol,Amorebieta,
+03.09.2023 11:30,Real Zaragoza,Eldense,
+03.09.2023 14:00,Huesca,Mirandés,
+08.09.2023 14:00,Levante,Espanyol,
+09.09.2023 09:15,Burgos CF,Eibar,
+09.09.2023 11:30,Real Oviedo,Real Sporting,
+09.09.2023 14:00,Leganés,Huesca,
+09.09.2023 14:00,Tenerife,Albacete,
+10.09.2023 09:15,Racing,Amorebieta,
+10.09.2023 09:15,Racing de Ferrol,Villarreal B,
+10.09.2023 11:30,Cartagena,Real Zaragoza,
+10.09.2023 11:30,Mirandés,Andorra,
+10.09.2023 14:00,Real Valladolid,Elche,
+11.09.2023 14:00,Eldense,Alcorcón,
+15.09.2023 14:30,Real Zaragoza,Racing,
+16.09.2023 09:15,Huesca,Villarreal B,
+16.09.2023 11:30,Alcorcón,Levante,
+16.09.2023 11:30,Real Valladolid,Cartagena,
+16.09.2023 14:00,Albacete,Burgos CF,
+17.09.2023 07:00,Amorebieta,Mirandés,
+17.09.2023 09:15,Eibar,Racing de Ferrol,
+17.09.2023 11:30,Elche,Leganés,
