@@ -27,8 +27,8 @@ def main(pais, liga, cant_omitir):
     print()
     #league_matches_scraper(link_liga + "-2022-2023/resultados/", path + "/resultados_anteriores.xlsx", cant_omitir)
     #league_matches_scraper(link_liga + "/resultados/", path + "/resultados_anteriores.xlsx", cant_omitir)
-    #league_results_scraper(link_liga + "-2022-2023/resultados/", path + f"/{pais}_{liga}.xlsx", cant_omitir)
-    #league_results_scraper(link_liga + "/resultados/", path + f"/{pais}_{liga}_23-24.xlsx", cant_omitir)
+    league_results_scraper(link_liga + "-2022-2023/resultados/", path + f"/{pais}_{liga}.xlsx", cant_omitir)
+    league_results_scraper(link_liga + "/resultados/", path + f"/{pais}_{liga}_23-24.xlsx", cant_omitir)
 
     print("-------------------- Parte 2 de 3 --------------------")
     print("Calculando estadísticas promedio")
@@ -38,7 +38,7 @@ def main(pais, liga, cant_omitir):
     print("-------------------- Parte 3 de 3 --------------------")
     print("Obteniendo lista de próximos partidos")
     print()
-    upcoming_matches_scraper(link_liga + "/partidos/", path + "/proximos_partidos_prueba.xlsx")
+    #upcoming_matches_scraper(link_liga + "/partidos/", path + "/proximos_partidos_prueba.xlsx")
 
 
 #--main("belgica", "jupiler-pro-league", 0) 
