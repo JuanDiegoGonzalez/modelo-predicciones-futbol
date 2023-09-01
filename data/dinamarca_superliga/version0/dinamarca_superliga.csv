@@ -1,0 +1,234 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+09.06.2023 12:00,Viborg,Midtjylland,0,1
+04.06.2023 10:00,Aarhus,Brondby,3,3
+04.06.2023 10:00,Copenhague,Randers,1,1
+04.06.2023 10:00,Nordsjaelland,Viborg,0,0
+03.06.2023 07:00,Aalborg,Silkeborg,0,1
+03.06.2023 07:00,Horsens,Lyngby,0,0
+03.06.2023 07:00,Midtjylland,Odense,4,2
+30.05.2023 12:00,Randers,Aarhus,1,3
+29.05.2023 11:00,Brondby,Nordsjaelland,5,1
+29.05.2023 09:00,Viborg,Copenhague,1,2
+29.05.2023 07:00,Lyngby,Aalborg,2,1
+29.05.2023 07:00,Silkeborg,Midtjylland,3,3
+26.05.2023 12:00,Odense,Horsens,2,1
+22.05.2023 12:00,Nordsjaelland,Randers,3,1
+21.05.2023 11:00,Copenhague,Aarhus,4,3
+21.05.2023 09:05,Viborg,Brondby,1,1
+21.05.2023 07:00,Aalborg,Midtjylland,0,2
+21.05.2023 07:00,Lyngby,Odense,0,4
+19.05.2023 12:00,Horsens,Silkeborg,0,1
+15.05.2023 12:00,Randers,Viborg,0,2
+14.05.2023 11:00,Aarhus,Nordsjaelland,1,1
+14.05.2023 09:00,Brondby,Copenhague,1,3
+14.05.2023 07:00,Midtjylland,Horsens,3,1
+14.05.2023 07:00,Silkeborg,Lyngby,1,0
+12.05.2023 12:00,Odense,Aalborg,1,1
+08.05.2023 12:00,Nordsjaelland,Copenhague,3,2
+07.05.2023 11:00,Aarhus,Viborg,3,0
+07.05.2023 09:00,Randers,Brondby,1,3
+07.05.2023 07:00,Lyngby,Midtjylland,2,1
+07.05.2023 07:00,Silkeborg,Odense,0,1
+07.05.2023 05:00,Aalborg,Horsens,4,0
+01.05.2023 12:00,Midtjylland,Silkeborg,3,0
+30.04.2023 11:00,Nordsjaelland,Aarhus,0,1
+30.04.2023 09:00,Copenhague,Brondby,0,1
+30.04.2023 07:00,Aalborg,Lyngby,1,0
+30.04.2023 07:00,Viborg,Randers,3,1
+28.04.2023 12:00,Horsens,Odense,2,2
+24.04.2023 12:00,Odense,Lyngby,2,2
+23.04.2023 11:00,Aarhus,Copenhague,0,0
+23.04.2023 09:00,Brondby,Randers,0,4
+23.04.2023 07:00,Horsens,Midtjylland,0,2
+23.04.2023 07:00,Viborg,Nordsjaelland,1,0
+21.04.2023 12:00,Silkeborg,Aalborg,2,2
+17.04.2023 12:00,Randers,Nordsjaelland,1,1
+16.04.2023 11:00,Brondby,Aarhus,1,0
+16.04.2023 09:00,Copenhague,Viborg,2,1
+16.04.2023 07:00,Lyngby,Horsens,2,1
+16.04.2023 07:00,Odense,Silkeborg,2,0
+14.04.2023 12:00,Midtjylland,Aalborg,1,1
+11.04.2023 11:30,Silkeborg,Horsens,1,2
+10.04.2023 11:00,Nordsjaelland,Brondby,2,1
+10.04.2023 09:00,Randers,Copenhague,1,0
+10.04.2023 07:00,Aalborg,Odense,2,3
+10.04.2023 07:00,Midtjylland,Lyngby,1,0
+09.04.2023 09:00,Viborg,Aarhus,0,1
+03.04.2023 12:00,Aarhus,Randers,1,1
+02.04.2023 11:00,Copenhague,Nordsjaelland,2,1
+02.04.2023 09:00,Brondby,Viborg,0,3
+02.04.2023 07:00,Horsens,Aalborg,0,4
+02.04.2023 07:00,Lyngby,Silkeborg,1,1
+31.03.2023 12:00,Odense,Midtjylland,1,3
+19.03.2023 09:00,Aalborg,Randers,0,1
+19.03.2023 09:00,Aarhus,Odense,1,0
+19.03.2023 09:00,Copenhague,Viborg,2,1
+19.03.2023 09:00,Lyngby,Horsens,1,1
+19.03.2023 09:00,Nordsjaelland,Brondby,2,1
+19.03.2023 09:00,Silkeborg,Midtjylland,3,3
+13.03.2023 13:00,Randers,Aarhus,1,2
+12.03.2023 12:00,Brondby,Silkeborg,2,1
+12.03.2023 10:00,Horsens,Copenhague,1,4
+12.03.2023 08:00,Midtjylland,Lyngby,1,3
+12.03.2023 08:00,Viborg,Nordsjaelland,1,1
+10.03.2023 13:00,Odense,Aalborg,2,1
+06.03.2023 13:00,Aalborg,Midtjylland,0,0
+05.03.2023 12:30,Copenhague,Odense,7,0
+05.03.2023 10:00,Lyngby,Brondby,1,0
+05.03.2023 08:00,Silkeborg,Nordsjaelland,2,1
+05.03.2023 08:00,Viborg,Randers,2,2
+03.03.2023 13:00,Aarhus,Horsens,2,0
+27.02.2023 13:00,Midtjylland,Brondby,0,1
+26.02.2023 12:00,Aarhus,Silkeborg,1,1
+26.02.2023 10:00,Copenhague,Aalborg,1,0
+26.02.2023 08:00,Horsens,Viborg,0,3
+26.02.2023 08:00,Randers,Lyngby,1,0
+24.02.2023 13:00,Nordsjaelland,Odense,4,2
+20.02.2023 13:00,Viborg,Midtjylland,0,4
+19.02.2023 12:00,Brondby,Horsens,5,2
+19.02.2023 10:00,Silkeborg,Copenhague,0,3
+19.02.2023 08:00,Lyngby,Nordsjaelland,1,1
+19.02.2023 08:00,Odense,Randers,0,0
+17.02.2023 13:00,Aalborg,Aarhus,0,1
+13.11.2022 14:00,Randers,Midtjylland,0,0
+13.11.2022 12:00,Nordsjaelland,Aalborg,5,1
+13.11.2022 10:00,Brondby,Viborg,0,2
+13.11.2022 08:00,Aarhus,Copenhague,0,2
+13.11.2022 08:00,Horsens,Odense,3,3
+12.11.2022 10:00,Silkeborg,Lyngby,0,2
+07.11.2022 13:00,Midtjylland,Nordsjaelland,0,0
+06.11.2022 12:00,Odense,Brondby,1,1
+06.11.2022 10:00,Copenhague,Lyngby,3,0
+06.11.2022 08:00,Aalborg,Silkeborg,1,2
+06.11.2022 08:00,Viborg,Aarhus,1,1
+04.11.2022 13:00,Horsens,Randers,5,1
+31.10.2022 13:00,Midtjylland,Odense,1,2
+30.10.2022 12:00,Brondby,Aalborg,3,2
+30.10.2022 10:00,Silkeborg,Viborg,1,2
+30.10.2022 08:00,Lyngby,Aarhus,0,1
+29.10.2022 09:00,Randers,Copenhague,0,2
+28.10.2022 12:00,Nordsjaelland,Horsens,2,0
+24.10.2022 12:00,Aalborg,Viborg,1,3
+23.10.2022 11:00,Aarhus,Brondby,2,2
+23.10.2022 09:00,Horsens,Silkeborg,3,2
+23.10.2022 07:00,Randers,Nordsjaelland,0,2
+22.10.2022 09:00,Copenhague,Midtjylland,1,1
+21.10.2022 12:00,Odense,Lyngby,3,1
+17.10.2022 12:00,Silkeborg,Randers,3,3
+16.10.2022 11:00,Midtjylland,Horsens,2,1
+16.10.2022 09:00,Nordsjaelland,Aarhus,1,1
+16.10.2022 07:00,Brondby,Copenhague,1,1
+16.10.2022 07:00,Viborg,Odense,0,0
+14.10.2022 12:00,Lyngby,Aalborg,0,2
+10.10.2022 12:00,Horsens,Aalborg,0,0
+09.10.2022 11:00,Randers,Brondby,2,3
+09.10.2022 09:00,Odense,Silkeborg,1,1
+09.10.2022 07:00,Aarhus,Midtjylland,0,1
+08.10.2022 12:00,Copenhague,Nordsjaelland,1,1
+07.10.2022 12:00,Lyngby,Viborg,1,1
+03.10.2022 12:00,Nordsjaelland,Randers,3,1
+02.10.2022 11:00,Copenhague,Aarhus,1,0
+02.10.2022 09:00,Brondby,Lyngby,3,3
+02.10.2022 07:00,Midtjylland,Viborg,1,1
+02.10.2022 07:00,Silkeborg,Horsens,2,1
+30.09.2022 12:00,Aalborg,Odense,1,1
+18.09.2022 11:00,Midtjylland,Copenhague,2,1
+18.09.2022 09:00,Viborg,Brondby,0,0
+18.09.2022 07:00,Lyngby,Odense,0,2
+18.09.2022 07:00,Randers,Silkeborg,3,2
+17.09.2022 10:00,Aarhus,Aalborg,3,1
+16.09.2022 12:00,Horsens,Nordsjaelland,1,0
+12.09.2022 12:00,Viborg,Horsens,2,1
+11.09.2022 11:00,Silkeborg,Aarhus,1,0
+11.09.2022 09:00,Brondby,Randers,2,2
+11.09.2022 07:00,Aalborg,Lyngby,1,1
+11.09.2022 07:00,Nordsjaelland,Midtjylland,1,1
+10.09.2022 12:00,Odense,Copenhague,2,1
+05.09.2022 12:00,Aarhus,Nordsjaelland,2,3
+04.09.2022 11:00,Midtjylland,Aalborg,0,2
+04.09.2022 09:00,Horsens,Brondby,0,2
+04.09.2022 07:00,Lyngby,Randers,0,2
+04.09.2022 07:00,Odense,Viborg,1,2
+02.09.2022 12:00,Copenhague,Silkeborg,1,0
+29.08.2022 12:00,Brondby,Midtjylland,0,2
+28.08.2022 11:00,Silkeborg,Odense,1,2
+28.08.2022 09:00,Nordsjaelland,Copenhague,3,1
+28.08.2022 07:00,Randers,Aalborg,1,0
+28.08.2022 07:00,Viborg,Lyngby,2,1
+26.08.2022 12:00,Horsens,Aarhus,2,1
+22.08.2022 12:00,Odense,Horsens,1,0
+21.08.2022 11:00,Aalborg,Brondby,2,1
+21.08.2022 09:00,Randers,Viborg,1,0
+21.08.2022 07:00,Nordsjaelland,Silkeborg,0,2
+20.08.2022 09:00,Midtjylland,Aarhus,0,2
+19.08.2022 12:00,Lyngby,Copenhague,0,3
+15.08.2022 12:00,Aarhus,Lyngby,1,0
+14.08.2022 11:00,Brondby,Odense,2,0
+14.08.2022 09:00,Aalborg,Nordsjaelland,0,0
+14.08.2022 07:00,Viborg,Silkeborg,2,0
+12.08.2022 14:00,Copenhague,Randers,1,3
+12.08.2022 12:00,Horsens,Midtjylland,3,3
+08.08.2022 12:00,Silkeborg,Aalborg,3,1
+07.08.2022 11:00,Odense,Aarhus,1,2
+07.08.2022 09:00,Copenhague,Brondby,4,1
+06.08.2022 09:00,Nordsjaelland,Viborg,1,0
+05.08.2022 13:00,Lyngby,Midtjylland,3,3
+05.08.2022 11:00,Randers,Horsens,1,0
+01.08.2022 12:00,Nordsjaelland,Lyngby,2,1
+31.07.2022 11:00,Silkeborg,Brondby,2,0
+31.07.2022 09:00,Viborg,Copenhague,4,2
+31.07.2022 07:00,Aalborg,Horsens,0,0
+31.07.2022 07:00,Aarhus,Randers,0,0
+29.07.2022 12:00,Odense,Midtjylland,1,5
+25.07.2022 12:00,Horsens,Lyngby,1,0
+24.07.2022 11:00,Aalborg,Copenhague,1,3
+24.07.2022 09:00,Brondby,Nordsjaelland,1,3
+24.07.2022 07:00,Aarhus,Viborg,3,1
+24.07.2022 07:00,Randers,Odense,2,2
+22.07.2022 12:00,Midtjylland,Silkeborg,1,3
+18.07.2022 12:00,Odense,Nordsjaelland,0,2
+17.07.2022 11:00,Brondby,Aarhus,1,0
+17.07.2022 09:00,Copenhague,Horsens,0,1
+17.07.2022 07:00,Lyngby,Silkeborg,2,2
+17.07.2022 07:00,Viborg,Aalborg,2,1
+15.07.2022 12:00,Midtjylland,Randers,1,1

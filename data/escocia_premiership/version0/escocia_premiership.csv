@@ -1,0 +1,275 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+04.06.2023 10:30,Ross Coun,,ty,-
+01.06.2023 14:00,Partick Thistle,Ross County,2,0
+28.05.2023 09:00,Kilmarnock,Ross County,3,1
+28.05.2023 09:00,Motherwell,Dundee Utd,3,2
+28.05.2023 09:00,St. Johnstone,Livingston,2,0
+27.05.2023 06:30,Celtic,Aberdeen,5,0
+27.05.2023 06:30,Hearts,Hibernian,1,1
+27.05.2023 06:30,St. Mirren,Rangers,0,3
+26.05.2023 13:45,Ayr,Partick Thistle,0,5
+24.05.2023 13:45,Dundee Utd,Kilmarnock,0,3
+24.05.2023 13:45,Livingston,Motherwell,1,1
+24.05.2023 13:45,Ross County,St. Johnstone,3,3
+24.05.2023 13:45,Aberdeen,St. Mirren,3,0
+24.05.2023 13:45,Hibernian,Celtic,4,2
+24.05.2023 13:45,Rangers,Hearts,2,2
+21.05.2023 06:00,Hibernian,Rangers,1,3
+20.05.2023 09:00,Kilmarnock,St. Johnstone,0,1
+20.05.2023 09:00,Livingston,Dundee Utd,2,1
+20.05.2023 09:00,Motherwell,Ross County,1,0
+20.05.2023 09:00,Celtic,St. Mirren,2,2
+20.05.2023 06:30,Hearts,Aberdeen,2,1
+19.05.2023 13:45,Partick Thistle,Ayr,3,0
+13.05.2023 09:00,Dundee Utd,Ross County,1,3
+13.05.2023 09:00,Kilmarnock,Livingston,2,0
+13.05.2023 09:00,St. Johnstone,Motherwell,0,2
+13.05.2023 09:00,Aberdeen,Hibernian,0,0
+13.05.2023 09:00,St. Mirren,Hearts,2,2
+13.05.2023 06:30,Rangers,Celtic,3,0
+12.05.2023 13:45,Queen's Park,Partick Thistle,0,4
+09.05.2023 13:45,Partick Thistle,Queen's Park,4,3
+07.05.2023 09:00,Rangers,Aberdeen,1,0
+07.05.2023 08:15,Hearts,Celtic,0,2
+06.05.2023 09:00,Motherwell,Kilmarnock,2,0
+06.05.2023 09:00,Ross County,Livingston,2,0
+06.05.2023 09:00,St. Johnstone,Dundee Utd,1,0
+06.05.2023 09:00,Hibernian,St. Mirren,2,1
+23.04.2023 10:30,Aberdeen,Rangers,2,0
+22.04.2023 09:00,Celtic,Motherwell,1,1
+22.04.2023 09:00,Dundee Utd,Livingston,2,0
+22.04.2023 09:00,St. Johnstone,Hibernian,1,1
+22.04.2023 09:00,St. Mirren,Kilmarnock,0,2
+22.04.2023 06:30,Hearts,Ross County,6,1
+16.04.2023 06:00,Kilmarnock,Celtic,1,4
+15.04.2023 09:00,Livingston,St. Johnstone,2,0
+15.04.2023 09:00,Motherwell,Dundee Utd,1,2
+15.04.2023 09:00,Rangers,St. Mirren,5,2
+15.04.2023 06:30,Hibernian,Hearts,1,0
+14.04.2023 13:45,Ross County,Aberdeen,0,1
+09.04.2023 06:00,Dundee Utd,Hibernian,2,1
+08.04.2023 09:00,Aberdeen,Kilmarnock,2,0
+08.04.2023 09:00,Hearts,St. Mirren,0,2
+08.04.2023 09:00,Motherwell,Livingston,3,0
+08.04.2023 09:00,St. Johnstone,Ross County,0,2
+08.04.2023 06:30,Celtic,Rangers,3,2
+02.04.2023 06:00,Ross County,Celtic,0,2
+01.04.2023 09:00,Hibernian,Motherwell,1,3
+01.04.2023 09:00,Kilmarnock,Hearts,2,1
+01.04.2023 09:00,Rangers,Dundee Utd,2,0
+01.04.2023 09:00,St. Johnstone,Aberdeen,0,1
+01.04.2023 09:00,St. Mirren,Livingston,3,0
+18.03.2023 10:00,Aberdeen,Hearts,3,0
+18.03.2023 10:00,Celtic,Hibernian,3,1
+18.03.2023 10:00,Dundee Utd,St. Mirren,1,1
+18.03.2023 10:00,Kilmarnock,St. Johnstone,1,1
+18.03.2023 10:00,Livingston,Ross County,2,1
+18.03.2023 07:30,Motherwell,Rangers,2,4
+08.03.2023 14:45,Celtic,Hearts,3,1
+08.03.2023 14:45,Hibernian,Rangers,1,4
+08.03.2023 14:45,Livingston,Dundee Utd,1,1
+05.03.2023 07:00,St. Mirren,Celtic,1,5
+04.03.2023 13:00,Dundee Utd,Aberdeen,1,3
+04.03.2023 10:00,Hearts,St. Johnstone,3,0
+04.03.2023 10:00,Livingston,Hibernian,1,4
+04.03.2023 10:00,Rangers,Kilmarnock,3,1
+04.03.2023 10:00,Ross County,Motherwell,0,2
+25.02.2023 10:00,Aberdeen,Livingston,1,0
+25.02.2023 10:00,Kilmarnock,Motherwell,1,1
+25.02.2023 10:00,Ross County,Dundee Utd,4,0
+25.02.2023 10:00,St. Johnstone,St. Mirren,1,1
+19.02.2023 07:00,Motherwell,Hearts,2,0
+18.02.2023 10:00,Celtic,Aberdeen,4,0
+18.02.2023 10:00,Dundee Utd,St. Johnstone,1,2
+18.02.2023 10:00,Hibernian,Kilmarnock,2,0
+18.02.2023 10:00,Livingston,Rangers,0,3
+18.02.2023 10:00,St. Mirren,Ross County,1,0
+15.02.2023 14:45,Motherwell,St. Mirren,2,1
+05.02.2023 07:00,St. Johnstone,Celtic,1,4
+04.02.2023 10:00,Aberdeen,Motherwell,3,1
+04.02.2023 10:00,Hearts,Dundee Utd,3,1
+04.02.2023 10:00,Livingston,Kilmarnock,3,1
+04.02.2023 10:00,Rangers,Ross County,2,1
+04.02.2023 10:00,St. Mirren,Hibernian,0,1
+01.02.2023 14:45,Aberdeen,St. Mirren,1,3
+01.02.2023 14:45,Celtic,Livingston,3,0
+01.02.2023 14:45,Hearts,Rangers,0,3
+01.02.2023 14:45,Kilmarnock,Dundee Utd,1,0
+01.02.2023 14:45,Motherwell,St. Johnstone,0,2
+31.01.2023 14:45,Ross County,Hibernian,1,1
+29.01.2023 11:00,Dundee Utd,Celtic,0,2
+29.01.2023 08:30,Livingston,Hearts,0,0
+28.01.2023 10:00,Hibernian,Aberdeen,6,0
+28.01.2023 10:00,Rangers,St. Johnstone,2,0
+28.01.2023 10:00,Ross County,Kilmarnock,3,0
+28.01.2023 10:00,St. Mirren,Motherwell,1,0
+18.01.2023 15:00,Kilmarnock,Rangers,2,3
+18.01.2023 14:45,Celtic,St. Mirren,4,0
+18.01.2023 14:45,Hearts,Aberdeen,5,0
+14.01.2023 10:00,Hibernian,Dundee Utd,2,2
+14.01.2023 10:00,Motherwell,Ross County,1,1
+14.01.2023 10:00,St. Johnstone,Livingston,2,4
+13.01.2023 14:45,Hearts,St. Mirren,1,0
+08.01.2023 11:00,Dundee Utd,Rangers,0,2
+08.01.2023 08:30,Motherwell,Hibernian,2,3
+07.01.2023 10:00,Aberdeen,St. Johnstone,2,0
+07.01.2023 10:00,Celtic,Kilmarnock,2,0
+07.01.2023 10:00,Ross County,Livingston,0,2
+07.01.2023 10:00,St. Mirren,Hearts,1,1
+02.01.2023 10:00,Aberdeen,Ross County,0,0
+02.01.2023 10:00,Hearts,Hibernian,3,0
+02.01.2023 10:00,Kilmarnock,St. Mirren,0,0
+02.01.2023 10:00,Livingston,Motherwell,1,1
+02.01.2023 10:00,St. Johnstone,Dundee Utd,0,1
+02.01.2023 07:30,Rangers,Celtic,2,2
+28.12.2022 15:00,Hibernian,Celtic,0,4
+28.12.2022 14:45,Dundee Utd,Ross County,3,0
+28.12.2022 14:45,Kilmarnock,Aberdeen,2,1
+28.12.2022 14:45,Livingston,St. Mirren,1,1
+28.12.2022 14:45,Rangers,Motherwell,3,0
+28.12.2022 14:45,St. Johnstone,Hearts,2,3
+24.12.2022 09:00,Dundee Utd,Hearts,2,2
+24.12.2022 09:00,Hibernian,Livingston,4,0
+24.12.2022 07:30,Celtic,St. Johnstone,4,1
+24.12.2022 07:30,St. Mirren,Aberdeen,3,1
+23.12.2022 14:45,Motherwell,Kilmarnock,2,2
+23.12.2022 14:30,Ross County,Rangers,0,1
+21.12.2022 14:45,Celtic,Livingston,2,1
+20.12.2022 15:00,Aberdeen,Rangers,2,3
+17.12.2022 10:00,Hearts,Kilmarnock,3,1
+17.12.2022 10:00,Ross County,St. Johnstone,1,2
+17.12.2022 07:30,Aberdeen,Celtic,0,1
+15.12.2022 15:00,Rangers,Hibernian,3,2
+12.11.2022 13:00,Aberdeen,Dundee Utd,1,0
+12.11.2022 10:00,Celtic,Ross County,2,1
+12.11.2022 10:00,Hearts,Livingston,1,1
+12.11.2022 10:00,Kilmarnock,Hibernian,1,0
+12.11.2022 10:00,St. Johnstone,Motherwell,1,1
+12.11.2022 07:30,St. Mirren,Rangers,1,1
+09.11.2022 14:45,Dundee Utd,Kilmarnock,4,0
+09.11.2022 14:45,Motherwell,Celtic,1,2
+09.11.2022 14:45,Rangers,Hearts,1,0
+09.11.2022 14:45,St. Mirren,St. Johnstone,2,2
+08.11.2022 14:45,Hibernian,Ross County,0,2
+08.11.2022 14:45,Livingston,Aberdeen,2,1
+06.11.2022 10:00,Hearts,Motherwell,3,2
+06.11.2022 07:00,St. Johnstone,Rangers,2,1
+05.11.2022 10:00,Celtic,Dundee Utd,4,2
+05.11.2022 10:00,Ross County,St. Mirren,3,2
+04.11.2022 14:45,Kilmarnock,Livingston,2,3
+04.11.2022 14:30,Aberdeen,Hibernian,4,1
+30.10.2022 10:00,Ross County,Hearts,1,2
+30.10.2022 07:00,Livingston,Celtic,0,3
+29.10.2022 09:00,Dundee Utd,Motherwell,0,1
+29.10.2022 09:00,Hibernian,St. Mirren,3,0
+29.10.2022 09:00,Rangers,Aberdeen,4,1
+29.10.2022 09:00,St. Johnstone,Kilmarnock,1,0
+22.10.2022 09:00,Kilmarnock,Ross County,1,0
+22.10.2022 09:00,Motherwell,Aberdeen,1,2
+22.10.2022 09:00,Rangers,Livingston,1,1
+22.10.2022 09:00,St. Mirren,Dundee Utd,2,1
+22.10.2022 06:30,Hearts,Celtic,3,4
+21.10.2022 13:30,Hibernian,St. Johnstone,1,2
+16.10.2022 09:00,Aberdeen,Hearts,2,0
+16.10.2022 06:00,Motherwell,Rangers,1,2
+15.10.2022 09:00,Celtic,Hibernian,6,1
+15.10.2022 09:00,Livingston,St. Johnstone,1,0
+15.10.2022 09:00,Ross County,Dundee Utd,1,1
+15.10.2022 09:00,St. Mirren,Kilmarnock,0,0
+11.10.2022 13:45,Dundee Utd,Hibernian,1,0
+09.10.2022 09:00,Kilmarnock,Hearts,2,2
+08.10.2022 12:00,Dundee Utd,Aberdeen,4,0
+08.10.2022 09:00,Hibernian,Motherwell,1,0
+08.10.2022 09:00,Livingston,Ross County,0,1
+08.10.2022 09:00,Rangers,St. Mirren,4,0
+08.10.2022 06:30,St. Johnstone,Celtic,1,2
+05.10.2022 13:45,Kilmarnock,St. Johnstone,2,1
+04.10.2022 13:45,Ross County,Motherwell,0,5
+01.10.2022 09:00,Aberdeen,Kilmarnock,4,1
+01.10.2022 09:00,Celtic,Motherwell,2,1
+01.10.2022 09:00,Dundee Utd,St. Johnstone,1,2
+01.10.2022 09:00,Ross County,Hibernian,0,2
+01.10.2022 09:00,St. Mirren,Livingston,2,1
+01.10.2022 06:30,Hearts,Rangers,0,4
+18.09.2022 09:00,Motherwell,Hearts,0,3
+18.09.2022 06:00,St. Mirren,Celtic,2,0
+17.09.2022 09:00,Hibernian,Aberdeen,3,1
+17.09.2022 09:00,Livingston,Kilmarnock,1,0
+17.09.2022 09:00,Rangers,Dundee Utd,2,1
+17.09.2022 09:00,St. Johnstone,Ross County,0,0
+03.09.2022 09:00,Hibernian,Kilmarnock,1,0
+03.09.2022 09:00,Livingston,Hearts,1,0
+03.09.2022 09:00,Motherwell,Dundee Utd,0,0
+03.09.2022 09:00,Ross County,Aberdeen,1,1
+03.09.2022 09:00,St. Johnstone,St. Mirren,3,0
+03.09.2022 06:30,Celtic,Rangers,4,0
+28.08.2022 09:00,Hearts,St. Johnstone,3,2
+28.08.2022 06:00,Dundee Utd,Celtic,0,9
+27.08.2022 09:00,Aberdeen,Livingston,5,0
+27.08.2022 09:00,Kilmarnock,Motherwell,2,1
+27.08.2022 09:00,Rangers,Ross County,4,0
+27.08.2022 09:00,St. Mirren,Hibernian,1,0
+21.08.2022 09:00,Celtic,Hearts,2,0
+20.08.2022 09:00,Dundee Utd,St. Mirren,0,3
+20.08.2022 09:00,Motherwell,Livingston,1,0
+20.08.2022 09:00,Ross County,Kilmarnock,1,0
+20.08.2022 09:00,St. Johnstone,Aberdeen,0,1
+20.08.2022 06:30,Hibernian,Rangers,2,2
+14.08.2022 09:00,Hearts,Dundee Utd,4,1
+14.08.2022 06:00,Kilmarnock,Celtic,0,5
+13.08.2022 09:00,Aberdeen,Motherwell,2,3
+13.08.2022 09:00,Livingston,Hibernian,2,1
+13.08.2022 09:00,Rangers,St. Johnstone,4,0
+13.08.2022 09:00,St. Mirren,Ross County,1,0
+07.08.2022 09:00,Dundee Utd,Livingston,0,1
+07.08.2022 06:00,Hibernian,Hearts,1,1
+06.08.2022 09:00,Aberdeen,St. Mirren,4,1
+06.08.2022 09:00,Motherwell,St. Johnstone,1,2
+06.08.2022 09:00,Rangers,Kilmarnock,2,0
+06.08.2022 09:00,Ross County,Celtic,1,3
+31.07.2022 10:30,Celtic,Aberdeen,2,0
+31.07.2022 09:00,St. Mirren,Motherwell,0,1
+30.07.2022 09:00,Hearts,Ross County,2,1
+30.07.2022 09:00,Kilmarnock,Dundee Utd,1,1
+30.07.2022 09:00,St. Johnstone,Hibernian,0,1
+30.07.2022 06:00,Livingston,Rangers,1,2

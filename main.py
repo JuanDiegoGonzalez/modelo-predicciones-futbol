@@ -66,19 +66,18 @@ def main(pais, liga, cant_omitir):
 #main("colombia", "primera-b", 154)  # 0 / 154
 
 
-main("alemania", "bundesliga", 0)
-main("austria", "bundesliga", 0)
-main("croacia", "hnl", 0)
-main("dinamarca", "superliga", 0)
-main("escocia", "premiership", 0)
-main("grecia", "superliga", 0)
+#main("alemania", "bundesliga", 0)
+#main("austria", "bundesliga", 0)
+#main("croacia", "hnl", 0)
+#main("dinamarca", "superliga", 0)
+#main("escocia", "premiership", 0)
+#main("grecia", "superliga", 0)
 main("polonia", "ekstraklasa", 0)
 main("republica-checa", "fortuna-liga", 0)
 main("rumania", "liga-1", 0)
 main("rusia", "premier-league", 0)
 main("suiza", "super-league", 0)
 main("ucrania", "premier-league", 0)
-
 
 
 main("alemania", "2-bundesliga", 0)
