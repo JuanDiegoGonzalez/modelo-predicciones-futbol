@@ -81,17 +81,20 @@ def upcoming_matches_scraper(link, output_file):
             lines_header[7].split(">")[-1])  # Home Team Name
         info_header.append(
             lines_header[15].split(">")[-1])  # Away Team Name
+        
+
 
         # Stats (averages)
         home_stats = home_averages[info_header[-2]]
-        print(info_header)
+        # print(info_header)
         away_stats = away_averages[info_header[-1]]
         info_stats = []
-        for j in range(len(nom_estadisticas)):
-            if j != 0:
-                info_stats.append([home_stats[j+1], nom_estadisticas[j], away_stats[j+1]])
-            else:
-                info_stats.append([home_stats[j+1] + "%", nom_estadisticas[j], away_stats[j+1] + "%"])
+        # print(nom_estadisticas)
+        # for j in range(len(nom_estadisticas)):
+        #     if j != 0:
+        #         info_stats.append([home_stats[j+1], nom_estadisticas[j], away_stats[j+1]])
+        #     else:
+        #         info_stats.append([home_stats[j+1] + "%", nom_estadisticas[j], away_stats[j+1] + "%"])
 
         # Escritura del archivo excel
         if len(season.split("/")) > 1:
@@ -152,7 +155,7 @@ def upcoming_matches_scraper(link, output_file):
         completados += 1
         print("Partido " + str(completados) + " de " + str(total) + ":")
         print(info_header[-2] + " vs " + info_header[-1])
-        print(info_stats)
+        # print(info_stats)
         print()
 
     # Elimina la hoja por defecto

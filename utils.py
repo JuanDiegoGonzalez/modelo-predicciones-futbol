@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from selenium.common.exceptions import TimeoutException
 
 # Constantes
-nom_estadisticas = ['Posesión de balón', 'Remates', 'Remates a puerta', 'Remates fuera', 'Remates rechazados',
+nom_estadisticas = ['Goles esperados (xG)','Posesión de balón', 'Remates', 'Remates a puerta', 'Remates fuera', 'Remates rechazados',
                     'Tiros libres', 'Córneres', 'Fueras de juego', 'Saques de banda', 'Paradas', 'Faltas',
                     'Tarjetas rojas', 'Tarjetas amarillas', 'Pases totales', 'Pases completados', 'Tackles',
                     'Ataques', 'Ataques peligrosos']
@@ -15,7 +15,9 @@ titulos_estadisticas = (
                     'HomeTeam',
                     'AwayTeam',
                     'HG',  # Home Goals
-                    'AG',  # Away Goals
+                    'AG',# Away Goals
+                    'HxG',
+                    'AxG',  
                     'HP',  # Home Possession
                     'AP',  # Away Possession
                     'HTS',  # Home Total Shots

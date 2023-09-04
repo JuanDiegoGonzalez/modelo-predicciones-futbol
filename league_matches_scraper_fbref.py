@@ -71,13 +71,16 @@ def league_matches_scraper_fbref(link,datosheader,datospp,num_partidos):
     html = statsfb.text
     soup = BeautifulSoup(html, features="html.parser")
     statsfb_pro= str(soup).split("<div id='team_stats_extra'>")[0].split("<div>")[0].split("\n")
-    # print(statsfb_pro)
+    print(statsfb_pro)
     home= statsfb_pro[0]
     away= statsfb_pro[1]
     statsHome= []
     statsAway = []
     statsMatch = [fecha,home,away]
+    if len(statsfb_pro)==37:
+        statsfb_pro.insert(31,"0")
     for i in range(2,len(statsfb_pro),3):
+        print(i)
         statsHome.append(statsfb_pro[i])
         statsMatch.append(statsfb_pro[i])
         statsAway.append(statsfb_pro[i+2])
@@ -141,9 +144,12 @@ def league_matches_scraper_fbref(link,datosheader,datospp,num_partidos):
     id_visitante=tablasPagina_nuevo[1].get_attribute("id").split("_")[-1]
     count=0
     for x in tablasPagina_nuevo:
+        id_act=x.get_attribute("id")
         headersTable = []
         primeras_etiquetas_columnas={}
         segundas_etiquetas_columnas=['Fecha','Equipo']
+        if ("shots" in id_act):
+            segundas_etiquetas_columnas=['Fecha']
         info_filas=[]
         for y in range(1,3):
             headersTable = browser.find_elements("xpath",'//div[@id="{}"][1]/table[1]/thead[1]/tr[{}]/th'.format(x.get_attribute("id"),y))
@@ -154,7 +160,6 @@ def league_matches_scraper_fbref(link,datosheader,datospp,num_partidos):
                     segundas_etiquetas_columnas.append(i.text)
         headersTable = browser.find_elements("xpath",'//div[@id="{}"][1]/table[1]/tbody[1]/tr'.format(x.get_attribute("id")))
 
-        id_act=x.get_attribute("id")
         nom_hoja=""
         if ("keeper" in id_act) or ("shots" in id_act):
             nom_hoja= "stats_"+ id_act.split('_')[1]
@@ -308,17 +313,30 @@ def recorrer_toda_una_liga(link_partidos):
     # prueba= browser.find_element("xpath",'//div[@class="table_container tabbed current is_setup"][1]/table[1]/tbody[1]/tr[@data-row="20"]/td[@data-stat="score"]/a')
     # print(prueba.get_attribute("href"))
 
-    partidos = browser.find_elements("xpath",'//div[@class="table_container tabbed current is_setup"]/table[1]/tbody[1]/tr')
-    print(len(partidos))
+    # partidos = browser.find_elements("xpath",'//div[@class="table_container tabbed current is_setup"]/table[1]/tbody[1]/tr')
+    html = browser.page_source
+    soup = BeautifulSoup(html, features="html.parser")
+    # print(str(soup).split('<tr data-row="')[5:10])
     lista_links_partidos=[]
-    for partido in partidos:
-        try:
-            link_partido= browser.find_element("xpath",'//div[@class="table_container tabbed current is_setup"][1]/table[1]/tbody[1]/tr[@data-row="{}"]/td[@data-stat="score"][1]'.format(partido.get_attribute("data-row")))
-            if (len(link_partido.text) > 0) and (not link_partido.text=="Marcador"):
-                link_partido_txt= browser.find_element("xpath",'//div[@class="table_container tabbed current is_setup"][1]/table[1]/tbody[1]/tr[@data-row="{}"]/td[@data-stat="score"]/a'.format(partido.get_attribute("data-row")))
-                lista_links_partidos.append(link_partido_txt.get_attribute("href"))
-        except:
-            print("No encontro a la fila"+str(partido.get_attribute("data-row")))
+    # print(str(soup.find_all(attrs={"data-stat": "match_report"})))
+    for link_mod in soup.find_all(attrs={"data-stat": "match_report"}):
+        for link_mod_ch in link_mod.find_all("a"):
+            if "stathead/matchup/teams" in link_mod_ch.get("href") or link_mod_ch.get("href") == "None":
+                continue
+            else:
+                lista_links_partidos.append("https://fbref.com/"+str(link_mod_ch.get("href")))
+    
+    # print(len(partidos))
+    
+    # for partido in partidos:
+    #     try:
+    #         link_partido= partido.find_element("xpath",'//tr[@data-row="{}"]/td[@data-stat="score"][1]'.format(partido.get_attribute("data-row")))
+    #         # print(len(link_partido.text))
+    #         if (len(link_partido.text) > 0) and (not (link_partido.text=="Marcador")):
+    #             link_partido_txt= link_partido.find_element("xpath",'//a'.format(partido.get_attribute("data-row")))
+    #             lista_links_partidos.append(link_partido_txt.get_property("href"))
+    #     except:
+    #         print("No encontro a la fila"+str(partido.get_attribute("data-row")))
     datos_header_partidos={}
     nombres_hoja_partidos=["match_stats","stats_keeper","stats_summary","stats_shots","stats_passing","stats_passing_types","stats_defense","stats_possession","stats_misc"]
     datos_por_partido={}
@@ -326,28 +344,10 @@ def recorrer_toda_una_liga(link_partidos):
         nuevo_array=[]
         datos_por_partido[nombre]=nuevo_array
     num_partidos = 0
-    print(len(lista_links_partidos))
-#     partidos_no_encontrados = ["https://fbref.com/es/partidos/b3c6f709/Liverpool-Crystal-Palace-Agosto-15-2022-Premier-League"
-# ,"https://fbref.com/es/partidos/15d62d04/Wolverhampton-Wanderers-Newcastle-United-Agosto-28-2022-Premier-League"
-# ,"https://fbref.com/es/partidos/d7642197/Chelsea-West-Ham-United-Septiembre-3-2022-Premier-League"
-# ,"https://fbref.com/es/partidos/886e6108/Manchester-Derby-Manchester-City-Manchester-United-Octubre-2-2022-Premier-League"
-# ,"https://fbref.com/es/partidos/7113ce7f/Aston-Villa-Chelsea-Octubre-16-2022-Premier-League"
-# ,"https://fbref.com/es/partidos/8774e664/Wolverhampton-Wanderers-Leicester-City-Octubre-23-2022-Premier-League"
-# , "https://fbref.com/es/partidos/982d16a2/Wolverhampton-Wanderers-Brighton-and-Hove-Albion-Noviembre-5-2022-Premier-League"
-# , "https://fbref.com/es/partidos/8e186153/Leicester-City-Newcastle-United-Diciembre-26-2022-Premier-League"
-# , "https://fbref.com/es/partidos/af6aa183/Brentford-Liverpool-Enero-2-2023-Premier-League"
-# , "https://fbref.com/es/partidos/f93d11e7/Newcastle-United-Fulham-Enero-15-2023-Premier-League"
-# , "https://fbref.com/es/partidos/d67a16c8/Wolverhampton-Wanderers-Liverpool-Febrero-4-2023-Premier-League"
-# , "https://fbref.com/es/partidos/8eff71b5/Tottenham-Hotspur-Chelsea-Febrero-26-2023-Premier-League"
-# , "https://fbref.com/es/partidos/d065f9cd/Tottenham-Hotspur-Nottingham-Forest-Marzo-11-2023-Premier-League"
-# , "https://fbref.com/es/partidos/c14b278c/Nottingham-Forest-Wolverhampton-Wanderers-Abril-1-2023-Premier-League"
-# , "https://fbref.com/es/partidos/0ba42648/Fulham-West-Ham-United-Abril-8-2023-Premier-League "
-# ,"https://fbref.com/es/partidos/12efc7dd/Arsenal-Southampton-Abril-21-2023-Premier-League"
-# , "https://fbref.com/es/partidos/4ec72d3b/Crystal-Palace-West-Ham-United-Abril-29-2023-Premier-League"
-# , "https://fbref.com/es/partidos/9bb3a778/Newcastle-United-Arsenal-Mayo-7-2023-Premier-League"
-# , "https://fbref.com/es/partidos/844f2c37/Fulham-Crystal-Palace-Mayo-20-2023-Premier-League"]
-    for link in lista_links_partidos[340:]:
-        print(link)
+    print("Total de partidos a scrappear",len(lista_links_partidos))
+
+    for link in lista_links_partidos[168:]:
+        print("Scrappeando el partido : "+link)
         try:
             retorno=league_matches_scraper_fbref(link,datos_header_partidos,datos_por_partido,num_partidos)
             datos_header_partidos,datos_por_partido,num_partidos = retorno[0],retorno[1],retorno[2] 
@@ -355,10 +355,10 @@ def recorrer_toda_una_liga(link_partidos):
         except:
             print("No se pudo scrappear correctamente el partido: "+link)
         # print(datos_por_partido['stats_keeper'])
-        if (num_partidos%20 == 0) or (num_partidos%10 == 0)  or (num_partidos == len(lista_links_partidos)) or link=="":
+        if (num_partidos%10 == 0) and (num_partidos <= 380):
             for nombre in nombres_hoja_partidos:
                 partido= link.split("/")[-1]
-                guardar_info_archivo(nombre,f"./data/pruebas/data_fbref_LaLiga_"+str(num_partidos)+"_partidos_"+str(partido)+".xlsx",datos_header_partidos[nombre],datos_por_partido[nombre])
+                guardar_info_archivo(nombre,f"./data/pruebas/data_fbref_"+str(num_partidos)+"_partidos_"+str(partido)+".xlsx",datos_header_partidos[nombre],datos_por_partido[nombre])
             datos_header_partidos={}
             nombres_hoja_partidos=["match_stats","stats_keeper","stats_summary","stats_shots","stats_passing","stats_passing_types","stats_defense","stats_possession","stats_misc"]
             datos_por_partido={}
@@ -366,27 +366,13 @@ def recorrer_toda_una_liga(link_partidos):
                 nuevo_array=[]
                 datos_por_partido[nombre]=nuevo_array
     
-    # for link in partidos_no_encontrados:
-    #     print(link)
-    #     try:
-    #         retorno=league_matches_scraper_fbref(link,datos_header_partidos,datos_por_partido,num_partidos)
-    #         datos_header_partidos,datos_por_partido,num_partidos = retorno[0],retorno[1],retorno[2] 
-    #         print("Número de partidos scrappeados: "+str(num_partidos))
-    #     except:
-    #         print("No se pudo scrappear correctamente el partido: "+link)
-    #     # print(datos_por_partido['stats_keeper'])
-    #     if (num_partidos%19 == 0) or (num_partidos == len(lista_links_partidos)):
-    #         for nombre in nombres_hoja_partidos:
-    #             partido= link.split("/")[-1]
-    #             guardar_info_archivo(nombre,f"./data/pruebas/data_fbref_Premier_League_"+str(num_partidos)+"_partidos_"+str(partido)+".xlsx",datos_header_partidos[nombre],datos_por_partido[nombre])
-    #         datos_header_partidos={}
-    #         nombres_hoja_partidos=["match_stats","stats_keeper","stats_summary","stats_shots","stats_passing","stats_passing_types","stats_defense","stats_possession","stats_misc"]
-    #         datos_por_partido={}
-    #         for nombre in nombres_hoja_partidos:
-    #             nuevo_array=[]
-    #             datos_por_partido[nombre]=nuevo_array
+    if len(datos_por_partido["match_stats"])>0:
+        for nombre in nombres_hoja_partidos:
+            partido= link.split("/")[-1]
+            guardar_info_archivo(nombre,f"./data/pruebas/data_fbref_"+str(num_partidos)+"_partidos_"+str(partido)+".xlsx",datos_header_partidos[nombre],datos_por_partido[nombre])    
+
     browser.quit() 
 
 
 # league_matches_scraper_fbref("","")
-recorrer_toda_una_liga("https://fbref.com/es/comps/12/horario/Resultados-y-partidos-en-La-Liga")
+recorrer_toda_una_liga("https://fbref.com/es/comps/24/horario/Resultados-y-partidos-en-Serie-A")

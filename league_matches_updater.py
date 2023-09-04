@@ -193,3 +193,5 @@ def league_matches_updater(link, previous_file, output_file):
 #    output_file_init = f'data/data_matches_mismarcadores_half{version_init}.xlsx'
 #    for linea in archivo:
 #        league_matches_scraper(linea, output_file_init)
+
+# league_matches_updater("https://www.flashscore.co/futbol/brasil/brasileirao-serie-a/resultados/",)

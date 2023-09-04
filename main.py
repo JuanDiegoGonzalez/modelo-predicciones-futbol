@@ -7,6 +7,7 @@ from upcoming_matches_scraper import upcoming_matches_scraper
 
 def main(pais, liga, cant_omitir):
     # Lectura de parámetros
+    print("ESTOY EN EL MAIN ANTIGUO")
     link_liga = "https://www.flashscore.co/futbol/{}/{}/".format(pais, liga)
 
     # Lectura de versión
@@ -49,4 +50,5 @@ def main(pais, liga, cant_omitir):
 #main("paises-bajos", "eredivisie", 0)
 #main("portugal", "liga-portugal", 0)
 #main("turquia", "super-lig", 0)
-main("colombia", "primera-a", 0)
+# main("colombia", "primera-a", 0)
+main("brasil", "brasileirao-serie-a", 0)
