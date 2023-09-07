@@ -1,0 +1,241 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+17.06.2023 10:30,Zrinski Jurjev,,ac,-
+10.06.2023 10:30,Kustosija,Zrinski Jurjevac,2,1
+03.06.2023 10:30,Croatia Zmijavci,Solin,3,0
+03.06.2023 10:30,Kustosija,Dubrava,0,1
+03.06.2023 10:30,Orijent,Dragovoljac,2,2
+03.06.2023 09:00,Bijelo Brdo,Dugopolje,3,1
+02.06.2023 10:30,Rudes,Vukovar 1991,1,2
+02.06.2023 08:30,Jarun,Cibalia,2,1
+28.05.2023 10:30,Solin,Jarun,2,2
+28.05.2023 08:00,Cibalia,Rudes,1,1
+27.05.2023 10:30,Dubrava,Croatia Zmijavci,1,0
+27.05.2023 10:30,Vukovar 1991,Orijent,2,0
+27.05.2023 07:30,Dugopolje,Kustosija,2,0
+26.05.2023 09:00,Dragovoljac,Bijelo Brdo,0,2
+22.05.2023 10:00,Kustosija,Dragovoljac,3,0
+21.05.2023 10:30,Croatia Zmijavci,Dugopolje,1,2
+21.05.2023 08:00,Jarun,Dubrava,1,0
+20.05.2023 10:30,Rudes,Solin,1,2
+20.05.2023 10:30,Vukovar 1991,Cibalia,1,1
+20.05.2023 09:00,Orijent,Bijelo Brdo,0,1
+15.05.2023 10:00,Solin,Vukovar 1991,2,5
+13.05.2023 10:30,Bijelo Brdo,Kustosija,1,0
+13.05.2023 10:30,Cibalia,Orijent,3,2
+13.05.2023 08:00,Dubrava,Rudes,0,4
+12.05.2023 10:30,Dragovoljac,Croatia Zmijavci,2,2
+12.05.2023 09:00,Dugopolje,Jarun,1,0
+07.05.2023 10:00,Croatia Zmijavci,Bijelo Brdo,2,0
+06.05.2023 10:00,Rudes,Dugopolje,1,1
+06.05.2023 10:00,Vukovar 1991,Dubrava,1,1
+06.05.2023 08:00,Cibalia,Solin,3,1
+06.05.2023 06:00,Jarun,Dragovoljac,3,2
+05.05.2023 09:00,Orijent,Kustosija,2,0
+01.05.2023 08:00,Solin,Orijent,3,3
+29.04.2023 10:00,Bijelo Brdo,Jarun,1,2
+29.04.2023 10:00,Dugopolje,Vukovar 1991,0,1
+29.04.2023 09:00,Kustosija,Croatia Zmijavci,1,2
+28.04.2023 10:00,Dubrava,Cibalia,2,0
+28.04.2023 08:00,Dragovoljac,Rudes,2,2
+24.04.2023 10:00,Jarun,Kustosija,2,1
+23.04.2023 06:00,Solin,Dubrava,4,0
+22.04.2023 10:00,Cibalia,Dugopolje,0,0
+22.04.2023 10:00,Orijent,Croatia Zmijavci,2,0
+22.04.2023 10:00,Vukovar 1991,Dragovoljac,3,1
+22.04.2023 08:00,Rudes,Bijelo Brdo,1,0
+17.04.2023 09:30,Dubrava,Orijent,0,3
+16.04.2023 09:30,Croatia Zmijavci,Jarun,1,0
+16.04.2023 09:30,Dugopolje,Solin,0,4
+15.04.2023 09:30,Bijelo Brdo,Vukovar 1991,2,1
+15.04.2023 08:00,Dragovoljac,Cibalia,0,2
+14.04.2023 08:30,Kustosija,Rudes,2,1
+08.04.2023 09:30,Orijent,Jarun,4,0
+08.04.2023 09:30,Rudes,Croatia Zmijavci,4,1
+08.04.2023 09:30,Solin,Dragovoljac,3,0
+07.04.2023 07:00,Vukovar 1991,Kustosija,2,0
+06.04.2023 09:30,Cibalia,Bijelo Brdo,0,0
+06.04.2023 07:30,Dubrava,Dugopolje,1,1
+03.04.2023 09:30,Jarun,Rudes,0,1
+02.04.2023 09:30,Croatia Zmijavci,Vukovar 1991,2,1
+01.04.2023 09:30,Bijelo Brdo,Solin,6,0
+01.04.2023 08:00,Dugopolje,Orijent,2,2
+31.03.2023 09:30,Dragovoljac,Dubrava,0,1
+31.03.2023 09:00,Kustosija,Cibalia,1,1
+26.03.2023 09:30,Dugopolje,Dragovoljac,1,2
+26.03.2023 09:30,Solin,Kustosija,0,1
+26.03.2023 09:00,Rudes,Orijent,3,1
+25.03.2023 09:30,Dubrava,Bijelo Brdo,1,2
+25.03.2023 09:00,Vukovar 1991,Jarun,4,1
+24.03.2023 09:30,Cibalia,Croatia Zmijavci,0,0
+19.03.2023 07:00,Jarun,Dragovoljac,1,5
+19.03.2023 07:00,Solin,Dugopolje,1,1
+18.03.2023 09:30,Bijelo Brdo,Kustosija,0,1
+18.03.2023 09:30,Dubrava,Rudes,1,1
+18.03.2023 08:00,Orijent,Vukovar 1991,0,0
+17.03.2023 09:00,Cibalia,Croatia Zmijavci,0,0
+13.03.2023 09:30,Kustosija,Jarun,1,2
+12.03.2023 09:30,Croatia Zmijavci,Bijelo Brdo,2,0
+12.03.2023 07:00,Rudes,Orijent,1,0
+11.03.2023 09:30,Dugopolje,Cibalia,0,2
+11.03.2023 09:30,Vukovar 1991,Solin,4,0
+11.03.2023 08:00,Dragovoljac,Dubrava,1,1
+08.03.2023 09:30,Kustosija,Orijent,0,0
+08.03.2023 08:00,Croatia Zmijavci,Dubrava,2,0
+05.03.2023 07:00,Vukovar 1991,Rudes,2,0
+04.03.2023 09:30,Bijelo Brdo,Dugopolje,1,1
+04.03.2023 09:30,Orijent,Dragovoljac,2,0
+04.03.2023 09:30,Solin,Cibalia,0,1
+04.03.2023 06:00,Jarun,Croatia Zmijavci,2,1
+03.03.2023 09:00,Dubrava,Kustosija,5,2
+25.02.2023 09:00,Cibalia,Bijelo Brdo,4,0
+25.02.2023 09:00,Dugopolje,Jarun,0,0
+25.02.2023 08:00,Rudes,Solin,2,0
+24.02.2023 09:00,Dragovoljac,Vukovar 1991,0,1
+19.02.2023 07:00,Dubrava,Dugopolje,2,0
+18.02.2023 08:30,Orijent,Croatia Zmijavci,0,0
+18.02.2023 08:30,Rudes,Dragovoljac,3,0
+18.02.2023 08:30,Vukovar 1991,Kustosija,3,0
+18.02.2023 07:00,Solin,Bijelo Brdo,0,3
+17.02.2023 09:00,Jarun,Cibalia,0,0
+12.02.2023 08:30,Croatia Zmijavci,Vukovar 1991,1,2
+11.02.2023 08:30,Dugopolje,Orijent,1,1
+03.12.2022 07:30,Bijelo Brdo,Jarun,2,1
+03.12.2022 07:30,Cibalia,Dubrava,1,0
+02.12.2022 07:30,Dragovoljac,Solin,3,3
+02.12.2022 07:00,Kustosija,Rudes,0,2
+26.11.2022 07:30,Dragovoljac,Kustosija,2,3
+26.11.2022 07:30,Dubrava,Bijelo Brdo,0,1
+26.11.2022 07:30,Rudes,Croatia Zmijavci,3,1
+26.11.2022 07:30,Solin,Jarun,2,0
+26.11.2022 07:30,Vukovar 1991,Dugopolje,0,0
+26.11.2022 07:00,Orijent,Cibalia,3,1
+19.11.2022 07:30,Bijelo Brdo,Orijent,0,0
+19.11.2022 07:30,Cibalia,Vukovar 1991,2,2
+19.11.2022 07:30,Dugopolje,Rudes,0,0
+19.11.2022 07:30,Jarun,Dubrava,3,2
+19.11.2022 07:00,Croatia Zmijavci,Dragovoljac,3,1
+18.11.2022 07:30,Kustosija,Solin,2,3
+12.11.2022 08:00,Dragovoljac,Dugopolje,1,1
+12.11.2022 08:00,Orijent,Jarun,4,3
+12.11.2022 08:00,Solin,Dubrava,0,2
+12.11.2022 08:00,Vukovar 1991,Bijelo Brdo,1,1
+12.11.2022 07:00,Rudes,Cibalia,4,0
+11.11.2022 08:00,Kustosija,Croatia Zmijavci,2,1
+06.11.2022 08:00,Croatia Zmijavci,Solin,0,1
+05.11.2022 08:00,Bijelo Brdo,Rudes,0,1
+05.11.2022 08:00,Cibalia,Dragovoljac,2,1
+05.11.2022 08:00,Dugopolje,Kustosija,1,0
+05.11.2022 08:00,Jarun,Vukovar 1991,2,4
+05.11.2022 07:00,Dubrava,Orijent,5,0
+30.10.2022 08:00,Croatia Zmijavci,Dugopolje,0,2
+29.10.2022 08:00,Solin,Orijent,2,1
+29.10.2022 08:00,Vukovar 1991,Dubrava,1,0
+29.10.2022 06:00,Rudes,Jarun,3,0
+28.10.2022 08:00,Dragovoljac,Bijelo Brdo,1,0
+28.10.2022 08:00,Kustosija,Cibalia,2,2
+23.10.2022 08:00,Croatia Zmijavci,Cibalia,0,2
+22.10.2022 08:00,Kustosija,Bijelo Brdo,5,2
+22.10.2022 08:00,Rudes,Dubrava,1,1
+22.10.2022 08:00,Vukovar 1991,Orijent,4,0
+22.10.2022 06:00,Dugopolje,Solin,1,0
+21.10.2022 08:00,Dragovoljac,Jarun,0,0
+16.10.2022 06:00,Bijelo Brdo,Croatia Zmijavci,4,0
+15.10.2022 08:00,Cibalia,Dugopolje,1,1
+15.10.2022 08:00,Dubrava,Dragovoljac,1,0
+15.10.2022 08:00,Jarun,Kustosija,3,0
+15.10.2022 08:00,Orijent,Rudes,1,2
+15.10.2022 08:00,Solin,Vukovar 1991,1,0
+10.10.2022 08:00,Dugopolje,Bijelo Brdo,2,1
+09.10.2022 08:00,Croatia Zmijavci,Jarun,2,1
+08.10.2022 08:00,Cibalia,Solin,0,0
+08.10.2022 08:00,Rudes,Vukovar 1991,2,2
+07.10.2022 08:00,Dragovoljac,Orijent,1,2
+07.10.2022 08:00,Kustosija,Dubrava,1,0
+02.10.2022 08:30,Solin,Rudes,1,0
+01.10.2022 08:30,Bijelo Brdo,Cibalia,0,0
+01.10.2022 08:30,Jarun,Dugopolje,2,0
+01.10.2022 08:30,Vukovar 1991,Dragovoljac,1,1
+01.10.2022 07:50,Dubrava,Croatia Zmijavci,2,1
+30.09.2022 08:30,Orijent,Kustosija,1,0
+25.09.2022 09:00,Croatia Zmijavci,Orijent,2,2
+24.09.2022 09:00,Bijelo Brdo,Solin,2,1
+24.09.2022 09:00,Cibalia,Jarun,1,0
+24.09.2022 09:00,Dragovoljac,Rudes,0,3
+24.09.2022 09:00,Dugopolje,Dubrava,1,1
+22.09.2022 09:00,Kustosija,Vukovar 1991,0,0
+18.09.2022 09:30,Jarun,Bijelo Brdo,3,2
+18.09.2022 09:30,Rudes,Kustosija,1,0
+18.09.2022 05:55,Dubrava,Cibalia,0,2
+17.09.2022 09:30,Orijent,Dugopolje,2,1
+17.09.2022 09:30,Solin,Dragovoljac,3,1
+17.09.2022 09:30,Vukovar 1991,Croatia Zmijavci,0,1
+11.09.2022 09:30,Croatia Zmijavci,Rudes,2,1
+10.09.2022 09:30,Bijelo Brdo,Dubrava,1,1
+10.09.2022 09:30,Cibalia,Orijent,1,0
+10.09.2022 09:30,Jarun,Solin,2,1
+10.09.2022 08:55,Dugopolje,Vukovar 1991,1,1
+09.09.2022 09:30,Kustosija,Dragovoljac,2,0
+03.09.2022 09:30,Dubrava,Jarun,0,1
+03.09.2022 09:30,Orijent,Bijelo Brdo,0,0
+03.09.2022 09:30,Rudes,Dugopolje,1,0
+03.09.2022 09:30,Solin,Kustosija,1,1
+03.09.2022 09:30,Vukovar 1991,Cibalia,1,0
+02.09.2022 09:30,Dragovoljac,Croatia Zmijavci,1,1
+28.08.2022 10:00,Croatia Zmijavci,Kustosija,1,1
+28.08.2022 10:00,Jarun,Orijent,2,2
+27.08.2022 10:00,Bijelo Brdo,Vukovar 1991,1,1
+27.08.2022 10:00,Dubrava,Solin,4,1
+27.08.2022 10:00,Dugopolje,Dragovoljac,1,0
+27.08.2022 09:55,Cibalia,Rudes,1,0
+20.08.2022 10:30,Orijent,Dubrava,2,2
+20.08.2022 10:30,Rudes,Bijelo Brdo,2,1
+20.08.2022 10:30,Solin,Croatia Zmijavci,4,0
+20.08.2022 10:30,Vukovar 1991,Jarun,4,1
+19.08.2022 10:30,Dragovoljac,Cibalia,0,0
+19.08.2022 10:30,Kustosija,Dugopolje,1,4
+14.08.2022 09:55,Jarun,Rudes,1,3
+13.08.2022 10:30,Bijelo Brdo,Dragovoljac,1,2
+13.08.2022 10:30,Cibalia,Kustosija,2,2
+13.08.2022 10:30,Dubrava,Vukovar 1991,0,0
+13.08.2022 10:30,Dugopolje,Croatia Zmijavci,0,2
+13.08.2022 10:30,Orijent,Solin,1,1

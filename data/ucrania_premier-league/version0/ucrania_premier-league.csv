@@ -1,0 +1,285 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+14.06.2023 07:00,LNZ Cherka,,sy,-
+14.06.2023 05:00,Veres-Riv,,ne,-
+10.06.2023 09:00,Inhulets,LNZ Cherkasy,1,1
+10.06.2023 09:00,MFC Metalurh,Veres-Rivne,1,0
+04.06.2023 07:00,Dnipro-1,Kryvbas,1,0
+04.06.2023 07:00,Kolos Kovalivka,Lviv,1,0
+04.06.2023 07:00,Metalist 1925,Dinamo Kiev,1,1
+04.06.2023 07:00,Metalist Kharkiv,Ch. Odessa,0,3
+04.06.2023 07:00,Minaj,Zorya,3,0
+04.06.2023 07:00,Rukh Lviv,Oleksandriya,0,0
+04.06.2023 07:00,Veres-Rivne,Inhulets,1,0
+04.06.2023 07:00,Vorskla,Shakhtar,2,1
+29.05.2023 07:00,Ch. Odessa,Rukh Lviv,1,3
+29.05.2023 07:00,Dinamo Kiev,Veres-Rivne,3,0
+29.05.2023 07:00,Lviv,Inhulets,0,2
+29.05.2023 07:00,Metalist 1925,Kryvbas,0,2
+29.05.2023 07:00,Metalist Kharkiv,Minaj,1,2
+29.05.2023 07:00,Vorskla,Kolos Kovalivka,2,0
+28.05.2023 07:00,Oleksandriya,Zorya,0,2
+28.05.2023 07:00,Shakhtar,Dnipro-1,3,0
+25.05.2023 07:00,Kryvbas,Metalist Kharkiv,2,0
+25.05.2023 06:00,Inhulets,Metalist 1925,0,0
+25.05.2023 06:00,Lviv,Ch. Odessa,0,1
+25.05.2023 05:00,Minaj,Rukh Lviv,0,0
+24.05.2023 09:00,Zorya,Shakhtar,0,3
+24.05.2023 07:00,Veres-Rivne,Oleksandriya,2,2
+24.05.2023 05:00,Dnipro-1,Vorskla,1,2
+24.05.2023 05:00,Kolos Kovalivka,Dinamo Kiev,0,3
+21.05.2023 09:00,Rukh Lviv,Lviv,2,0
+21.05.2023 07:00,Metalist 1925,Metalist Kharkiv,2,0
+20.05.2023 07:00,Oleksandriya,Dinamo Kiev,1,5
+20.05.2023 06:00,Zorya,Inhulets,2,0
+20.05.2023 05:00,Ch. Odessa,Minaj,0,1
+19.05.2023 09:00,Shakhtar,Veres-Rivne,2,1
+19.05.2023 07:00,Vorskla,Kryvbas,1,0
+19.05.2023 06:00,Dnipro-1,Kolos Kovalivka,2,1
+15.05.2023 07:00,Kolos Kovalivka,Oleksandriya,0,2
+15.05.2023 05:00,Minaj,Dnipro-1,0,1
+14.05.2023 07:00,Kryvbas,Rukh Lviv,1,0
+14.05.2023 06:00,Veres-Rivne,Metalist 1925,1,0
+14.05.2023 05:00,Lviv,Vorskla,0,2
+14.05.2023 05:00,Metalist Kharkiv,Zorya,0,5
+13.05.2023 09:00,Inhulets,Shakhtar,0,2
+13.05.2023 06:00,Dinamo Kiev,Ch. Odessa,2,3
+11.05.2023 05:00,Dnipro-1,Oleksandriya,1,1
+08.05.2023 09:00,Zorya,Metalist 1925,3,0
+08.05.2023 07:00,Rukh Lviv,Inhulets,3,0
+08.05.2023 07:00,Veres-Rivne,Kolos Kovalivka,0,1
+08.05.2023 06:00,Minaj,Vorskla,2,0
+08.05.2023 05:00,Kryvbas,Dinamo Kiev,0,1
+07.05.2023 07:00,Oleksandriya,Shakhtar,1,1
+07.05.2023 05:00,Ch. Odessa,Dnipro-1,1,2
+07.05.2023 05:00,Metalist Kharkiv,Lviv,1,0
+04.05.2023 07:00,Vorskla,Dinamo Kiev,1,2
+04.05.2023 05:00,Inhulets,Kryvbas,0,0
+04.05.2023 05:00,Metalist 1925,Rukh Lviv,0,0
+03.05.2023 07:00,Ch. Odessa,Kolos Kovalivka,3,0
+03.05.2023 07:00,Zorya,Veres-Rivne,1,0
+03.05.2023 06:00,Lviv,Oleksandriya,0,1
+03.05.2023 05:00,Dnipro-1,Metalist Kharkiv,5,0
+03.05.2023 05:00,Shakhtar,Minaj,1,0
+29.04.2023 07:00,Kryvbas,Oleksandriya,2,1
+29.04.2023 07:00,Rukh Lviv,Vorskla,1,1
+29.04.2023 06:00,Inhulets,Dnipro-1,0,2
+29.04.2023 05:00,Minaj,Metalist 1925,1,1
+29.04.2023 05:00,Zorya,Ch. Odessa,3,1
+28.04.2023 07:00,Kolos Kovalivka,Shakhtar,1,3
+28.04.2023 05:00,Metalist Kharkiv,Dinamo Kiev,1,3
+28.04.2023 05:00,Veres-Rivne,Lviv,3,2
+24.04.2023 07:00,Oleksandriya,Inhulets,0,0
+24.04.2023 05:00,Dnipro-1,Rukh Lviv,3,2
+23.04.2023 07:00,Kryvbas,Ch. Odessa,2,3
+23.04.2023 05:00,Lviv,Metalist 1925,0,2
+22.04.2023 09:00,Dinamo Kiev,Shakhtar,1,1
+22.04.2023 07:00,Veres-Rivne,Minaj,1,1
+22.04.2023 05:00,Vorskla,Metalist Kharkiv,3,2
+21.04.2023 07:00,Kolos Kovalivka,Zorya,0,1
+19.04.2023 05:00,Inhulets,Rukh Lviv,1,0
+16.04.2023 07:00,Ch. Odessa,Vorskla,0,1
+16.04.2023 06:00,Shakhtar,Lviv,2,0
+15.04.2023 07:00,Metalist 1925,Oleksandriya,0,0
+15.04.2023 07:00,Zorya,Dnipro-1,2,1
+15.04.2023 05:00,Metalist Kharkiv,Veres-Rivne,5,5
+14.04.2023 07:00,Rukh Lviv,Dinamo Kiev,1,1
+14.04.2023 06:00,Inhulets,Kolos Kovalivka,0,1
+14.04.2023 05:00,Minaj,Kryvbas,1,0
+12.04.2023 06:00,Lviv,Shakhtar,1,2
+09.04.2023 07:00,Kolos Kovalivka,Metalist 1925,3,0
+09.04.2023 05:00,Dnipro-1,Lviv,5,2
+09.04.2023 05:00,Oleksandriya,Ch. Odessa,1,1
+08.04.2023 07:00,Rukh Lviv,Veres-Rivne,0,0
+08.04.2023 06:00,Shakhtar,Metalist Kharkiv,1,0
+08.04.2023 05:00,Dinamo Kiev,Minaj,2,0
+08.04.2023 05:00,Kryvbas,Zorya,1,0
+07.04.2023 07:00,Vorskla,Inhulets,1,0
+02.04.2023 07:00,Ch. Odessa,Shakhtar,2,2
+02.04.2023 07:00,Zorya,Rukh Lviv,3,0
+02.04.2023 06:00,Metalist 1925,Dnipro-1,0,3
+02.04.2023 05:00,Lviv,Dinamo Kiev,0,2
+01.04.2023 07:00,Oleksandriya,Vorskla,3,0
+01.04.2023 06:00,Veres-Rivne,Kryvbas,1,2
+01.04.2023 05:00,Metalist Kharkiv,Kolos Kovalivka,0,0
+01.04.2023 04:00,Minaj,Inhulets,1,2
+19.03.2023 08:00,Shakhtar,Rukh Lviv,2,0
+19.03.2023 07:00,Kolos Kovalivka,Minaj,0,1
+19.03.2023 06:00,Inhulets,Ch. Odessa,1,2
+18.03.2023 08:00,Veres-Rivne,Dnipro-1,0,1
+18.03.2023 07:00,Dinamo Kiev,Zorya,0,1
+18.03.2023 07:00,Lviv,Kryvbas,2,2
+18.03.2023 06:00,Vorskla,Metalist 1925,0,0
+17.03.2023 06:00,Metalist Kharkiv,Oleksandriya,0,0
+12.03.2023 08:00,Rukh Lviv,Kolos Kovalivka,0,1
+12.03.2023 07:00,Kryvbas,Shakhtar,0,3
+12.03.2023 06:00,Dnipro-1,Dinamo Kiev,0,1
+12.03.2023 06:00,Veres-Rivne,Vorskla,2,2
+11.03.2023 08:00,Ch. Odessa,Metalist 1925,1,1
+11.03.2023 07:00,Inhulets,Metalist Kharkiv,2,1
+11.03.2023 07:00,Zorya,Lviv,3,1
+11.03.2023 06:00,Minaj,Oleksandriya,1,1
+06.03.2023 06:00,Lviv,Minaj,1,0
+05.03.2023 07:00,Metalist 1925,Shakhtar,0,7
+05.03.2023 06:00,Metalist Kharkiv,Rukh Lviv,1,2
+05.03.2023 06:00,Vorskla,Zorya,2,3
+04.03.2023 07:00,Dinamo Kiev,Inhulets,0,2
+04.03.2023 07:00,Veres-Rivne,Ch. Odessa,1,3
+04.03.2023 05:00,Oleksandriya,Dnipro-1,2,2
+03.03.2023 06:00,Kryvbas,Kolos Kovalivka,1,0
+28.02.2023 08:00,Minaj,Shakhtar,1,4
+27.02.2023 06:00,Oleksandriya,Metalist 1925,3,3
+07.12.2022 06:00,Rukh Lviv,Ch. Odessa,2,2
+02.12.2022 06:00,Ch. Odessa,Kryvbas,0,1
+01.12.2022 06:00,Zorya,Kolos Kovalivka,2,2
+30.11.2022 07:00,Dinamo Kiev,Metalist Kharkiv,3,0
+28.11.2022 07:00,Kryvbas,Dnipro-1,2,1
+28.11.2022 06:00,Oleksandriya,Rukh Lviv,1,1
+27.11.2022 07:00,Zorya,Minaj,1,1
+27.11.2022 06:00,Lviv,Kolos Kovalivka,0,1
+26.11.2022 07:00,Dinamo Kiev,Metalist 1925,0,0
+26.11.2022 06:00,Inhulets,Veres-Rivne,1,0
+25.11.2022 06:00,Ch. Odessa,Metalist Kharkiv,0,0
+23.11.2022 07:00,Shakhtar,Vorskla,3,2
+21.11.2022 07:00,Veres-Rivne,Dinamo Kiev,0,1
+21.11.2022 05:00,Inhulets,Lviv,1,0
+20.11.2022 07:00,Kryvbas,Metalist 1925,0,2
+20.11.2022 05:00,Minaj,Metalist Kharkiv,1,0
+19.11.2022 07:00,Kolos Kovalivka,Vorskla,1,2
+19.11.2022 06:00,Dnipro-1,Shakhtar,2,1
+18.11.2022 06:00,Zorya,Oleksandriya,4,1
+17.11.2022 06:00,Inhulets,Dinamo Kiev,1,2
+14.11.2022 08:00,Rukh Lviv,Minaj,1,1
+14.11.2022 07:00,Ch. Odessa,Lviv,2,0
+14.11.2022 06:00,Metalist Kharkiv,Kryvbas,0,1
+13.11.2022 08:00,Dinamo Kiev,Kolos Kovalivka,0,0
+13.11.2022 08:00,Metalist 1925,Inhulets,2,1
+13.11.2022 08:00,Shakhtar,Zorya,2,2
+13.11.2022 06:00,Oleksandriya,Veres-Rivne,3,2
+13.11.2022 06:00,Vorskla,Dnipro-1,1,1
+10.11.2022 08:00,Dinamo Kiev,Oleksandriya,3,1
+10.11.2022 06:00,Lviv,Rukh Lviv,2,1
+10.11.2022 06:00,Minaj,Ch. Odessa,0,1
+09.11.2022 08:00,Veres-Rivne,Shakhtar,0,2
+09.11.2022 06:00,Kolos Kovalivka,Dnipro-1,1,3
+09.11.2022 06:00,Kryvbas,Vorskla,1,0
+08.11.2022 06:00,Inhulets,Zorya,1,0
+08.11.2022 06:00,Metalist Kharkiv,Metalist 1925,0,0
+06.11.2022 08:00,Ch. Odessa,Dinamo Kiev,0,3
+06.11.2022 08:00,Rukh Lviv,Kryvbas,2,1
+06.11.2022 06:00,Dnipro-1,Minaj,3,1
+05.11.2022 08:00,Metalist 1925,Veres-Rivne,1,4
+05.11.2022 08:00,Shakhtar,Inhulets,3,0
+05.11.2022 06:00,Oleksandriya,Kolos Kovalivka,4,1
+05.11.2022 06:00,Zorya,Metalist Kharkiv,3,2
+04.11.2022 06:00,Vorskla,Lviv,1,0
+31.10.2022 06:00,Kolos Kovalivka,Veres-Rivne,2,0
+30.10.2022 10:00,Dinamo Kiev,Kryvbas,3,1
+30.10.2022 06:00,Dnipro-1,Ch. Odessa,1,0
+30.10.2022 06:00,Lviv,Metalist Kharkiv,1,1
+29.10.2022 09:00,Shakhtar,Oleksandriya,2,2
+29.10.2022 05:00,Vorskla,Minaj,2,0
+28.10.2022 09:00,Metalist 1925,Zorya,0,3
+24.10.2022 07:00,Kolos Kovalivka,Ch. Odessa,1,1
+24.10.2022 05:00,Kryvbas,Inhulets,2,1
+23.10.2022 07:00,Rukh Lviv,Metalist 1925,1,1
+23.10.2022 05:00,Dinamo Kiev,Vorskla,1,1
+23.10.2022 05:00,Metalist Kharkiv,Dnipro-1,0,1
+23.10.2022 05:00,Veres-Rivne,Zorya,0,1
+22.10.2022 07:00,Oleksandriya,Lviv,2,0
+19.10.2022 09:00,Shakhtar,Kolos Kovalivka,3,0
+19.10.2022 07:00,Metalist 1925,Minaj,0,1
+19.10.2022 05:00,Dnipro-1,Inhulets,2,2
+19.10.2022 05:00,Vorskla,Rukh Lviv,0,1
+18.10.2022 07:00,Ch. Odessa,Zorya,0,4
+18.10.2022 07:00,Oleksandriya,Kryvbas,2,0
+18.10.2022 05:00,Lviv,Veres-Rivne,1,3
+16.10.2022 09:00,Shakhtar,Dinamo Kiev,3,1
+16.10.2022 07:00,Rukh Lviv,Dnipro-1,2,3
+15.10.2022 05:00,Metalist 1925,Lviv,2,2
+15.10.2022 05:00,Metalist Kharkiv,Vorskla,3,2
+14.10.2022 05:00,Minaj,Veres-Rivne,1,1
+09.10.2022 09:00,Dinamo Kiev,Rukh Lviv,3,0
+09.10.2022 07:00,Kryvbas,Minaj,0,0
+09.10.2022 05:00,Dnipro-1,Zorya,3,0
+08.10.2022 05:00,Vorskla,Ch. Odessa,2,1
+07.10.2022 09:00,Kolos Kovalivka,Inhulets,0,0
+07.10.2022 07:00,Veres-Rivne,Metalist Kharkiv,1,2
+02.10.2022 09:00,Zorya,Kryvbas,2,2
+02.10.2022 07:00,Ch. Odessa,Oleksandriya,1,2
+02.10.2022 05:00,Minaj,Dinamo Kiev,0,1
+01.10.2022 09:00,Metalist Kharkiv,Shakhtar,1,6
+01.10.2022 07:00,Lviv,Dnipro-1,0,3
+01.10.2022 05:00,Inhulets,Vorskla,0,1
+30.09.2022 09:00,Metalist 1925,Kolos Kovalivka,2,0
+30.09.2022 05:00,Veres-Rivne,Rukh Lviv,2,2
+25.09.2022 05:00,Minaj,Lviv,0,1
+12.09.2022 07:00,Inhulets,Minaj,1,2
+12.09.2022 05:00,Vorskla,Oleksandriya,0,0
+11.09.2022 09:00,Dinamo Kiev,Lviv,1,0
+11.09.2022 07:00,Kolos Kovalivka,Metalist Kharkiv,1,0
+11.09.2022 05:00,Dnipro-1,Metalist 1925,3,0
+10.09.2022 09:00,Shakhtar,Ch. Odessa,2,1
+10.09.2022 07:00,Kryvbas,Veres-Rivne,0,1
+09.09.2022 09:00,Rukh Lviv,Zorya,3,1
+05.09.2022 07:00,Oleksandriya,Metalist Kharkiv,1,3
+05.09.2022 05:00,Minaj,Kolos Kovalivka,1,1
+04.09.2022 09:00,Kryvbas,Lviv,0,0
+04.09.2022 07:00,Ch. Odessa,Inhulets,1,1
+03.09.2022 07:00,Metalist 1925,Vorskla,3,2
+03.09.2022 05:00,Dnipro-1,Veres-Rivne,2,0
+03.09.2022 05:00,Zorya,Dinamo Kiev,3,2
+02.09.2022 09:00,Rukh Lviv,Shakhtar,0,1
+29.08.2022 07:00,Oleksandriya,Minaj,2,1
+29.08.2022 05:00,Metalist Kharkiv,Inhulets,1,1
+28.08.2022 09:00,Dinamo Kiev,Dnipro-1,0,3
+28.08.2022 07:00,Shakhtar,Kryvbas,1,0
+28.08.2022 05:00,Kolos Kovalivka,Rukh Lviv,2,0
+27.08.2022 07:00,Metalist 1925,Ch. Odessa,0,0
+27.08.2022 05:00,Lviv,Zorya,2,3
+27.08.2022 05:00,Vorskla,Veres-Rivne,1,2
+25.08.2022 05:00,Inhulets,Oleksandriya,1,2
+24.08.2022 07:00,Rukh Lviv,Metalist Kharkiv,1,2
+23.08.2022 09:00,Kolos Kovalivka,Kryvbas,1,0
+23.08.2022 07:00,Ch. Odessa,Veres-Rivne,0,1
+23.08.2022 07:00,Zorya,Vorskla,3,1
+23.08.2022 05:00,Shakhtar,Metalist 1925,0,0

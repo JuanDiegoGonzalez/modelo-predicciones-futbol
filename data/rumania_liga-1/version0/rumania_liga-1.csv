@@ -1,0 +1,362 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+04.06.2023 13:00,UTA Ar,,ad,-
+03.06.2023 13:00,FC Arges,Dinamo Bucarest,4,2
+01.06.2023 12:30,CFR Cl,,uj,-
+29.05.2023 12:00,Dinamo Bucarest,FC Arges,6,1
+28.05.2023 13:00,CFR Cluj,Farul Constanta,1,2
+28.05.2023 13:00,Univ. Craiova,Sepsi Sf. Gheorghe,0,1
+28.05.2023 06:00,Gloria Buzau,UTA Arad,0,0
+27.05.2023 12:30,FCSB,Rapid Bucarest,1,5
+26.05.2023 12:00,U Craiova 19,,48,-
+22.05.2023 12:30,Rapid Bucarest,Univ. Craiova,2,3
+21.05.2023 13:00,Farul Constanta,FCSB,3,2
+20.05.2023 12:30,Sepsi Sf. Gheorghe,CFR Cluj,1,2
+20.05.2023 06:45,Botosani,Mioveni,5,1
+19.05.2023 12:00,Chindia Targoviste,FC Voluntari,2,2
+19.05.2023 12:00,FC Arges,Petrolul,3,0
+19.05.2023 12:00,UTA Arad,U Craiova 1948,1,1
+19.05.2023 09:30,FC Hermannstadt,U. Cluj,1,2
+14.05.2023 13:00,FCSB,CFR Cluj,1,0
+14.05.2023 10:15,U Craiova 1948,FC Arges,2,1
+14.05.2023 05:30,Mioveni,UTA Arad,0,2
+13.05.2023 13:30,Univ. Craiova,Farul Constanta,1,1
+13.05.2023 11:00,U. Cluj,Chindia Targoviste,2,0
+13.05.2023 06:30,Petrolul,FC Hermannstadt,0,1
+12.05.2023 12:30,Rapid Bucarest,Sepsi Sf. Gheorghe,0,0
+12.05.2023 09:30,FC Voluntari,Botosani,2,0
+08.05.2023 13:00,FCSB,Sepsi Sf. Gheorghe,3,1
+08.05.2023 10:30,FC Arges,UTA Arad,2,2
+08.05.2023 08:30,FC Hermannstadt,U Craiova 1948,0,0
+07.05.2023 13:00,CFR Cluj,Univ. Craiova,1,1
+06.05.2023 13:30,Farul Constanta,Rapid Bucarest,7,2
+06.05.2023 04:30,Botosani,U. Cluj,0,0
+05.05.2023 12:30,Chindia Targoviste,Petrolul,1,2
+05.05.2023 09:30,FC Voluntari,Mioveni,1,0
+02.05.2023 12:00,UTA Arad,FC Hermannstadt,1,0
+01.05.2023 12:30,Rapid Bucarest,CFR Cluj,3,1
+01.05.2023 07:00,U. Cluj,FC Voluntari,2,3
+30.04.2023 13:00,Univ. Craiova,FCSB,1,2
+29.04.2023 13:45,Sepsi Sf. Gheorghe,Farul Constanta,1,1
+29.04.2023 09:00,Petrolul,Botosani,1,0
+29.04.2023 06:30,Mioveni,FC Arges,0,2
+28.04.2023 12:30,U Craiova 1948,Chindia Targoviste,1,0
+24.04.2023 12:30,FC Voluntari,Petrolul,2,2
+24.04.2023 09:30,U. Cluj,Mioveni,1,0
+23.04.2023 12:30,Rapid Bucarest,FCSB,1,0
+23.04.2023 06:00,Chindia Targoviste,UTA Arad,2,1
+22.04.2023 12:30,Farul Constanta,CFR Cluj,1,0
+22.04.2023 09:30,Botosani,U Craiova 1948,0,0
+22.04.2023 07:00,FC Hermannstadt,FC Arges,2,1
+21.04.2023 12:30,Sepsi Sf. Gheorghe,Univ. Craiova,1,2
+17.04.2023 12:30,FCSB,Farul Constanta,2,1
+17.04.2023 09:30,FC Arges,Chindia Targoviste,1,0
+16.04.2023 13:00,Univ. Craiova,Rapid Bucarest,3,1
+16.04.2023 10:15,Petrolul,U. Cluj,0,2
+15.04.2023 11:00,CFR Cluj,Sepsi Sf. Gheorghe,2,1
+15.04.2023 04:00,Mioveni,FC Hermannstadt,0,2
+14.04.2023 13:00,UTA Arad,Botosani,0,2
+14.04.2023 10:00,U Craiova 1948,FC Voluntari,3,3
+10.04.2023 12:30,Sepsi Sf. Gheorghe,Rapid Bucarest,2,0
+10.04.2023 09:30,Petrolul,Mioveni,2,0
+09.04.2023 13:00,CFR Cluj,FCSB,1,1
+09.04.2023 07:30,Botosani,FC Arges,1,0
+09.04.2023 05:00,Chindia Targoviste,FC Hermannstadt,1,2
+08.04.2023 12:30,Farul Constanta,Univ. Craiova,3,2
+08.04.2023 09:30,U. Cluj,U Craiova 1948,1,3
+08.04.2023 07:00,FC Voluntari,UTA Arad,1,1
+03.04.2023 12:30,Sepsi Sf. Gheorghe,FCSB,1,2
+03.04.2023 09:30,Mioveni,Chindia Targoviste,0,1
+02.04.2023 13:00,Univ. Craiova,CFR Cluj,1,1
+02.04.2023 05:30,FC Arges,FC Voluntari,0,2
+01.04.2023 13:45,Rapid Bucarest,Farul Constanta,1,1
+01.04.2023 09:00,FC Hermannstadt,Botosani,1,1
+01.04.2023 04:00,UTA Arad,U. Cluj,2,0
+31.03.2023 13:00,U Craiova 1948,Petrolul,0,1
+20.03.2023 14:00,U. Cluj,FC Arges,2,0
+20.03.2023 11:00,U Craiova 1948,Mioveni,3,0
+19.03.2023 12:00,CFR Cluj,Rapid Bucarest,2,2
+19.03.2023 09:30,Farul Constanta,Sepsi Sf. Gheorghe,2,1
+18.03.2023 13:00,FCSB,Univ. Craiova,1,1
+18.03.2023 07:30,Botosani,Chindia Targoviste,1,0
+17.03.2023 13:30,Petrolul,UTA Arad,1,0
+17.03.2023 10:30,FC Voluntari,FC Hermannstadt,1,1
+16.03.2023 14:00,Sepsi Sf. Gheorghe,U Craiova 1948,4,0
+13.03.2023 13:30,CFR Cluj,U. Cluj,4,0
+13.03.2023 10:30,Chindia Targoviste,FC Voluntari,1,1
+12.03.2023 14:00,FC Hermannstadt,U Craiova 1948,1,0
+12.03.2023 14:00,FCSB,Sepsi Sf. Gheorghe,1,0
+11.03.2023 13:30,Farul Constanta,Rapid Bucarest,2,1
+11.03.2023 10:30,FC Arges,Petrolul,0,1
+10.03.2023 13:30,Univ. Craiova,UTA Arad,2,1
+10.03.2023 10:30,Botosani,Mioveni,1,1
+06.03.2023 13:30,Sepsi Sf. Gheorghe,CFR Cluj,2,2
+06.03.2023 11:00,FC Voluntari,FC Arges,0,0
+05.03.2023 14:00,UTA Arad,FCSB,3,1
+05.03.2023 08:30,Petrolul,Univ. Craiova,0,1
+05.03.2023 06:00,Mioveni,Chindia Targoviste,2,0
+04.03.2023 13:00,Rapid Bucarest,FC Hermannstadt,0,1
+04.03.2023 10:00,U Craiova 1948,Botosani,1,0
+03.03.2023 13:00,U. Cluj,Farul Constanta,2,0
+02.03.2023 13:00,FCSB,Petrolul,4,1
+02.03.2023 10:00,CFR Cluj,UTA Arad,2,1
+01.03.2023 13:30,Botosani,Rapid Bucarest,1,2
+01.03.2023 11:00,Univ. Craiova,FC Arges,1,0
+01.03.2023 09:00,Mioveni,FC Voluntari,0,3
+28.02.2023 13:30,Farul Constanta,Sepsi Sf. Gheorghe,2,0
+28.02.2023 11:00,Chindia Targoviste,U Craiova 1948,0,0
+28.02.2023 09:00,FC Hermannstadt,U. Cluj,0,1
+27.02.2023 13:00,Petrolul,CFR Cluj,2,5
+26.02.2023 13:30,FC Arges,FCSB,1,2
+26.02.2023 10:45,FC Voluntari,Univ. Craiova,1,0
+25.02.2023 13:00,Rapid Bucarest,Chindia Targoviste,2,0
+25.02.2023 10:00,U. Cluj,Botosani,2,0
+25.02.2023 07:30,Sepsi Sf. Gheorghe,FC Hermannstadt,2,1
+24.02.2023 13:30,UTA Arad,Farul Constanta,0,1
+24.02.2023 11:00,U Craiova 1948,Mioveni,2,1
+20.02.2023 13:00,U Craiova 1948,FC Voluntari,2,1
+20.02.2023 10:00,Botosani,Sepsi Sf. Gheorghe,1,1
+19.02.2023 13:00,FCSB,Univ. Craiova,1,1
+19.02.2023 10:00,CFR Cluj,FC Arges,3,1
+18.02.2023 13:00,Farul Constanta,Petrolul,2,0
+18.02.2023 07:30,FC Hermannstadt,UTA Arad,0,0
+17.02.2023 13:00,Mioveni,Rapid Bucarest,0,0
+17.02.2023 10:00,Chindia Targoviste,U. Cluj,2,2
+13.02.2023 13:00,Petrolul,FC Hermannstadt,2,0
+13.02.2023 10:00,Sepsi Sf. Gheorghe,Chindia Targoviste,2,2
+12.02.2023 13:00,FC Voluntari,FCSB,1,2
+12.02.2023 10:00,FC Arges,Farul Constanta,0,0
+11.02.2023 13:00,Univ. Craiova,CFR Cluj,2,0
+11.02.2023 07:30,UTA Arad,Botosani,3,1
+10.02.2023 13:00,Rapid Bucarest,U Craiova 1948,1,2
+10.02.2023 10:00,U. Cluj,Mioveni,2,2
+06.02.2023 13:00,Farul Constanta,Univ. Craiova,2,1
+06.02.2023 10:00,Botosani,Petrolul,5,0
+05.02.2023 14:00,CFR Cluj,FCSB,0,1
+05.02.2023 08:30,Mioveni,Sepsi Sf. Gheorghe,1,1
+04.02.2023 13:00,Rapid Bucarest,FC Voluntari,4,1
+04.02.2023 07:30,FC Hermannstadt,FC Arges,1,1
+03.02.2023 13:00,U Craiova 1948,U. Cluj,5,0
+03.02.2023 10:00,Chindia Targoviste,UTA Arad,2,1
+30.01.2023 13:00,FC Voluntari,CFR Cluj,0,1
+29.01.2023 12:00,FCSB,Farul Constanta,2,3
+29.01.2023 06:30,FC Arges,Botosani,0,2
+28.01.2023 13:00,Univ. Craiova,FC Hermannstadt,2,0
+28.01.2023 10:00,Petrolul,Chindia Targoviste,1,2
+28.01.2023 07:30,UTA Arad,Mioveni,1,2
+27.01.2023 13:00,U. Cluj,Rapid Bucarest,0,0
+23.01.2023 13:00,Farul Constanta,CFR Cluj,0,3
+23.01.2023 10:00,Chindia Targoviste,FC Arges,1,1
+22.01.2023 13:45,FC Hermannstadt,FCSB,0,1
+22.01.2023 08:30,U Craiova 1948,UTA Arad,1,1
+21.01.2023 13:00,Botosani,Univ. Craiova,1,0
+21.01.2023 10:00,Mioveni,Petrolul,1,0
+20.01.2023 13:00,Rapid Bucarest,Sepsi Sf. Gheorghe,3,0
+20.01.2023 09:30,U. Cluj,FC Voluntari,2,1
+20.12.2022 13:00,CFR Cluj,FC Hermannstadt,0,1
+19.12.2022 13:00,FCSB,Botosani,1,0
+18.12.2022 13:30,UTA Arad,Rapid Bucarest,1,1
+18.12.2022 07:30,Petrolul,U Craiova 1948,1,1
+18.12.2022 05:00,FC Arges,Mioveni,2,2
+17.12.2022 13:30,Univ. Craiova,Chindia Targoviste,3,0
+17.12.2022 08:00,Sepsi Sf. Gheorghe,U. Cluj,2,1
+16.12.2022 13:00,FC Voluntari,Farul Constanta,1,1
+15.12.2022 13:00,FCSB,CFR Cluj,0,1
+14.12.2022 12:00,Rapid Bucarest,Petrolul,3,1
+12.12.2022 13:30,Mioveni,Univ. Craiova,0,1
+12.12.2022 10:30,U Craiova 1948,FC Arges,1,0
+11.12.2022 13:30,Chindia Targoviste,FCSB,0,2
+11.12.2022 10:30,Botosani,CFR Cluj,1,1
+11.12.2022 07:30,U. Cluj,UTA Arad,0,0
+10.12.2022 12:00,FC Hermannstadt,Farul Constanta,4,0
+09.12.2022 12:00,Sepsi Sf. Gheorghe,FC Voluntari,1,1
+05.12.2022 12:00,FCSB,Mioveni,5,1
+04.12.2022 12:00,FC Arges,Rapid Bucarest,1,1
+04.12.2022 08:30,CFR Cluj,Chindia Targoviste,2,0
+04.12.2022 06:15,Farul Constanta,Botosani,8,0
+03.12.2022 12:00,Univ. Craiova,U Craiova 1948,0,2
+03.12.2022 08:30,FC Voluntari,FC Hermannstadt,3,0
+02.12.2022 12:00,Petrolul,U. Cluj,2,0
+02.12.2022 08:30,UTA Arad,Sepsi Sf. Gheorghe,1,4
+01.12.2022 12:00,Botosani,FCSB,2,3
+30.11.2022 12:00,FC Hermannstadt,CFR Cluj,2,3
+29.11.2022 12:00,Chindia Targoviste,Univ. Craiova,1,1
+14.11.2022 14:00,Botosani,FC Hermannstadt,0,0
+14.11.2022 11:00,U. Cluj,FC Arges,1,1
+13.11.2022 14:00,U Craiova 1948,FCSB,0,2
+13.11.2022 11:00,Mioveni,CFR Cluj,0,1
+13.11.2022 08:45,UTA Arad,FC Voluntari,1,1
+12.11.2022 13:30,Rapid Bucarest,Univ. Craiova,2,2
+12.11.2022 10:30,Chindia Targoviste,Farul Constanta,1,1
+11.11.2022 14:00,Sepsi Sf. Gheorghe,Petrolul,2,0
+07.11.2022 14:00,CFR Cluj,U Craiova 1948,3,1
+06.11.2022 14:00,FCSB,Rapid Bucarest,3,1
+06.11.2022 09:15,FC Hermannstadt,Chindia Targoviste,0,1
+05.11.2022 14:00,Univ. Craiova,U. Cluj,1,0
+05.11.2022 11:00,Petrolul,UTA Arad,2,1
+05.11.2022 08:00,FC Arges,Sepsi Sf. Gheorghe,0,5
+04.11.2022 14:00,Farul Constanta,Mioveni,2,1
+04.11.2022 11:00,Botosani,FC Voluntari,0,1
+31.10.2022 14:00,U. Cluj,FCSB,2,1
+31.10.2022 11:00,Mioveni,FC Hermannstadt,0,2
+30.10.2022 14:00,Rapid Bucarest,CFR Cluj,2,1
+30.10.2022 11:15,UTA Arad,FC Arges,0,1
+29.10.2022 13:30,Sepsi Sf. Gheorghe,Univ. Craiova,0,1
+29.10.2022 11:00,FC Voluntari,Petrolul,0,1
+28.10.2022 13:00,U Craiova 1948,Farul Constanta,1,2
+28.10.2022 10:00,Chindia Targoviste,Botosani,2,2
+24.10.2022 13:00,Sepsi Sf. Gheorghe,FCSB,0,1
+24.10.2022 10:15,Petrolul,FC Arges,2,0
+23.10.2022 13:00,U. Cluj,CFR Cluj,1,2
+23.10.2022 10:15,UTA Arad,Univ. Craiova,1,2
+23.10.2022 05:30,Mioveni,Botosani,0,0
+22.10.2022 13:45,U Craiova 1948,FC Hermannstadt,1,1
+22.10.2022 09:00,FC Voluntari,Chindia Targoviste,0,3
+21.10.2022 12:30,Rapid Bucarest,Farul Constanta,1,1
+17.10.2022 13:00,CFR Cluj,Sepsi Sf. Gheorghe,2,1
+16.10.2022 12:30,FCSB,UTA Arad,2,1
+16.10.2022 06:00,Chindia Targoviste,Mioveni,1,0
+15.10.2022 13:00,Univ. Craiova,Petrolul,2,1
+15.10.2022 10:00,Farul Constanta,U. Cluj,2,0
+15.10.2022 07:30,Botosani,U Craiova 1948,1,0
+14.10.2022 13:00,FC Hermannstadt,Rapid Bucarest,0,2
+14.10.2022 10:15,FC Arges,FC Voluntari,0,0
+10.10.2022 12:30,UTA Arad,CFR Cluj,1,1
+10.10.2022 09:30,U Craiova 1948,Chindia Targoviste,0,1
+09.10.2022 13:30,Petrolul,FCSB,0,2
+09.10.2022 07:30,Sepsi Sf. Gheorghe,Farul Constanta,0,1
+08.10.2022 13:30,Rapid Bucarest,Botosani,1,1
+08.10.2022 07:00,U. Cluj,FC Hermannstadt,1,0
+07.10.2022 13:00,FC Arges,Univ. Craiova,1,0
+07.10.2022 10:00,FC Voluntari,Mioveni,3,1
+03.10.2022 13:00,Chindia Targoviste,Rapid Bucarest,2,1
+03.10.2022 10:00,Botosani,U. Cluj,1,1
+02.10.2022 13:30,FCSB,FC Arges,3,2
+02.10.2022 10:30,Farul Constanta,UTA Arad,2,0
+02.10.2022 05:00,FC Hermannstadt,Sepsi Sf. Gheorghe,1,2
+01.10.2022 13:30,CFR Cluj,Petrolul,1,0
+01.10.2022 11:00,Mioveni,U Craiova 1948,2,2
+30.09.2022 13:00,Univ. Craiova,FC Voluntari,1,1
+19.09.2022 12:30,FC Arges,CFR Cluj,0,1
+18.09.2022 13:30,Univ. Craiova,FCSB,2,1
+18.09.2022 10:30,U. Cluj,Chindia Targoviste,1,0
+17.09.2022 13:30,Rapid Bucarest,Mioveni,2,1
+17.09.2022 11:00,Sepsi Sf. Gheorghe,Botosani,7,0
+17.09.2022 08:45,UTA Arad,FC Hermannstadt,1,2
+16.09.2022 13:00,Petrolul,Farul Constanta,1,3
+16.09.2022 10:00,FC Voluntari,U Craiova 1948,1,0
+12.09.2022 13:00,FCSB,FC Voluntari,1,1
+12.09.2022 10:00,Mioveni,U. Cluj,0,1
+11.09.2022 13:30,CFR Cluj,Univ. Craiova,2,0
+11.09.2022 10:30,Farul Constanta,FC Arges,3,0
+10.09.2022 13:30,U Craiova 1948,Rapid Bucarest,1,0
+10.09.2022 07:00,FC Hermannstadt,Petrolul,2,1
+10.09.2022 05:00,Chindia Targoviste,Sepsi Sf. Gheorghe,1,2
+09.09.2022 10:45,Botosani,UTA Arad,1,2
+05.09.2022 13:30,Univ. Craiova,Farul Constanta,4,3
+05.09.2022 10:45,FC Arges,FC Hermannstadt,0,1
+04.09.2022 13:30,Petrolul,Botosani,2,1
+03.09.2022 13:45,FC Voluntari,Rapid Bucarest,0,1
+03.09.2022 11:00,UTA Arad,Chindia Targoviste,1,1
+02.09.2022 13:30,U. Cluj,U Craiova 1948,1,1
+02.09.2022 10:45,Sepsi Sf. Gheorghe,Mioveni,0,1
+01.09.2022 13:00,FC Hermannstadt,Univ. Craiova,1,0
+01.09.2022 10:00,Botosani,FC Arges,0,0
+31.08.2022 14:00,Farul Constanta,FCSB,3,1
+31.08.2022 11:15,CFR Cluj,FC Voluntari,4,0
+31.08.2022 08:30,Chindia Targoviste,Petrolul,2,3
+30.08.2022 14:00,Rapid Bucarest,U. Cluj,1,0
+30.08.2022 11:15,U Craiova 1948,Sepsi Sf. Gheorghe,1,0
+30.08.2022 08:30,Mioveni,UTA Arad,1,1
+29.08.2022 13:00,Univ. Craiova,Botosani,1,0
+28.08.2022 13:30,FCSB,FC Hermannstadt,2,2
+28.08.2022 10:30,CFR Cluj,Farul Constanta,1,3
+28.08.2022 05:30,FC Arges,Chindia Targoviste,2,1
+27.08.2022 13:45,Sepsi Sf. Gheorghe,Rapid Bucarest,1,2
+27.08.2022 11:00,Petrolul,Mioveni,0,0
+26.08.2022 13:30,UTA Arad,U Craiova 1948,2,1
+26.08.2022 10:45,FC Voluntari,U. Cluj,0,0
+22.08.2022 11:30,Farul Constanta,FC Voluntari,2,1
+22.08.2022 09:00,U. Cluj,Sepsi Sf. Gheorghe,0,1
+20.08.2022 13:30,Rapid Bucarest,UTA Arad,1,0
+19.08.2022 13:00,U Craiova 1948,Petrolul,0,1
+19.08.2022 10:00,Mioveni,FC Arges,0,1
+15.08.2022 11:30,Farul Constanta,FC Hermannstadt,0,0
+15.08.2022 09:00,FC Voluntari,Sepsi Sf. Gheorghe,0,0
+14.08.2022 13:30,FCSB,Chindia Targoviste,3,2
+14.08.2022 10:30,CFR Cluj,Botosani,0,1
+14.08.2022 08:00,Univ. Craiova,Mioveni,1,0
+13.08.2022 13:45,Petrolul,Rapid Bucarest,1,0
+13.08.2022 11:00,UTA Arad,U. Cluj,2,1
+12.08.2022 13:30,FC Arges,U Craiova 1948,0,2
+08.08.2022 13:00,Botosani,Farul Constanta,1,1
+08.08.2022 10:00,FC Hermannstadt,FC Voluntari,2,1
+07.08.2022 13:30,U Craiova 1948,Univ. Craiova,1,2
+07.08.2022 10:30,Chindia Targoviste,CFR Cluj,0,2
+07.08.2022 08:00,Sepsi Sf. Gheorghe,UTA Arad,0,0
+06.08.2022 13:45,Rapid Bucarest,FC Arges,2,1
+06.08.2022 11:00,Mioveni,FCSB,1,1
+05.08.2022 11:00,U. Cluj,Petrolul,0,1
+01.08.2022 12:30,FC Hermannstadt,Botosani,1,1
+31.07.2022 14:30,FCSB,U Craiova 1948,1,1
+31.07.2022 12:15,Univ. Craiova,Rapid Bucarest,0,1
+31.07.2022 10:00,Petrolul,Sepsi Sf. Gheorghe,1,1
+30.07.2022 13:30,CFR Cluj,Mioveni,4,2
+30.07.2022 10:30,FC Voluntari,UTA Arad,3,0
+29.07.2022 13:30,Farul Constanta,Chindia Targoviste,0,0
+29.07.2022 10:30,FC Arges,U. Cluj,3,1
+25.07.2022 13:30,UTA Arad,Petrolul,2,0
+25.07.2022 10:30,Chindia Targoviste,FC Hermannstadt,1,1
+24.07.2022 13:30,Rapid Bucarest,FCSB,2,0
+24.07.2022 10:30,U. Cluj,Univ. Craiova,1,1
+24.07.2022 08:00,U Craiova 1948,CFR Cluj,3,1
+24.07.2022 04:00,Sepsi Sf. Gheorghe,FC Arges,4,0
+23.07.2022 12:30,FC Voluntari,Botosani,0,1
+22.07.2022 12:30,Mioveni,Farul Constanta,0,2
+18.07.2022 13:30,Petrolul,FC Voluntari,0,1
+18.07.2022 10:30,Botosani,Chindia Targoviste,3,2
+17.07.2022 13:30,FCSB,U. Cluj,1,1
+17.07.2022 10:30,Farul Constanta,U Craiova 1948,2,1
+16.07.2022 13:30,CFR Cluj,Rapid Bucarest,1,0
+16.07.2022 10:30,FC Arges,UTA Arad,2,0
+15.07.2022 13:30,Univ. Craiova,Sepsi Sf. Gheorghe,2,2
+15.07.2022 10:30,FC Hermannstadt,Mioveni,3,0

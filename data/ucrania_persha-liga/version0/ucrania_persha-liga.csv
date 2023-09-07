@@ -1,0 +1,219 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+09.06.2023 06:00,FSC Mariupol,Khust,0,1
+03.06.2023 06:00,Khust,FSC Mariupol,1,1
+27.05.2023 06:00,Karpaty Lviv,Obolon,1,1
+27.05.2023 06:00,Nyva Ternopil,MFC Metalurh,1,1
+27.05.2023 06:00,Zhytomyr,LNZ Cherkasy,2,1
+27.05.2023 04:00,Epitsentr,Kremin,3,1
+26.05.2023 06:00,FC Chernihiv,Prykarpattya,0,2
+26.05.2023 06:00,Hirnyk-Sport,FSC Mariupol,1,0
+26.05.2023 06:00,SC Poltava,Dinaz Vyshgorod,1,2
+26.05.2023 06:00,Skoruk Tomakovka,Bukovyna,0,0
+22.05.2023 09:00,Obolon,Zhytomyr,1,1
+22.05.2023 06:00,LNZ Cherkasy,Karpaty Lviv,4,1
+22.05.2023 06:00,MFC Metalurh,Epitsentr,1,0
+22.05.2023 04:00,Kremin,Nyva Ternopil,2,2
+20.05.2023 06:00,Bukovyna,Hirnyk-Sport,3,2
+20.05.2023 06:00,Dinaz Vyshgorod,FC Chernihiv,1,0
+20.05.2023 06:00,FSC Mariupol,Skoruk Tomakovka,0,3
+20.05.2023 06:00,Prykarpattya,SC Poltava,0,1
+14.05.2023 09:00,Zhytomyr,Kremin,5,0
+14.05.2023 06:00,Nyva Ternopil,Obolon,1,2
+14.05.2023 05:00,Skoruk Tomakovka,Prykarpattya,0,0
+14.05.2023 04:00,FC Chernihiv,Bukovyna,1,1
+13.05.2023 09:00,Karpaty Lviv,MFC Metalurh,0,1
+13.05.2023 07:00,Hirnyk-Sport,Dinaz Vyshgorod,1,1
+13.05.2023 06:30,Epitsentr,LNZ Cherkasy,0,2
+13.05.2023 05:30,SC Poltava,FSC Mariupol,0,4
+07.05.2023 08:00,MFC Metalurh,Zhytomyr,0,1
+07.05.2023 06:00,Bukovyna,SC Poltava,2,2
+07.05.2023 05:30,Kremin,Karpaty Lviv,1,1
+07.05.2023 05:00,FSC Mariupol,FC Chernihiv,1,1
+06.05.2023 08:00,Obolon,Epitsentr,2,1
+06.05.2023 06:00,Dinaz Vyshgorod,Skoruk Tomakovka,1,1
+06.05.2023 05:30,LNZ Cherkasy,Nyva Ternopil,1,1
+06.05.2023 05:00,Prykarpattya,Hirnyk-Sport,6,1
+01.05.2023 05:00,LNZ Cherkasy,Zhytomyr,1,2
+30.04.2023 07:30,MFC Metalurh,Nyva Ternopil,1,1
+30.04.2023 06:00,FSC Mariupol,Hirnyk-Sport,2,1
+30.04.2023 05:30,Bukovyna,Skoruk Tomakovka,1,1
+29.04.2023 07:30,Obolon,Karpaty Lviv,1,2
+29.04.2023 06:00,Dinaz Vyshgorod,SC Poltava,2,2
+29.04.2023 05:00,Kremin,Epitsentr,1,2
+28.04.2023 05:00,Prykarpattya,FC Chernihiv,2,0
+23.04.2023 06:00,Hirnyk-Sport,Bukovyna,1,0
+23.04.2023 05:30,Zhytomyr,Obolon,0,1
+23.04.2023 05:00,Skoruk Tomakovka,FSC Mariupol,1,0
+22.04.2023 09:00,Karpaty Lviv,LNZ Cherkasy,1,1
+22.04.2023 07:00,Epitsentr,MFC Metalurh,1,2
+22.04.2023 05:30,SC Poltava,Prykarpattya,0,1
+22.04.2023 05:00,Nyva Ternopil,Kremin,0,2
+22.04.2023 04:00,FC Chernihiv,Dinaz Vyshgorod,2,1
+16.04.2023 05:00,Kremin,Zhytomyr,0,2
+15.04.2023 07:00,Obolon,Nyva Ternopil,1,1
+15.04.2023 05:30,Dinaz Vyshgorod,Hirnyk-Sport,1,0
+15.04.2023 05:00,MFC Metalurh,Karpaty Lviv,0,1
+15.04.2023 05:00,Prykarpattya,Skoruk Tomakovka,1,1
+15.04.2023 04:30,FSC Mariupol,SC Poltava,2,4
+14.04.2023 06:00,LNZ Cherkasy,Epitsentr,2,0
+14.04.2023 05:00,Bukovyna,FC Chernihiv,3,1
+09.04.2023 08:00,Zhytomyr,MFC Metalurh,1,2
+09.04.2023 06:00,Hirnyk-Sport,Prykarpattya,1,1
+09.04.2023 05:30,Skoruk Tomakovka,Dinaz Vyshgorod,3,0
+09.04.2023 05:00,SC Poltava,Bukovyna,1,2
+08.04.2023 09:00,Karpaty Lviv,Kremin,2,0
+08.04.2023 06:30,Epitsentr,Obolon,0,0
+08.04.2023 05:30,Nyva Ternopil,LNZ Cherkasy,1,2
+08.04.2023 04:00,FC Chernihiv,FSC Mariupol,2,1
+27.11.2022 05:00,Bukovyna,Nyva Ternopil,0,3
+27.11.2022 05:00,Epitsentr,Prykarpattya,2,0
+27.11.2022 05:00,Karpaty Lviv,Zhytomyr,1,2
+27.11.2022 05:00,Kremin,FC Chernihiv,3,0
+27.11.2022 05:00,LNZ Cherkasy,Hirnyk-Sport,5,0
+27.11.2022 05:00,Skoruk Tomakovka,SC Poltava,2,0
+26.11.2022 06:00,MFC Metalurh,Obolon,1,2
+26.11.2022 05:00,Dinaz Vyshgorod,FSC Mariupol,1,4
+24.11.2022 05:00,Hirnyk-Sport,FC Chernihiv,0,2
+20.11.2022 06:30,Obolon,Kremin,1,0
+20.11.2022 06:00,Prykarpattya,Karpaty Lviv,0,2
+20.11.2022 05:30,Hirnyk-Sport,MFC Metalurh,1,1
+20.11.2022 05:00,FC Chernihiv,SC Poltava,0,1
+20.11.2022 05:00,FSC Mariupol,Bukovyna,0,1
+19.11.2022 06:30,Zhytomyr,Dinaz Vyshgorod,3,0
+19.11.2022 06:00,Skoruk Tomakovka,LNZ Cherkasy,0,2
+19.11.2022 05:00,Nyva Ternopil,Epitsentr,0,0
+16.11.2022 05:00,Kremin,MFC Metalurh,0,4
+13.11.2022 06:00,Bukovyna,Zhytomyr,1,2
+13.11.2022 05:00,Dinaz Vyshgorod,Prykarpattya,2,2
+12.11.2022 06:00,LNZ Cherkasy,FC Chernihiv,2,2
+12.11.2022 05:30,Obolon,Hirnyk-Sport,0,0
+12.11.2022 05:00,Nyva Ternopil,FSC Mariupol,1,1
+11.11.2022 07:00,Epitsentr,Karpaty Lviv,1,0
+11.11.2022 06:00,Kremin,SC Poltava,4,3
+11.11.2022 05:00,MFC Metalurh,Skoruk Tomakovka,1,0
+06.11.2022 07:00,Karpaty Lviv,Dinaz Vyshgorod,3,2
+06.11.2022 06:00,SC Poltava,LNZ Cherkasy,0,1
+06.11.2022 06:00,Zhytomyr,Nyva Ternopil,2,1
+06.11.2022 05:00,Hirnyk-Sport,Kremin,1,2
+05.11.2022 06:30,FSC Mariupol,Epitsentr,0,1
+05.11.2022 05:00,FC Chernihiv,MFC Metalurh,0,0
+04.11.2022 06:00,Skoruk Tomakovka,Obolon,1,0
+04.11.2022 05:00,Prykarpattya,Bukovyna,2,1
+02.11.2022 05:00,SC Poltava,Hirnyk-Sport,1,0
+30.10.2022 07:00,Obolon,FC Chernihiv,3,1
+30.10.2022 06:00,Bukovyna,Karpaty Lviv,1,2
+29.10.2022 06:00,Hirnyk-Sport,Skoruk Tomakovka,1,1
+29.10.2022 05:30,FSC Mariupol,Zhytomyr,0,2
+29.10.2022 05:30,MFC Metalurh,SC Poltava,1,1
+29.10.2022 04:00,Nyva Ternopil,Prykarpattya,4,0
+28.10.2022 06:00,Epitsentr,Dinaz Vyshgorod,3,2
+28.10.2022 05:00,Kremin,LNZ Cherkasy,1,1
+25.10.2022 06:00,Skoruk Tomakovka,MFC Metalurh,1,1
+23.10.2022 06:00,SC Poltava,Obolon,2,1
+23.10.2022 05:00,FC Chernihiv,Hirnyk-Sport,2,1
+23.10.2022 04:00,Prykarpattya,FSC Mariupol,2,2
+22.10.2022 07:00,Karpaty Lviv,Nyva Ternopil,1,0
+22.10.2022 05:30,Zhytomyr,Epitsentr,3,0
+22.10.2022 04:00,Dinaz Vyshgorod,Bukovyna,1,1
+21.10.2022 06:00,Skoruk Tomakovka,Kremin,3,3
+21.10.2022 04:00,LNZ Cherkasy,MFC Metalurh,1,0
+16.10.2022 05:30,FSC Mariupol,Karpaty Lviv,1,1
+16.10.2022 04:00,Hirnyk-Sport,SC Poltava,1,1
+15.10.2022 07:00,Epitsentr,Bukovyna,0,0
+15.10.2022 05:30,Nyva Ternopil,Dinaz Vyshgorod,1,0
+15.10.2022 05:00,Obolon,LNZ Cherkasy,1,0
+15.10.2022 04:00,Skoruk Tomakovka,FC Chernihiv,0,2
+14.10.2022 06:00,Zhytomyr,Prykarpattya,2,0
+09.10.2022 07:00,Nyva Ternopil,Bukovyna,1,0
+09.10.2022 05:30,SC Poltava,Skoruk Tomakovka,1,3
+08.10.2022 07:00,Hirnyk-Sport,LNZ Cherkasy,0,1
+08.10.2022 05:30,FSC Mariupol,Dinaz Vyshgorod,0,2
+08.10.2022 04:00,Prykarpattya,Epitsentr,1,0
+07.10.2022 07:00,Zhytomyr,Karpaty Lviv,2,0
+07.10.2022 06:00,FC Chernihiv,Kremin,0,2
+07.10.2022 05:00,Obolon,MFC Metalurh,3,0
+02.10.2022 07:00,Bukovyna,FSC Mariupol,3,1
+02.10.2022 05:30,Epitsentr,Nyva Ternopil,1,1
+02.10.2022 04:00,LNZ Cherkasy,Skoruk Tomakovka,3,0
+01.10.2022 08:00,Karpaty Lviv,Prykarpattya,2,1
+01.10.2022 06:00,Dinaz Vyshgorod,Zhytomyr,0,5
+01.10.2022 06:00,Hirnyk-Sport,MFC Metalurh,0,1
+01.10.2022 04:00,SC Poltava,FC Chernihiv,1,1
+30.09.2022 04:00,Kremin,Obolon,0,3
+25.09.2022 07:00,Zhytomyr,Bukovyna,2,0
+25.09.2022 04:00,FC Chernihiv,LNZ Cherkasy,0,2
+24.09.2022 08:00,Karpaty Lviv,Epitsentr,0,2
+24.09.2022 06:00,Hirnyk-Sport,Obolon,2,0
+24.09.2022 04:00,Prykarpattya,Dinaz Vyshgorod,0,1
+23.09.2022 07:00,SC Poltava,Kremin,2,0
+23.09.2022 05:00,FSC Mariupol,Nyva Ternopil,0,2
+18.09.2022 08:00,Bukovyna,Prykarpattya,0,1
+18.09.2022 06:00,Dinaz Vyshgorod,Karpaty Lviv,1,2
+18.09.2022 04:00,Kremin,Hirnyk-Sport,7,0
+17.09.2022 07:00,MFC Metalurh,FC Chernihiv,0,2
+17.09.2022 07:00,Nyva Ternopil,Zhytomyr,0,0
+17.09.2022 07:00,Obolon,Skoruk Tomakovka,3,1
+16.09.2022 07:00,Epitsentr,FSC Mariupol,1,0
+16.09.2022 05:00,LNZ Cherkasy,SC Poltava,1,0
+11.09.2022 09:00,Karpaty Lviv,Bukovyna,4,0
+11.09.2022 07:00,Prykarpattya,Nyva Ternopil,1,0
+10.09.2022 09:00,Dinaz Vyshgorod,Epitsentr,1,3
+10.09.2022 07:00,Skoruk Tomakovka,Hirnyk-Sport,1,1
+10.09.2022 07:00,Zhytomyr,FSC Mariupol,4,2
+10.09.2022 05:00,FC Chernihiv,Obolon,0,1
+09.09.2022 07:00,LNZ Cherkasy,Kremin,2,0
+09.09.2022 05:00,SC Poltava,MFC Metalurh,1,2
+04.09.2022 09:00,Nyva Ternopil,Karpaty Lviv,0,1
+04.09.2022 05:00,Bukovyna,Dinaz Vyshgorod,0,0
+03.09.2022 09:00,Epitsentr,Zhytomyr,1,2
+03.09.2022 07:00,Obolon,SC Poltava,2,1
+03.09.2022 05:00,MFC Metalurh,LNZ Cherkasy,2,1
+02.09.2022 07:00,Kremin,Skoruk Tomakovka,3,1
+02.09.2022 05:00,FSC Mariupol,Prykarpattya,1,1
+27.08.2022 09:00,Dinaz Vyshgorod,Nyva Ternopil,1,1
+27.08.2022 08:00,Karpaty Lviv,FSC Mariupol,3,0
+27.08.2022 08:00,Prykarpattya,Zhytomyr,0,3
+27.08.2022 07:00,MFC Metalurh,Kremin,3,3
+27.08.2022 05:00,Bukovyna,Epitsentr,1,2
+27.08.2022 05:00,LNZ Cherkasy,Obolon,0,0
+27.08.2022 04:00,FC Chernihiv,Skoruk Tomakovka,1,1

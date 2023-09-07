@@ -1,0 +1,227 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+20.05.2023 11:15,Hamilton,,2,2
+17.05.2023 13:35,Airdrieonians,Hamilton,1,0
+13.05.2023 09:00,Falkirk,Airdrieonians,0,1
+13.05.2023 09:00,Hamilt,,on,-
+09.05.2023 13:45,Airdrieonians,Falkirk,6,2
+09.05.2023 13:45,Alloa,Hamilton,1,0
+05.05.2023 13:45,Arbroath,Hamilton,0,0
+05.05.2023 13:45,Cove Rangers,Morton,1,2
+05.05.2023 13:45,Inverness,Ayr,1,2
+05.05.2023 13:45,Queen's Park,Dundee FC,3,5
+05.05.2023 13:45,Raith,Partick Thistle,2,2
+29.04.2023 09:00,Ayr,Raith,1,0
+29.04.2023 09:00,Morton,Queen's Park,2,1
+29.04.2023 09:00,Partick Thistle,Arbroath,2,0
+28.04.2023 13:45,Dundee FC,Cove Rangers,0,0
+22.04.2023 09:00,Arbroath,Cove Rangers,0,1
+22.04.2023 09:00,Hamilton,Partick Thistle,2,2
+22.04.2023 09:00,Inverness,Dundee FC,1,1
+22.04.2023 09:00,Morton,Raith,1,0
+21.04.2023 13:45,Ayr,Queen's Park,0,0
+18.04.2023 13:45,Hamilton,Inverness,1,2
+15.04.2023 09:00,Cove Rangers,Inverness,1,2
+15.04.2023 09:00,Dundee FC,Morton,3,3
+15.04.2023 09:00,Partick Thistle,Ayr,1,1
+15.04.2023 09:00,Raith,Arbroath,1,1
+14.04.2023 13:45,Queen's Park,Hamilton,1,0
+11.04.2023 13:45,Dundee FC,Raith,3,1
+11.04.2023 13:45,Inverness,Arbroath,2,0
+11.04.2023 13:45,Morton,Hamilton,2,0
+08.04.2023 09:00,Arbroath,Dundee FC,0,0
+08.04.2023 09:00,Ayr,Morton,1,1
+08.04.2023 09:00,Hamilton,Cove Rangers,1,1
+08.04.2023 09:00,Inverness,Raith,2,0
+07.04.2023 13:45,Partick Thistle,Queen's Park,4,0
+04.04.2023 13:45,Raith,Hamilton,1,2
+01.04.2023 09:00,Cove Rangers,Partick Thistle,0,5
+01.04.2023 09:00,Dundee FC,Hamilton,7,0
+01.04.2023 09:00,Morton,Inverness,1,2
+01.04.2023 09:00,Raith,Queen's Park,2,0
+31.03.2023 13:45,Arbroath,Ayr,2,0
+24.03.2023 14:45,Ayr,Cove Rangers,3,0
+24.03.2023 14:45,Inverness,Partick Thistle,1,0
+24.03.2023 14:45,Queen's Park,Arbroath,0,1
+21.03.2023 14:45,Dundee FC,Ayr,3,1
+18.03.2023 10:00,Hamilton,Ayr,0,2
+18.03.2023 10:00,Partick Thistle,Dundee FC,0,0
+18.03.2023 10:00,Queen's Park,Inverness,2,1
+18.03.2023 10:00,Raith,Cove Rangers,6,1
+17.03.2023 14:45,Arbroath,Morton,1,1
+11.03.2023 10:00,Morton,Partick Thistle,0,0
+10.03.2023 14:45,Queen's Park,Cove Rangers,1,0
+07.03.2023 14:45,Morton,Ayr,1,3
+04.03.2023 10:00,Ayr,Inverness,1,2
+04.03.2023 10:00,Cove Rangers,Dundee FC,0,2
+04.03.2023 10:00,Partick Thistle,Raith,3,0
+04.03.2023 10:00,Queen's Park,Morton,2,2
+03.03.2023 14:45,Hamilton,Arbroath,0,0
+28.02.2023 14:45,Dundee FC,Partick Thistle,1,3
+25.02.2023 10:00,Arbroath,Partick Thistle,0,0
+25.02.2023 10:00,Dundee FC,Inverness,1,1
+25.02.2023 10:00,Hamilton,Queen's Park,1,4
+25.02.2023 10:00,Morton,Cove Rangers,2,1
+24.02.2023 14:45,Raith,Ayr,0,0
+21.02.2023 14:45,Hamilton,Inverness,2,1
+18.02.2023 10:00,Ayr,Partick Thistle,0,1
+18.02.2023 10:00,Cove Rangers,Arbroath,1,1
+18.02.2023 10:00,Inverness,Hamilton,0,3
+17.02.2023 14:45,Morton,Dundee FC,1,0
+17.02.2023 14:45,Queen's Park,Raith,1,1
+12.02.2023 09:00,Dundee FC,Cove Rangers,3,0
+11.02.2023 10:00,Morton,Queen's Park,3,2
+04.02.2023 10:00,Arbroath,Raith,1,2
+04.02.2023 10:00,Hamilton,Dundee FC,1,1
+04.02.2023 10:00,Inverness,Morton,2,2
+04.02.2023 10:00,Partick Thistle,Cove Rangers,0,1
+03.02.2023 14:45,Queen's Park,Ayr,2,0
+28.01.2023 10:00,Dundee FC,Queen's Park,3,0
+28.01.2023 10:00,Morton,Arbroath,1,2
+28.01.2023 10:00,Partick Thistle,Hamilton,0,1
+28.01.2023 10:00,Raith,Inverness,2,2
+27.01.2023 14:45,Cove Rangers,Ayr,0,5
+14.01.2023 10:00,Ayr,Arbroath,2,2
+14.01.2023 10:00,Cove Rangers,Raith,2,2
+14.01.2023 10:00,Hamilton,Morton,1,0
+14.01.2023 10:00,Inverness,Queen's Park,0,0
+07.01.2023 10:00,Arbroath,Inverness,1,4
+07.01.2023 10:00,Ayr,Hamilton,1,0
+07.01.2023 10:00,Cove Rangers,Queen's Park,0,6
+07.01.2023 10:00,Partick Thistle,Morton,2,1
+06.01.2023 14:45,Raith,Dundee FC,1,1
+02.01.2023 10:00,Dundee FC,Arbroath,2,4
+02.01.2023 10:00,Hamilton,Raith,0,1
+02.01.2023 10:00,Inverness,Cove Rangers,6,1
+02.01.2023 10:00,Queen's Park,Partick Thistle,2,0
+23.12.2022 14:45,Arbroath,Queen's Park,1,4
+23.12.2022 14:45,Ayr,Dundee FC,0,2
+23.12.2022 14:45,Cove Rangers,Hamilton,2,0
+23.12.2022 14:45,Partick Thistle,Inverness,5,1
+23.12.2022 14:45,Raith,Morton,2,2
+17.12.2022 10:00,Partick Thistle,Ayr,3,2
+17.12.2022 10:00,Raith,Arbroath,1,1
+03.12.2022 10:00,Arbroath,Morton,1,1
+03.12.2022 10:00,Ayr,Raith,2,0
+03.12.2022 10:00,Cove Rangers,Partick Thistle,1,1
+03.12.2022 10:00,Inverness,Dundee FC,0,1
+03.12.2022 10:00,Queen's Park,Hamilton,4,0
+19.11.2022 10:00,Cove Rangers,Morton,1,2
+19.11.2022 10:00,Dundee FC,Hamilton,1,0
+19.11.2022 10:00,Inverness,Ayr,2,2
+19.11.2022 10:00,Partick Thistle,Arbroath,3,0
+19.11.2022 10:00,Raith,Queen's Park,2,5
+12.11.2022 12:30,Queen's Park,Inverness,2,1
+12.11.2022 10:00,Arbroath,Cove Rangers,1,1
+12.11.2022 10:00,Dundee FC,Raith,2,0
+12.11.2022 10:00,Morton,Partick Thistle,2,1
+11.11.2022 14:45,Hamilton,Ayr,2,3
+05.11.2022 10:00,Ayr,Morton,1,1
+05.11.2022 10:00,Inverness,Arbroath,1,1
+05.11.2022 10:00,Partick Thistle,Dundee FC,2,3
+05.11.2022 10:00,Raith,Hamilton,3,1
+04.11.2022 14:45,Cove Rangers,Queen's Park,2,0
+29.10.2022 09:00,Arbroath,Ayr,0,2
+29.10.2022 09:00,Hamilton,Cove Rangers,4,4
+29.10.2022 09:00,Raith,Partick Thistle,3,0
+28.10.2022 13:45,Morton,Inverness,4,0
+28.10.2022 13:45,Queen's Park,Dundee FC,2,2
+25.10.2022 13:45,Ayr,Partick Thistle,4,2
+22.10.2022 09:00,Arbroath,Hamilton,1,0
+22.10.2022 09:00,Ayr,Cove Rangers,2,2
+22.10.2022 09:00,Dundee FC,Morton,0,0
+22.10.2022 09:00,Inverness,Raith,1,1
+22.10.2022 09:00,Partick Thistle,Queen's Park,0,4
+19.10.2022 13:45,Arbroath,Raith,0,1
+18.10.2022 13:45,Inverness,Hamilton,0,1
+15.10.2022 09:00,Cove Rangers,Inverness,0,1
+15.10.2022 09:00,Dundee FC,Ayr,2,1
+15.10.2022 09:00,Hamilton,Partick Thistle,1,2
+15.10.2022 09:00,Morton,Raith,1,0
+14.10.2022 13:45,Queen's Park,Arbroath,1,1
+08.10.2022 09:00,Arbroath,Dundee FC,1,1
+08.10.2022 09:00,Ayr,Queen's Park,5,0
+08.10.2022 09:00,Morton,Hamilton,5,0
+08.10.2022 09:00,Raith,Cove Rangers,3,0
+07.10.2022 13:45,Inverness,Partick Thistle,1,0
+04.10.2022 13:45,Cove Rangers,Dundee FC,3,1
+04.10.2022 13:45,Queen's Park,Morton,1,2
+01.10.2022 09:00,Ayr,Inverness,0,1
+01.10.2022 09:00,Cove Rangers,Arbroath,2,0
+01.10.2022 09:00,Hamilton,Dundee FC,0,2
+01.10.2022 09:00,Partick Thistle,Morton,5,1
+01.10.2022 09:00,Queen's Park,Raith,1,0
+17.09.2022 09:00,Dundee FC,Inverness,2,3
+17.09.2022 09:00,Hamilton,Queen's Park,0,2
+17.09.2022 09:00,Morton,Arbroath,1,2
+17.09.2022 09:00,Partick Thistle,Cove Rangers,2,2
+17.09.2022 09:00,Raith,Ayr,3,2
+03.09.2022 09:00,Arbroath,Partick Thistle,0,2
+03.09.2022 09:00,Cove Rangers,Hamilton,2,2
+03.09.2022 09:00,Dundee FC,Queen's Park,3,0
+03.09.2022 09:00,Morton,Ayr,1,2
+03.09.2022 09:00,Raith,Inverness,0,2
+27.08.2022 09:00,Hamilton,Arbroath,1,0
+27.08.2022 09:00,Inverness,Morton,0,1
+27.08.2022 09:00,Partick Thistle,Raith,2,1
+27.08.2022 09:00,Queen's Park,Cove Rangers,2,1
+26.08.2022 13:45,Ayr,Dundee FC,3,1
+20.08.2022 09:00,Arbroath,Queen's Park,1,2
+20.08.2022 09:00,Cove Rangers,Ayr,1,2
+20.08.2022 09:00,Hamilton,Raith,0,2
+20.08.2022 09:00,Morton,Dundee FC,0,0
+19.08.2022 13:45,Partick Thistle,Inverness,4,1
+13.08.2022 09:00,Ayr,Hamilton,2,2
+13.08.2022 09:00,Inverness,Cove Rangers,4,1
+13.08.2022 09:00,Queen's Park,Partick Thistle,3,2
+13.08.2022 09:00,Raith,Morton,2,1
+12.08.2022 13:45,Dundee FC,Arbroath,4,2
+06.08.2022 09:00,Arbroath,Inverness,0,0
+06.08.2022 09:00,Morton,Cove Rangers,1,0
+06.08.2022 09:00,Partick Thistle,Hamilton,1,1
+06.08.2022 09:00,Raith,Dundee FC,0,1
+05.08.2022 13:45,Queen's Park,Ayr,2,3
+30.07.2022 09:00,Ayr,Arbroath,0,0
+30.07.2022 09:00,Cove Rangers,Raith,2,0
+30.07.2022 09:00,Dundee FC,Partick Thistle,2,3
+30.07.2022 09:00,Hamilton,Morton,1,1
+30.07.2022 09:00,Inverness,Queen's Park,1,1

@@ -102,7 +102,7 @@ def league_results_scraper(link, output_file, cant_omitir):
             wb.active = hoja
 
         else:
-            hoja = wb.create_sheet(nom_hoja)
+            hoja = wb.create_sheet(str(nom_hoja).replace(":", "-"))
             wb.active = hoja
 
             # Crea la fila del encabezado con los títulos

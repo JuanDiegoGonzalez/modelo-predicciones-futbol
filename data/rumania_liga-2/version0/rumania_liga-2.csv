@@ -1,0 +1,305 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+21.05.2023 05:00,Otelul,Unirea Dej,1,0
+21.05.2023 05:00,Poli Iasi,Dinamo Bucarest,4,1
+21.05.2023 05:00,Steaua Bucuresti,Gloria Buzau,4,2
+20.05.2023 03:00,Progresul Spartac,,0,1
+16.05.2023 11:00,Gloria Buzau,Otelul,1,0
+15.05.2023 12:30,Dinamo Bucarest,Steaua Bucuresti,3,0
+15.05.2023 09:30,Unirea Dej,Poli Iasi,0,0
+13.05.2023 03:00,Metaloglobus Bucharest,Progresul Spartac,1,1
+11.05.2023 12:30,Otelul,Dinamo Bucarest,0,2
+11.05.2023 09:30,Unirea Dej,Gloria Buzau,1,0
+10.05.2023 11:00,Poli Iasi,Steaua Bucuresti,5,1
+07.05.2023 06:30,Steaua Bucuresti,Otelul,1,1
+07.05.2023 04:00,Gloria Buzau,Poli Iasi,1,1
+06.05.2023 06:45,Dinamo Bucarest,Unirea Dej,0,0
+06.05.2023 03:00,Concordia,Unirea Constanta,0,1
+06.05.2023 03:00,CSC Dumbravita,FC Brasov,1,2
+06.05.2023 03:00,CSM Slatina,Baia Mare,1,0
+06.05.2023 03:00,Politehnica Timisoara,Metaloglobus Bucharest,0,5
+06.05.2023 03:00,Selimbar,Csikszereda M. Ciuc,1,3
+06.05.2023 03:00,Viitorul Tg. Jiu,Progresul Spartac,0,1
+02.05.2023 09:30,Poli Iasi,Otelul,2,0
+01.05.2023 09:30,Gloria Buzau,Dinamo Bucarest,2,2
+29.04.2023 04:00,Unirea Dej,Steaua Bucuresti,1,1
+29.04.2023 03:00,Baia Mare,Selimbar,0,1
+29.04.2023 03:00,Csikszereda M. Ciuc,Unirea Slobozia,3,1
+29.04.2023 03:00,FC Brasov,Concordia,2,2
+29.04.2023 03:00,Metaloglobus Bucharest,CSM Slatina,1,0
+29.04.2023 03:00,Progresul Spartac,CSC Dumbravita,3,2
+29.04.2023 03:00,Unirea Constanta,Ripensia Timisoara,2,0
+25.04.2023 12:00,Dinamo Bucarest,Poli Iasi,1,3
+22.04.2023 04:30,Gloria Buzau,Steaua Bucuresti,1,0
+22.04.2023 03:00,Concordia,Progresul Spartac,1,0
+22.04.2023 03:00,CSC Dumbravita,Viitorul Tg. Jiu,4,0
+22.04.2023 03:00,CSM Slatina,Politehnica Timisoara,1,0
+22.04.2023 03:00,Ripensia Timisoara,FC Brasov,0,3
+22.04.2023 03:00,Selimbar,Metaloglobus Bucharest,1,2
+22.04.2023 03:00,Unirea Slobozia,Baia Mare,0,0
+21.04.2023 09:30,Unirea Dej,Otelul,0,1
+18.04.2023 11:00,Steaua Bucuresti,Dinamo Bucarest,2,0
+15.04.2023 06:15,Poli Iasi,Unirea Dej,0,0
+14.04.2023 03:00,Baia Mare,Csikszereda M. Ciuc,1,1
+14.04.2023 03:00,FC Brasov,Unirea Constanta,9,0
+14.04.2023 03:00,Metaloglobus Bucharest,Unirea Slobozia,3,3
+14.04.2023 03:00,Politehnica Timisoara,Selimbar,0,1
+14.04.2023 03:00,Progresul Spartac,Ripensia Timisoara,1,0
+14.04.2023 03:00,Viitorul Tg. Jiu,Concordia,1,0
+13.04.2023 12:00,Otelul,Gloria Buzau,1,0
+11.04.2023 11:00,Steaua Bucuresti,Poli Iasi,2,2
+08.04.2023 04:30,Gloria Buzau,Unirea Dej,0,0
+08.04.2023 03:00,Concordia,CSC Dumbravita,3,1
+08.04.2023 03:00,Csikszereda M. Ciuc,Metaloglobus Bucharest,2,1
+08.04.2023 03:00,Ripensia Timisoara,Viitorul Tg. Jiu,1,1
+08.04.2023 03:00,Selimbar,CSM Slatina,2,0
+08.04.2023 03:00,Unirea Constanta,Progresul Spartac,0,9
+08.04.2023 03:00,Unirea Slobozia,Politehnica Timisoara,1,2
+07.04.2023 12:30,Dinamo Bucarest,Otelul,3,0
+02.04.2023 08:00,Unirea Dej,Dinamo Bucarest,0,3
+02.04.2023 03:00,Politehnica Timisoara,Csikszereda M. Ciuc,2,1
+01.04.2023 03:00,CSC Dumbravita,Ripensia Timisoara,2,0
+01.04.2023 03:00,CSM Slatina,Unirea Slobozia,0,0
+01.04.2023 03:00,Metaloglobus Bucharest,Baia Mare,0,0
+01.04.2023 03:00,Progresul Spartac,FC Brasov,1,4
+01.04.2023 03:00,Viitorul Tg. Jiu,Unirea Constanta,7,2
+31.03.2023 10:00,Poli Iasi,Gloria Buzau,1,1
+30.03.2023 12:00,Otelul,Steaua Bucuresti,3,2
+19.03.2023 07:15,Otelul,Poli Iasi,1,2
+19.03.2023 05:00,Dinamo Bucarest,Gloria Buzau,1,1
+18.03.2023 04:00,Baia Mare,Politehnica Timisoara,2,1
+18.03.2023 04:00,Csikszereda M. Ciuc,CSM Slatina,2,0
+18.03.2023 04:00,FC Brasov,Viitorul Tg. Jiu,3,1
+18.03.2023 04:00,Ripensia Timisoara,Concordia,1,2
+18.03.2023 04:00,Unirea Constanta,CSC Dumbravita,0,2
+18.03.2023 04:00,Unirea Slobozia,Selimbar,2,3
+16.03.2023 11:00,Steaua Bucuresti,Unirea Dej,3,0
+12.03.2023 06:00,Baia Mare,Gloria Buzau,1,1
+12.03.2023 06:00,CSC Dumbravita,Otelul,1,1
+12.03.2023 06:00,Csikszereda M. Ciuc,Viitorul Tg. Jiu,1,2
+12.03.2023 06:00,CSM Slatina,Unirea Dej,1,1
+12.03.2023 06:00,Dinamo Bucarest,Politehnica Timisoara,1,1
+12.03.2023 06:00,Metaloglobus Bucharest,Concordia,2,1
+12.03.2023 06:00,Poli Iasi,Progresul Spartac,3,1
+12.03.2023 06:00,Ripensia Timisoara,Steaua Bucuresti,0,2
+12.03.2023 06:00,Unirea Constanta,Selimbar,0,3
+12.03.2023 06:00,Unirea Slobozia,FC Brasov,2,2
+07.03.2023 12:00,Gloria Buzau,Unirea Slobozia,3,1
+05.03.2023 04:00,Steaua Bucuresti,Baia Mare,3,0
+04.03.2023 07:30,Politehnica Timisoara,Poli Iasi,1,3
+04.03.2023 05:00,Selimbar,Dinamo Bucarest,1,2
+04.03.2023 05:00,Unirea Dej,Metaloglobus Bucharest,1,1
+04.03.2023 04:00,Concordia,Ripensia Timisoara,2,1
+04.03.2023 04:00,FC Brasov,Unirea Constanta,5,2
+04.03.2023 04:00,Progresul Spartac,CSC Dumbravita,0,0
+04.03.2023 04:00,Viitorul Tg. Jiu,CSM Slatina,0,1
+03.03.2023 10:00,Otelul,Csikszereda M. Ciuc,1,0
+27.02.2023 10:00,Dinamo Bucarest,Unirea Constanta,6,0
+26.02.2023 04:00,Baia Mare,Concordia,0,1
+25.02.2023 05:00,CSM Slatina,Otelul,0,0
+25.02.2023 04:00,CSC Dumbravita,Politehnica Timisoara,3,1
+25.02.2023 04:00,Csikszereda M. Ciuc,Progresul Spartac,2,2
+25.02.2023 04:00,Metaloglobus Bucharest,Viitorul Tg. Jiu,0,0
+25.02.2023 04:00,Poli Iasi,Selimbar,4,1
+25.02.2023 04:00,Ripensia Timisoara,Unirea Dej,1,2
+24.02.2023 09:00,Unirea Slobozia,Steaua Bucuresti,2,2
+23.02.2023 10:00,Gloria Buzau,FC Brasov,1,1
+03.12.2022 06:15,FC Brasov,Dinamo Bucarest,0,2
+03.12.2022 04:00,Otelul,Metaloglobus Bucharest,3,0
+03.12.2022 04:00,Politehnica Timisoara,Csikszereda M. Ciuc,2,1
+03.12.2022 04:00,Progresul Spartac,CSM Slatina,1,1
+03.12.2022 04:00,Selimbar,CSC Dumbravita,0,3
+03.12.2022 04:00,Unirea Constanta,Poli Iasi,1,2
+03.12.2022 04:00,Unirea Dej,Baia Mare,1,1
+03.12.2022 04:00,Viitorul Tg. Jiu,Ripensia Timisoara,3,1
+02.12.2022 06:00,Concordia,Unirea Slobozia,1,0
+01.12.2022 08:00,Steaua Bucuresti,Gloria Buzau,1,1
+28.11.2022 13:00,Csikszereda M. Ciuc,Selimbar,1,2
+27.11.2022 12:00,Steaua Bucuresti,FC Brasov,0,1
+27.11.2022 07:00,Ripensia Timisoara,Otelul,0,1
+26.11.2022 09:00,Poli Iasi,Dinamo Bucarest,1,0
+26.11.2022 06:45,Unirea Slobozia,Unirea Dej,1,1
+26.11.2022 04:00,Baia Mare,Viitorul Tg. Jiu,1,2
+26.11.2022 04:00,CSC Dumbravita,Unirea Constanta,2,0
+26.11.2022 04:00,CSM Slatina,Politehnica Timisoara,0,0
+26.11.2022 04:00,Metaloglobus Bucharest,Progresul Spartac,3,0
+25.11.2022 13:00,Gloria Buzau,Concordia,0,1
+15.11.2022 13:30,Otelul,Baia Mare,1,0
+13.11.2022 04:00,Dinamo Bucarest,CSC Dumbravita,4,1
+12.11.2022 05:00,FC Brasov,Poli Iasi,2,2
+12.11.2022 04:00,Politehnica Timisoara,Metaloglobus Bucharest,1,2
+12.11.2022 04:00,Progresul Spartac,Ripensia Timisoara,1,1
+12.11.2022 04:00,Selimbar,CSM Slatina,0,0
+12.11.2022 04:00,Unirea Constanta,Csikszereda M. Ciuc,1,2
+12.11.2022 04:00,Unirea Dej,Gloria Buzau,2,3
+12.11.2022 04:00,Viitorul Tg. Jiu,Unirea Slobozia,0,4
+11.11.2022 11:00,Concordia,Steaua Bucuresti,0,1
+07.11.2022 11:00,Steaua Bucuresti,Unirea Dej,2,0
+06.11.2022 04:00,Gloria Buzau,Viitorul Tg. Jiu,3,1
+05.11.2022 05:30,Unirea Slobozia,Otelul,1,0
+05.11.2022 04:00,Baia Mare,Progresul Spartac,2,2
+05.11.2022 04:00,Concordia,FC Brasov,0,1
+05.11.2022 04:00,CSC Dumbravita,Poli Iasi,0,3
+05.11.2022 04:00,CSM Slatina,Unirea Constanta,0,1
+05.11.2022 04:00,Metaloglobus Bucharest,Selimbar,2,0
+05.11.2022 04:00,Ripensia Timisoara,Politehnica Timisoara,1,0
+03.11.2022 13:00,Csikszereda M. Ciuc,Dinamo Bucarest,0,0
+01.11.2022 10:00,Otelul,Gloria Buzau,1,1
+30.10.2022 04:00,FC Brasov,CSC Dumbravita,4,0
+29.10.2022 04:00,Unirea Dej,Concordia,1,1
+29.10.2022 04:00,Viitorul Tg. Jiu,Steaua Bucuresti,4,3
+29.10.2022 03:00,Poli Iasi,Csikszereda M. Ciuc,0,0
+29.10.2022 03:00,Politehnica Timisoara,Baia Mare,1,1
+29.10.2022 03:00,Progresul Spartac,Unirea Slobozia,1,4
+29.10.2022 03:00,Selimbar,Ripensia Timisoara,0,0
+29.10.2022 03:00,Unirea Constanta,Metaloglobus Bucharest,1,3
+27.10.2022 09:00,Dinamo Bucarest,CSM Slatina,0,0
+25.10.2022 09:00,Steaua Bucuresti,Otelul,1,0
+24.10.2022 08:00,Gloria Buzau,Progresul Spartac,0,0
+23.10.2022 03:00,Baia Mare,Selimbar,3,0
+23.10.2022 03:00,Unirea Slobozia,Politehnica Timisoara,0,0
+22.10.2022 04:00,Metaloglobus Bucharest,Dinamo Bucarest,1,2
+22.10.2022 03:00,Concordia,Viitorul Tg. Jiu,2,0
+22.10.2022 03:00,Csikszereda M. Ciuc,CSC Dumbravita,3,0
+22.10.2022 03:00,Ripensia Timisoara,Unirea Constanta,4,0
+22.10.2022 03:00,Unirea Dej,FC Brasov,2,1
+21.10.2022 07:30,CSM Slatina,Poli Iasi,1,0
+17.10.2022 10:15,Otelul,Concordia,1,0
+17.10.2022 08:00,Progresul Spartac,Steaua Bucuresti,0,3
+16.10.2022 03:45,Politehnica Timisoara,Gloria Buzau,1,1
+15.10.2022 04:00,Dinamo Bucarest,Ripensia Timisoara,1,0
+15.10.2022 03:00,CSC Dumbravita,CSM Slatina,2,1
+15.10.2022 03:00,Poli Iasi,Metaloglobus Bucharest,1,0
+15.10.2022 03:00,Selimbar,Unirea Slobozia,1,1
+15.10.2022 03:00,Unirea Constanta,Baia Mare,1,0
+15.10.2022 03:00,Viitorul Tg. Jiu,Unirea Dej,1,2
+14.10.2022 08:00,FC Brasov,Csikszereda M. Ciuc,1,1
+12.10.2022 09:00,Steaua Bucuresti,Unirea Constanta,5,0
+11.10.2022 09:00,Gloria Buzau,Selimbar,1,0
+09.10.2022 03:00,Baia Mare,Dinamo Bucarest,1,1
+08.10.2022 05:00,Unirea Dej,Otelul,2,0
+08.10.2022 03:00,Concordia,Progresul Spartac,2,0
+08.10.2022 03:00,CSM Slatina,Csikszereda M. Ciuc,2,0
+08.10.2022 03:00,Metaloglobus Bucharest,CSC Dumbravita,1,0
+08.10.2022 03:00,Ripensia Timisoara,Poli Iasi,3,1
+08.10.2022 03:00,Steaua Bucuresti,Politehnica Timisoara,3,1
+08.10.2022 03:00,Unirea Slobozia,Unirea Constanta,3,0
+08.10.2022 03:00,Viitorul Tg. Jiu,FC Brasov,2,3
+04.10.2022 09:00,Dinamo Bucarest,Unirea Slobozia,1,0
+03.10.2022 08:00,Unirea Constanta,Gloria Buzau,3,1
+02.10.2022 03:00,Csikszereda M. Ciuc,Metaloglobus Bucharest,2,0
+02.10.2022 03:00,FC Brasov,CSM Slatina,0,0
+02.10.2022 03:00,Otelul,Viitorul Tg. Jiu,2,1
+02.10.2022 03:00,Politehnica Timisoara,Concordia,1,4
+01.10.2022 04:00,Selimbar,Steaua Bucuresti,1,1
+01.10.2022 03:00,CSC Dumbravita,Ripensia Timisoara,1,0
+01.10.2022 03:00,Poli Iasi,Baia Mare,2,0
+01.10.2022 03:00,Progresul Spartac,Unirea Dej,2,2
+18.09.2022 03:00,Gloria Buzau,Dinamo Bucarest,2,1
+18.09.2022 03:00,Otelul,FC Brasov,2,1
+18.09.2022 03:00,Ripensia Timisoara,Csikszereda M. Ciuc,0,0
+18.09.2022 03:00,Unirea Slobozia,Poli Iasi,0,0
+17.09.2022 03:00,Baia Mare,CSC Dumbravita,3,4
+17.09.2022 03:00,Concordia,Selimbar,0,1
+17.09.2022 03:00,Metaloglobus Bucharest,CSM Slatina,0,1
+17.09.2022 03:00,Unirea Dej,Politehnica Timisoara,2,2
+17.09.2022 03:00,Viitorul Tg. Jiu,Progresul Spartac,1,0
+11.09.2022 03:30,Csikszereda M. Ciuc,Baia Mare,3,0
+10.09.2022 03:00,CSC Dumbravita,Unirea Slobozia,2,4
+10.09.2022 03:00,CSM Slatina,Ripensia Timisoara,3,0
+10.09.2022 03:00,FC Brasov,Metaloglobus Bucharest,1,0
+10.09.2022 03:00,Poli Iasi,Gloria Buzau,1,0
+10.09.2022 03:00,Politehnica Timisoara,Viitorul Tg. Jiu,0,1
+10.09.2022 03:00,Selimbar,Unirea Dej,1,1
+10.09.2022 03:00,Unirea Constanta,Concordia,0,3
+09.09.2022 13:30,Dinamo Bucarest,Steaua Bucuresti,1,2
+09.09.2022 08:30,Progresul Spartac,Otelul,0,0
+05.09.2022 08:30,Gloria Buzau,CSC Dumbravita,2,1
+04.09.2022 03:00,Concordia,Dinamo Bucarest,0,1
+03.09.2022 03:30,Otelul,Politehnica Timisoara,1,0
+03.09.2022 03:00,Baia Mare,CSM Slatina,2,1
+03.09.2022 03:00,Progresul Spartac,FC Brasov,2,1
+03.09.2022 03:00,Ripensia Timisoara,Metaloglobus Bucharest,2,1
+03.09.2022 03:00,Unirea Dej,Unirea Constanta,2,1
+03.09.2022 03:00,Unirea Slobozia,Csikszereda M. Ciuc,0,1
+03.09.2022 03:00,Viitorul Tg. Jiu,Selimbar,1,0
+02.09.2022 08:30,Steaua Bucuresti,Poli Iasi,2,1
+29.08.2022 10:00,CSC Dumbravita,Steaua Bucuresti,0,3
+28.08.2022 03:00,Csikszereda M. Ciuc,Gloria Buzau,3,2
+27.08.2022 10:00,Unirea Constanta,Viitorul Tg. Jiu,2,1
+27.08.2022 03:30,Dinamo Bucarest,Unirea Dej,2,3
+27.08.2022 03:00,CSM Slatina,Unirea Slobozia,1,1
+27.08.2022 03:00,FC Brasov,Ripensia Timisoara,1,0
+27.08.2022 03:00,Metaloglobus Bucharest,Baia Mare,0,1
+27.08.2022 03:00,Poli Iasi,Concordia,2,1
+27.08.2022 03:00,Politehnica Timisoara,Progresul Spartac,0,1
+26.08.2022 08:30,Selimbar,Otelul,1,1
+23.08.2022 11:00,Steaua Bucuresti,Csikszereda M. Ciuc,0,4
+21.08.2022 04:30,Otelul,Unirea Constanta,3,2
+20.08.2022 10:45,Viitorul Tg. Jiu,Dinamo Bucarest,2,0
+20.08.2022 10:00,Progresul Spartac,Selimbar,1,2
+20.08.2022 05:00,Gloria Buzau,CSM Slatina,1,1
+20.08.2022 03:00,Baia Mare,Ripensia Timisoara,1,1
+20.08.2022 03:00,Concordia,CSC Dumbravita,2,2
+20.08.2022 03:00,Politehnica Timisoara,FC Brasov,0,0
+20.08.2022 03:00,Unirea Dej,Poli Iasi,1,2
+20.08.2022 03:00,Unirea Slobozia,Metaloglobus Bucharest,1,0
+16.08.2022 10:00,Dinamo Bucarest,Otelul,1,3
+15.08.2022 04:30,CSM Slatina,Steaua Bucuresti,1,2
+14.08.2022 05:30,FC Brasov,Baia Mare,1,1
+13.08.2022 03:30,Metaloglobus Bucharest,Gloria Buzau,1,3
+13.08.2022 03:00,CSC Dumbravita,Unirea Dej,1,2
+13.08.2022 03:00,Poli Iasi,Viitorul Tg. Jiu,2,0
+13.08.2022 03:00,Ripensia Timisoara,Unirea Slobozia,1,2
+13.08.2022 03:00,Selimbar,Politehnica Timisoara,4,0
+13.08.2022 03:00,Unirea Constanta,Progresul Spartac,0,3
+12.08.2022 10:30,Csikszereda M. Ciuc,Concordia,0,1
+09.08.2022 12:00,Steaua Bucuresti,Metaloglobus Bucharest,1,1
+06.08.2022 10:00,Politehnica Timisoara,Unirea Constanta,1,0
+06.08.2022 03:30,Otelul,Poli Iasi,0,0
+06.08.2022 03:00,Concordia,CSM Slatina,0,3
+06.08.2022 03:00,Gloria Buzau,Ripensia Timisoara,1,0
+06.08.2022 03:00,Selimbar,FC Brasov,1,0
+06.08.2022 03:00,Unirea Dej,Csikszereda M. Ciuc,2,1
+06.08.2022 03:00,Viitorul Tg. Jiu,CSC Dumbravita,0,1
+05.08.2022 09:00,Unirea Slobozia,Baia Mare,3,0
+04.08.2022 09:00,Progresul Spartac,Dinamo Bucarest,0,1

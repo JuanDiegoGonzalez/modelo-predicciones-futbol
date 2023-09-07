@@ -1,0 +1,347 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+27.05.2023 10:30,Cracovia,Plock,3,0
+27.05.2023 10:30,Lech Poznan,Jagiellonia,2,0
+27.05.2023 10:30,Legia,Slask,3,1
+27.05.2023 10:30,Legnica,Gornik Zabrze,0,0
+27.05.2023 10:30,Piast,Lechia,3,0
+27.05.2023 10:30,Pogon Szczecin,Radomiak Radom,4,0
+27.05.2023 10:30,Rakow,Zaglebie,1,1
+27.05.2023 10:30,Stal Mielec,Warta,1,0
+27.05.2023 10:30,Widzew Lodz,Korona,0,3
+22.05.2023 12:00,Warta,Piast,1,1
+21.05.2023 10:30,Plock,Rakow,1,2
+21.05.2023 08:00,Radomiak Radom,Widzew Lodz,3,1
+21.05.2023 05:30,Slask,Legnica,4,2
+20.05.2023 13:00,Lechia,Legia,1,0
+20.05.2023 10:30,Gornik Zabrze,Pogon Szczecin,2,1
+20.05.2023 08:00,Jagiellonia,Cracovia,1,1
+19.05.2023 13:30,Korona,Lech Poznan,0,3
+19.05.2023 11:00,Zaglebie,Stal Mielec,2,0
+15.05.2023 12:00,Warta,Radomiak Radom,1,2
+14.05.2023 10:30,Rakow,Lech Poznan,0,2
+14.05.2023 08:00,Pogon Szczecin,Legnica,3,2
+14.05.2023 05:30,Stal Mielec,Lechia,0,0
+13.05.2023 13:00,Widzew Lodz,Gornik Zabrze,2,3
+13.05.2023 10:30,Cracovia,Zaglebie,0,1
+13.05.2023 08:00,Slask,Plock,3,1
+12.05.2023 13:30,Legia,Jagiellonia,5,1
+12.05.2023 11:00,Piast,Korona,2,1
+08.05.2023 12:00,Legnica,Widzew Lodz,0,1
+07.05.2023 10:30,Pogon Szczecin,Legia,2,1
+07.05.2023 08:00,Korona,Rakow,1,0
+07.05.2023 05:30,Plock,Stal Mielec,0,0
+06.05.2023 13:00,Lechia,Zaglebie,1,3
+06.05.2023 10:30,Lech Poznan,Cracovia,3,0
+06.05.2023 08:00,Radomiak Radom,Piast,0,1
+05.05.2023 13:30,Gornik Zabrze,Warta,2,0
+05.05.2023 11:00,Jagiellonia,Slask,1,1
+01.05.2023 12:00,Cracovia,Legnica,1,1
+30.04.2023 10:30,Lech Poznan,Gornik Zabrze,0,1
+30.04.2023 08:00,Stal Mielec,Korona,2,1
+30.04.2023 05:30,Slask,Radomiak Radom,0,1
+29.04.2023 13:00,Piast,Pogon Szczecin,0,0
+29.04.2023 10:30,Zaglebie,Widzew Lodz,2,0
+29.04.2023 08:00,Jagiellonia,Warta,3,1
+28.04.2023 13:30,Rakow,Lechia,4,0
+28.04.2023 11:00,Legia,Plock,2,0
+24.04.2023 12:00,Radomiak Radom,Lech Poznan,1,1
+23.04.2023 10:30,Gornik Zabrze,Slask,2,0
+23.04.2023 08:00,Widzew Lodz,Piast,2,3
+23.04.2023 05:30,Korona,Zaglebie,2,2
+22.04.2023 13:00,Pogon Szczecin,Stal Mielec,4,2
+22.04.2023 10:30,Legnica,Rakow,0,2
+22.04.2023 08:00,Lechia,Cracovia,1,2
+21.04.2023 13:30,Warta,Legia,1,0
+21.04.2023 11:00,Plock,Jagiellonia,2,4
+17.04.2023 12:00,Stal Mielec,Legnica,1,1
+16.04.2023 10:30,Legia,Lech Poznan,2,2
+16.04.2023 08:00,Rakow,Widzew Lodz,2,0
+16.04.2023 05:30,Piast,Plock,1,0
+15.04.2023 13:00,Lechia,Pogon Szczecin,0,1
+15.04.2023 10:30,Korona,Jagiellonia,2,1
+15.04.2023 08:00,Cracovia,Radomiak Radom,3,0
+14.04.2023 13:30,Zaglebie,Gornik Zabrze,0,2
+14.04.2023 11:00,Warta,Slask,3,1
+10.04.2023 13:00,Legnica,Legia,2,2
+10.04.2023 10:30,Radomiak Radom,Rakow,0,0
+10.04.2023 08:00,Jagiellonia,Lechia,1,0
+08.04.2023 13:00,Lech Poznan,Warta,2,0
+08.04.2023 10:30,Pogon Szczecin,Cracovia,3,2
+08.04.2023 08:00,Widzew Lodz,Stal Mielec,0,2
+08.04.2023 05:30,Plock,Zaglebie,2,0
+06.04.2023 13:30,Gornik Zabrze,Korona,1,1
+06.04.2023 11:00,Slask,Piast,0,1
+03.04.2023 12:00,Stal Mielec,Jagiellonia,1,1
+02.04.2023 10:30,Lech Poznan,Pogon Szczecin,2,2
+02.04.2023 08:00,Cracovia,Widzew Lodz,1,1
+02.04.2023 05:30,Plock,Radomiak Radom,1,1
+01.04.2023 13:00,Lechia,Slask,0,0
+01.04.2023 10:30,Legia,Rakow,3,1
+01.04.2023 08:00,Korona,Legnica,1,0
+31.03.2023 13:30,Piast,Gornik Zabrze,1,0
+31.03.2023 11:00,Zaglebie,Warta,0,0
+19.03.2023 11:30,Widzew Lodz,Lech Poznan,1,2
+19.03.2023 09:00,Legnica,Piast,0,1
+19.03.2023 06:30,Warta,Lechia,2,0
+18.03.2023 14:00,Rakow,Cracovia,4,1
+18.03.2023 11:30,Pogon Szczecin,Korona,0,0
+18.03.2023 09:00,Jagiellonia,Zaglebie,2,2
+18.03.2023 06:30,Slask,Stal Mielec,1,1
+17.03.2023 14:30,Radomiak Radom,Legia,0,2
+17.03.2023 12:00,Gornik Zabrze,Plock,3,2
+13.03.2023 13:00,Plock,Widzew Lodz,1,1
+12.03.2023 11:30,Legia,Stal Mielec,2,0
+12.03.2023 09:00,Piast,Lech Poznan,1,1
+12.03.2023 06:30,Warta,Cracovia,0,0
+11.03.2023 14:00,Jagiellonia,Gornik Zabrze,2,1
+11.03.2023 11:30,Zaglebie,Pogon Szczecin,0,1
+11.03.2023 09:00,Korona,Radomiak Radom,2,1
+10.03.2023 14:30,Rakow,Slask,4,1
+10.03.2023 12:00,Lechia,Legnica,4,0
+08.03.2023 12:45,Plock,Warta,1,0
+06.03.2023 13:00,Radomiak Radom,Zaglebie,0,1
+05.03.2023 11:30,Cracovia,Slask,1,1
+05.03.2023 09:00,Pogon Szczecin,Rakow,0,2
+05.03.2023 06:30,Legnica,Jagiellonia,1,1
+04.03.2023 14:00,Gornik Zabrze,Legia,0,1
+04.03.2023 11:30,Korona,Plock,1,0
+04.03.2023 09:00,Widzew Lodz,Warta,0,2
+03.03.2023 14:30,Lech Poznan,Lechia,5,0
+03.03.2023 12:00,Stal Mielec,Piast,0,2
+27.02.2023 13:00,Zaglebie,Legnica,2,1
+26.02.2023 11:30,Slask,Lech Poznan,2,1
+26.02.2023 09:00,Plock,Pogon Szczecin,0,1
+26.02.2023 06:30,Stal Mielec,Gornik Zabrze,0,1
+25.02.2023 14:00,Lechia,Radomiak Radom,1,3
+25.02.2023 11:30,Warta,Korona,5,1
+25.02.2023 09:00,Piast,Cracovia,2,1
+24.02.2023 14:30,Legia,Widzew Lodz,2,2
+24.02.2023 12:00,Jagiellonia,Rakow,1,2
+20.02.2023 13:00,Radomiak Radom,Jagiellonia,0,0
+19.02.2023 11:30,Piast,Legia,0,1
+19.02.2023 09:00,Lech Poznan,Zaglebie,1,2
+19.02.2023 06:30,Legnica,Plock,2,1
+18.02.2023 14:00,Pogon Szczecin,Warta,3,1
+18.02.2023 11:30,Rakow,Gornik Zabrze,2,0
+18.02.2023 09:00,Korona,Lechia,1,0
+17.02.2023 14:30,Widzew Lodz,Slask,1,0
+17.02.2023 12:00,Cracovia,Stal Mielec,2,1
+13.02.2023 13:00,Warta,Legnica,1,1
+12.02.2023 11:30,Legia,Cracovia,2,2
+12.02.2023 09:00,Gornik Zabrze,Radomiak Radom,0,0
+12.02.2023 06:30,Zaglebie,Piast,0,2
+11.02.2023 14:00,Jagiellonia,Pogon Szczecin,2,0
+11.02.2023 11:30,Plock,Lech Poznan,0,1
+11.02.2023 09:00,Slask,Korona,1,1
+10.02.2023 14:30,Lechia,Widzew Lodz,0,0
+10.02.2023 12:00,Stal Mielec,Rakow,0,0
+06.02.2023 13:00,Korona,Cracovia,2,1
+05.02.2023 11:30,Pogon Szczecin,Slask,0,2
+05.02.2023 09:00,Lech Poznan,Legnica,1,0
+05.02.2023 06:30,Radomiak Radom,Stal Mielec,1,0
+04.02.2023 14:00,Zaglebie,Legia,1,2
+04.02.2023 11:30,Gornik Zabrze,Lechia,1,1
+04.02.2023 09:00,Rakow,Piast,1,0
+03.02.2023 14:30,Widzew Lodz,Jagiellonia,1,1
+01.02.2023 13:00,Legnica,Lech Poznan,2,2
+30.01.2023 13:00,Cracovia,Gornik Zabrze,2,0
+29.01.2023 11:30,Lechia,Plock,1,0
+29.01.2023 09:00,Legia,Korona,3,2
+29.01.2023 06:30,Piast,Jagiellonia,1,1
+28.01.2023 14:00,Slask,Zaglebie,0,3
+28.01.2023 11:30,Widzew Lodz,Pogon Szczecin,3,3
+28.01.2023 09:00,Warta,Rakow,1,1
+27.01.2023 14:30,Stal Mielec,Lech Poznan,0,0
+27.01.2023 12:00,Legnica,Radomiak Radom,0,0
+18.11.2022 14:30,Lechia,Gornik Zabrze,2,1
+13.11.2022 11:30,Slask,Legia,0,0
+13.11.2022 09:00,Lechia,Piast,1,3
+13.11.2022 06:30,Radomiak Radom,Pogon Szczecin,1,2
+12.11.2022 14:00,Zaglebie,Rakow,1,2
+12.11.2022 11:30,Jagiellonia,Lech Poznan,1,2
+12.11.2022 09:00,Gornik Zabrze,Legnica,0,3
+12.11.2022 06:30,Korona,Widzew Lodz,0,1
+11.11.2022 14:30,Plock,Cracovia,1,0
+11.11.2022 12:00,Warta,Stal Mielec,1,1
+06.11.2022 11:30,Lech Poznan,Korona,3,2
+06.11.2022 09:00,Widzew Lodz,Radomiak Radom,1,3
+06.11.2022 06:30,Legnica,Slask,1,0
+05.11.2022 14:00,Rakow,Plock,7,1
+05.11.2022 11:30,Pogon Szczecin,Gornik Zabrze,1,4
+05.11.2022 09:00,Cracovia,Jagiellonia,1,0
+05.11.2022 06:30,Piast,Warta,0,2
+04.11.2022 14:30,Legia,Lechia,2,1
+04.11.2022 12:00,Stal Mielec,Zaglebie,3,0
+31.10.2022 13:00,Radomiak Radom,Warta,2,3
+30.10.2022 11:30,Lech Poznan,Rakow,1,2
+30.10.2022 09:00,Lechia,Stal Mielec,1,0
+30.10.2022 06:30,Zaglebie,Cracovia,0,2
+29.10.2022 13:00,Plock,Slask,1,2
+29.10.2022 10:30,Jagiellonia,Legia,2,5
+29.10.2022 08:00,Korona,Piast,1,1
+28.10.2022 13:30,Gornik Zabrze,Widzew Lodz,3,0
+28.10.2022 11:00,Legnica,Pogon Szczecin,2,4
+24.10.2022 13:30,Zaglebie,Lechia,0,3
+24.10.2022 11:00,Piast,Radomiak Radom,1,2
+23.10.2022 10:30,Cracovia,Lech Poznan,0,0
+23.10.2022 08:00,Slask,Jagiellonia,2,2
+23.10.2022 05:30,Warta,Gornik Zabrze,0,0
+22.10.2022 13:00,Rakow,Korona,1,0
+22.10.2022 10:30,Legia,Pogon Szczecin,1,1
+22.10.2022 08:00,Stal Mielec,Plock,1,1
+21.10.2022 13:30,Widzew Lodz,Legnica,1,0
+16.10.2022 11:30,Gornik Zabrze,Lech Poznan,1,2
+16.10.2022 08:00,Widzew Lodz,Zaglebie,3,0
+16.10.2022 05:30,Legnica,Cracovia,1,1
+15.10.2022 13:00,Pogon Szczecin,Piast,1,1
+15.10.2022 10:30,Warta,Jagiellonia,2,0
+15.10.2022 08:00,Lechia,Rakow,0,3
+15.10.2022 05:30,Radomiak Radom,Slask,2,0
+14.10.2022 13:30,Plock,Legia,2,1
+14.10.2022 11:00,Korona,Stal Mielec,0,2
+10.10.2022 13:30,Piast,Widzew Lodz,1,2
+10.10.2022 11:00,Rakow,Legnica,1,0
+09.10.2022 10:30,Lech Poznan,Radomiak Radom,1,0
+09.10.2022 08:00,Zaglebie,Korona,1,1
+08.10.2022 13:00,Cracovia,Lechia,0,1
+08.10.2022 10:30,Legia,Warta,1,0
+08.10.2022 08:00,Slask,Gornik Zabrze,4,1
+07.10.2022 13:30,Jagiellonia,Plock,1,1
+07.10.2022 11:00,Stal Mielec,Pogon Szczecin,4,2
+06.10.2022 13:45,Piast,Rakow,0,1
+03.10.2022 12:00,Slask,Warta,0,2
+02.10.2022 10:30,Widzew Lodz,Rakow,0,0
+02.10.2022 08:00,Jagiellonia,Korona,4,1
+02.10.2022 05:30,Legnica,Stal Mielec,0,2
+01.10.2022 13:30,Pogon Szczecin,Lechia,2,1
+01.10.2022 10:30,Lech Poznan,Legia,0,0
+01.10.2022 08:00,Gornik Zabrze,Zaglebie,2,3
+30.09.2022 13:30,Plock,Piast,1,0
+30.09.2022 11:00,Radomiak Radom,Cracovia,0,2
+18.09.2022 10:30,Warta,Lech Poznan,0,1
+18.09.2022 08:00,Zaglebie,Plock,2,1
+18.09.2022 05:30,Korona,Gornik Zabrze,1,2
+17.09.2022 13:00,Cracovia,Pogon Szczecin,1,1
+17.09.2022 10:30,Rakow,Radomiak Radom,3,0
+17.09.2022 08:00,Lechia,Jagiellonia,2,2
+17.09.2022 05:30,Stal Mielec,Widzew Lodz,0,3
+16.09.2022 13:30,Legia,Legnica,3,2
+16.09.2022 11:00,Piast,Slask,1,1
+12.09.2022 12:00,Jagiellonia,Stal Mielec,4,0
+11.09.2022 10:30,Rakow,Legia,4,0
+11.09.2022 08:00,Pogon Szczecin,Lech Poznan,2,2
+11.09.2022 05:30,Legnica,Korona,2,2
+10.09.2022 13:00,Gornik Zabrze,Piast,3,3
+10.09.2022 10:30,Radomiak Radom,Plock,2,0
+10.09.2022 08:00,Slask,Lechia,2,1
+09.09.2022 13:30,Widzew Lodz,Cracovia,2,0
+09.09.2022 11:00,Warta,Zaglebie,2,2
+05.09.2022 13:30,Plock,Gornik Zabrze,1,1
+05.09.2022 11:00,Piast,Legnica,2,1
+04.09.2022 10:30,Lech Poznan,Widzew Lodz,2,0
+04.09.2022 08:00,Korona,Pogon Szczecin,1,2
+04.09.2022 05:30,Zaglebie,Jagiellonia,1,1
+03.09.2022 13:00,Cracovia,Rakow,3,0
+03.09.2022 10:30,Lechia,Warta,0,0
+03.09.2022 08:00,Stal Mielec,Slask,2,0
+02.09.2022 13:30,Legia,Radomiak Radom,1,0
+31.08.2022 13:30,Lechia,Lech Poznan,0,3
+31.08.2022 11:00,Rakow,Pogon Szczecin,1,0
+28.08.2022 10:30,Lech Poznan,Piast,1,0
+28.08.2022 08:00,Slask,Rakow,1,4
+28.08.2022 05:30,Cracovia,Warta,0,2
+27.08.2022 13:00,Widzew Lodz,Plock,2,1
+27.08.2022 10:30,Pogon Szczecin,Zaglebie,3,0
+27.08.2022 08:00,Legnica,Lechia,2,1
+27.08.2022 05:30,Radomiak Radom,Korona,0,2
+26.08.2022 13:30,Stal Mielec,Legia,0,1
+26.08.2022 11:00,Gornik Zabrze,Jagiellonia,1,1
+21.08.2022 10:30,Piast,Stal Mielec,4,0
+21.08.2022 08:00,Zaglebie,Radomiak Radom,0,1
+20.08.2022 13:00,Warta,Widzew Lodz,0,1
+20.08.2022 10:30,Slask,Cracovia,1,1
+20.08.2022 08:00,Plock,Korona,2,1
+19.08.2022 13:30,Legia,Gornik Zabrze,2,2
+19.08.2022 11:00,Jagiellonia,Legnica,2,1
+15.08.2022 12:00,Korona,Warta,0,1
+14.08.2022 13:00,Lech Poznan,Slask,0,1
+14.08.2022 10:30,Rakow,Jagiellonia,2,2
+14.08.2022 08:00,Radomiak Radom,Lechia,4,1
+13.08.2022 13:00,Pogon Szczecin,Plock,2,2
+13.08.2022 10:30,Gornik Zabrze,Stal Mielec,1,3
+13.08.2022 08:00,Cracovia,Piast,0,1
+12.08.2022 13:30,Widzew Lodz,Legia,1,2
+12.08.2022 11:00,Legnica,Zaglebie,0,1
+08.08.2022 12:00,Plock,Legnica,4,1
+07.08.2022 13:00,Gornik Zabrze,Rakow,1,0
+07.08.2022 10:30,Zaglebie,Lech Poznan,1,1
+07.08.2022 08:00,Warta,Pogon Szczecin,1,2
+06.08.2022 13:00,Slask,Widzew Lodz,0,0
+06.08.2022 10:30,Jagiellonia,Radomiak Radom,1,2
+06.08.2022 08:00,Lechia,Korona,0,1
+05.08.2022 13:30,Legia,Piast,2,0
+05.08.2022 11:00,Stal Mielec,Cracovia,2,0
+01.08.2022 12:00,Korona,Slask,3,1
+31.07.2022 13:00,Widzew Lodz,Lechia,2,3
+31.07.2022 10:30,Lech Poznan,Plock,1,3
+31.07.2022 10:30,Rakow,Stal Mielec,3,2
+31.07.2022 08:00,Pogon Szczecin,Jagiellonia,1,0
+30.07.2022 13:00,Legnica,Warta,1,2
+30.07.2022 10:30,Radomiak Radom,Gornik Zabrze,0,3
+29.07.2022 13:30,Cracovia,Legia,3,0
+29.07.2022 11:00,Piast,Zaglebie,0,1
+25.07.2022 12:00,Stal Mielec,Radomiak Radom,1,1
+24.07.2022 10:30,Slask,Pogon Szczecin,2,1
+23.07.2022 13:00,Legia,Zaglebie,2,0
+23.07.2022 10:30,Cracovia,Korona,2,0
+22.07.2022 13:30,Jagiellonia,Widzew Lodz,0,2
+22.07.2022 11:00,Warta,Plock,0,4
+18.07.2022 12:00,Gornik Zabrze,Cracovia,0,2
+17.07.2022 10:30,Pogon Szczecin,Widzew Lodz,2,1
+17.07.2022 08:00,Plock,Lechia,3,0
+17.07.2022 05:30,Radomiak Radom,Legnica,1,1
+16.07.2022 13:00,Korona,Legia,1,1
+16.07.2022 10:30,Jagiellonia,Piast,2,0
+16.07.2022 08:00,Lech Poznan,Stal Mielec,0,2
+15.07.2022 13:30,Zaglebie,Slask,0,0
+15.07.2022 11:00,Rakow,Warta,1,0

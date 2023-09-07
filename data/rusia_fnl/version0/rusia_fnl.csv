@@ -1,0 +1,347 @@
+Date,HomeTeam,AwayTeam,"
+                    'HG',  # Home Goals
+                    'AG',  # Away Goals
+                    'HP',  # Home Possession
+                    'AP',  # Away Possession
+                    'HTS',  # Home Total Shots
+                    'ATS',  # Away Total Shots
+                    'HSI',  # Home Shots On Goal
+                    'ASI',  # Away Shots On Goal
+                    'HSO',  # Home Shots Off Goal
+                    'ASO',  # Away Shots Off Goal
+                    'HBS',  # Home Blocked Shots
+                    'ABS',  # Away Blocked Shots
+                    'HFK',  # Home Free Kicks
+                    'AFK',  # Away Free Kicks
+                    'HC',  # Home Corner Kicks
+                    'AC',  # Away Corner Kicks
+                    'HOFF',  # Home Offsides
+                    'AOFF',  # Away Offsides
+                    'HTI',  # Home Throw Ins
+                    'ATI',  # Away Throw Ins
+                    'HGS',  # Home Goalkeeper Saves
+                    'AGS',  # Away Goalkeeper Saves
+                    'HF',  # Home Fouls
+                    'AF',  # Away Fouls
+                    'HRC',  # Home Red Cards
+                    'ARC',  # Away Red Cards
+                    'HYC',  # Home Yellow Cards
+                    'AYC',  # Away Yellow Cards
+                    'HTP',  # Home Total Passes
+                    'ATP',  # Away Total Passes
+                    'HPC',  # Home Completed Passes
+                    'APC',  # Away Completed Passes
+                    'HT',  # Home Tackles
+                    'AT',  # Away Tackles
+                    'HA',  # Home Attacks
+                    'AA',  # Away Attacks
+                    'HDA',  # Home Dangerous Attacks
+                    'ADA',  # Away Dangerous Attacks
+                    'Resultado'
+                    ",
+03.06.2023 09:00,Akron Togliatti,Volgar-Astrakhan,4,0
+03.06.2023 09:00,Kamaz,Neftekhimik,0,2
+03.06.2023 06:00,Baltika,Veles Moscow,2,1
+03.06.2023 06:00,Dynamo Makhachkala,Alania Vladikavkaz,1,2
+03.06.2023 06:00,Krasnodar 2,Yaroslavl,4,0
+03.06.2023 06:00,Rodina Moscow,Rubin Kazan,0,0
+03.06.2023 06:00,Ufa,Kuban,1,2
+03.06.2023 06:00,Yenisey,Ulyanovsk,0,0
+03.06.2023 01:00,SKA Khabarovsk,Arsenal Tula,6,0
+27.05.2023 11:00,Veles Moscow,Akron Togliatti,1,2
+27.05.2023 10:00,Arsenal Tula,Kamaz,0,1
+27.05.2023 10:00,Rubin Kazan,Dynamo Makhachkala,2,0
+27.05.2023 09:30,Neftekhimik,Ufa,2,0
+27.05.2023 09:00,Kuban,Yenisey,0,2
+27.05.2023 09:00,Ulyanovsk,Rodina Moscow,0,1
+27.05.2023 09:00,Volgar-Astrakhan,Krasnodar 2,0,3
+27.05.2023 09:00,Yaroslavl,SKA Khabarovsk,1,0
+26.05.2023 10:00,Alania Vladikavkaz,Baltika,3,1
+21.05.2023 09:00,Arsenal Tula,Yaroslavl,0,1
+21.05.2023 06:00,Rodina Moscow,Kuban,2,2
+20.05.2023 13:30,Baltika,Rubin Kazan,0,1
+20.05.2023 11:30,Krasnodar 2,Veles Moscow,5,2
+20.05.2023 08:00,Dynamo Makhachkala,Ulyanovsk,0,2
+20.05.2023 06:00,Ufa,Kamaz,1,0
+20.05.2023 05:00,Yenisey,Neftekhimik,2,2
+20.05.2023 01:00,SKA Khabarovsk,Volgar-Astrakhan,2,0
+19.05.2023 10:00,Akron Togliatti,Alania Vladikavkaz,0,0
+14.05.2023 09:00,Kuban,Dynamo Makhachkala,0,1
+13.05.2023 10:00,Rubin Kazan,Akron Togliatti,3,2
+13.05.2023 09:30,Neftekhimik,Rodina Moscow,1,5
+13.05.2023 09:00,Volgar-Astrakhan,Arsenal Tula,1,2
+13.05.2023 08:00,Ulyanovsk,Baltika,0,2
+13.05.2023 07:00,Alania Vladikavkaz,Krasnodar 2,5,2
+13.05.2023 06:00,Ufa,Yenisey,2,2
+13.05.2023 06:00,Veles Moscow,SKA Khabarovsk,1,0
+12.05.2023 10:00,Kamaz,Yaroslavl,1,0
+07.05.2023 09:00,Akron Togliatti,Ulyanovsk,1,0
+07.05.2023 07:00,Rodina Moscow,Ufa,2,1
+06.05.2023 11:00,Baltika,Kuban,2,0
+06.05.2023 11:00,Krasnodar 2,Rubin Kazan,0,1
+06.05.2023 09:00,Arsenal Tula,Veles Moscow,1,1
+06.05.2023 08:00,Dynamo Makhachkala,Neftekhimik,2,0
+06.05.2023 08:00,Yaroslavl,Volgar-Astrakhan,2,1
+06.05.2023 03:30,Yenisey,Kamaz,2,1
+06.05.2023 01:00,SKA Khabarovsk,Alania Vladikavkaz,0,0
+01.05.2023 06:30,Alania Vladikavkaz,Arsenal Tula,2,1
+29.04.2023 10:00,Rubin Kazan,SKA Khabarovsk,3,1
+29.04.2023 09:30,Neftekhimik,Baltika,0,0
+29.04.2023 09:00,Kamaz,Volgar-Astrakhan,2,2
+29.04.2023 08:00,Kuban,Akron Togliatti,1,1
+29.04.2023 08:00,Ulyanovsk,Krasnodar 2,1,0
+29.04.2023 06:00,Veles Moscow,Yaroslavl,1,1
+29.04.2023 05:00,Yenisey,Rodina Moscow,0,1
+28.04.2023 08:00,Ufa,Dynamo Makhachkala,3,0
+23.04.2023 08:00,Krasnodar 2,Kuban,1,1
+22.04.2023 13:00,Baltika,Ufa,3,2
+22.04.2023 08:30,Volgar-Astrakhan,Veles Moscow,2,1
+22.04.2023 08:00,Akron Togliatti,Neftekhimik,0,3
+22.04.2023 08:00,Yaroslavl,Alania Vladikavkaz,0,1
+22.04.2023 07:00,Dynamo Makhachkala,Yenisey,3,0
+22.04.2023 07:00,Rodina Moscow,Kamaz,2,2
+22.04.2023 01:00,SKA Khabarovsk,Ulyanovsk,1,1
+21.04.2023 11:30,Arsenal Tula,Rubin Kazan,0,1
+15.04.2023 11:00,Kuban,SKA Khabarovsk,2,2
+15.04.2023 09:30,Neftekhimik,Krasnodar 2,3,0
+15.04.2023 09:00,Kamaz,Veles Moscow,0,2
+15.04.2023 08:00,Rubin Kazan,Yaroslavl,3,0
+15.04.2023 08:00,Ulyanovsk,Arsenal Tula,0,0
+15.04.2023 06:00,Rodina Moscow,Dynamo Makhachkala,2,0
+15.04.2023 04:00,Ufa,Akron Togliatti,0,0
+15.04.2023 03:30,Yenisey,Baltika,1,1
+14.04.2023 11:00,Alania Vladikavkaz,Volgar-Astrakhan,2,2
+09.04.2023 06:00,Krasnodar 2,Ufa,1,0
+08.04.2023 08:30,Dynamo Makhachkala,Kamaz,1,0
+08.04.2023 08:00,Akron Togliatti,Yenisey,1,1
+08.04.2023 08:00,Arsenal Tula,Kuban,1,2
+08.04.2023 08:00,Yaroslavl,Ulyanovsk,2,2
+08.04.2023 06:00,Veles Moscow,Alania Vladikavkaz,1,2
+08.04.2023 02:00,SKA Khabarovsk,Neftekhimik,0,0
+07.04.2023 12:30,Baltika,Rodina Moscow,0,0
+07.04.2023 10:00,Volgar-Astrakhan,Rubin Kazan,0,0
+02.04.2023 11:00,Kuban,Yaroslavl,2,0
+02.04.2023 09:30,Neftekhimik,Arsenal Tula,1,0
+02.04.2023 09:00,Kamaz,Alania Vladikavkaz,1,0
+02.04.2023 08:00,Ulyanovsk,Volgar-Astrakhan,0,3
+02.04.2023 07:00,Dynamo Makhachkala,Baltika,0,0
+02.04.2023 07:00,Rubin Kazan,Veles Moscow,1,1
+02.04.2023 05:00,Yenisey,Krasnodar 2,0,0
+02.04.2023 03:30,Ufa,SKA Khabarovsk,3,0
+01.04.2023 07:00,Rodina Moscow,Akron Togliatti,1,3
+26.03.2023 12:00,Baltika,Kamaz,1,0
+26.03.2023 09:00,SKA Khabarovsk,Yenisey,0,0
+26.03.2023 08:00,Arsenal Tula,Ufa,2,1
+26.03.2023 08:00,Yaroslavl,Neftekhimik,3,0
+26.03.2023 07:00,Akron Togliatti,Dynamo Makhachkala,2,0
+26.03.2023 07:00,Krasnodar 2,Rodina Moscow,1,0
+26.03.2023 07:00,Volgar-Astrakhan,Kuban,1,1
+26.03.2023 06:00,Veles Moscow,Ulyanovsk,0,0
+25.03.2023 05:00,Alania Vladikavkaz,Rubin Kazan,0,0
+19.03.2023 10:00,Baltika,Akron Togliatti,1,1
+19.03.2023 09:30,Neftekhimik,Volgar-Astrakhan,1,1
+19.03.2023 08:00,Dynamo Makhachkala,Krasnodar 2,1,0
+19.03.2023 08:00,Kuban,Veles Moscow,3,2
+19.03.2023 08:00,Ulyanovsk,Alania Vladikavkaz,2,1
+19.03.2023 04:00,Ufa,Yaroslavl,1,2
+18.03.2023 09:00,Kamaz,Rubin Kazan,0,0
+18.03.2023 07:00,Rodina Moscow,SKA Khabarovsk,2,0
+17.03.2023 06:30,Yenisey,Arsenal Tula,1,0
+13.03.2023 09:00,Alania Vladikavkaz,Kuban,1,1
+12.03.2023 11:00,Yaroslavl,Yenisey,2,2
+12.03.2023 09:00,SKA Khabarovsk,Dynamo Makhachkala,0,1
+12.03.2023 08:00,Arsenal Tula,Rodina Moscow,2,3
+12.03.2023 07:00,Krasnodar 2,Baltika,0,3
+12.03.2023 07:00,Rubin Kazan,Ulyanovsk,1,0
+12.03.2023 07:00,Volgar-Astrakhan,Ufa,1,0
+12.03.2023 06:00,Veles Moscow,Neftekhimik,4,1
+11.03.2023 07:00,Akron Togliatti,Kamaz,2,0
+06.03.2023 12:00,Baltika,SKA Khabarovsk,2,0
+06.03.2023 09:30,Kuban,Rubin Kazan,1,2
+06.03.2023 09:00,Kamaz,Ulyanovsk,0,0
+05.03.2023 09:30,Neftekhimik,Alania Vladikavkaz,0,0
+05.03.2023 08:00,Dynamo Makhachkala,Arsenal Tula,0,0
+05.03.2023 07:00,Rodina Moscow,Yaroslavl,2,1
+05.03.2023 06:30,Akron Togliatti,Krasnodar 2,0,0
+05.03.2023 05:00,Yenisey,Volgar-Astrakhan,2,1
+05.03.2023 04:00,Ufa,Veles Moscow,4,1
+27.11.2022 09:00,Alania Vladikavkaz,Ufa,2,1
+27.11.2022 08:00,Kuban,Ulyanovsk,1,0
+27.11.2022 08:00,Yaroslavl,Dynamo Makhachkala,0,0
+27.11.2022 07:00,Akron Togliatti,SKA Khabarovsk,1,1
+27.11.2022 07:00,Rubin Kazan,Neftekhimik,2,0
+27.11.2022 06:00,Veles Moscow,Yenisey,2,0
+27.11.2022 06:00,Volgar-Astrakhan,Rodina Moscow,1,1
+27.11.2022 05:00,Krasnodar 2,Kamaz,2,2
+25.11.2022 11:00,Arsenal Tula,Baltika,0,5
+20.11.2022 11:00,Kamaz,Kuban,2,1
+20.11.2022 09:00,Krasnodar 2,SKA Khabarovsk,1,4
+20.11.2022 08:00,Dynamo Makhachkala,Volgar-Astrakhan,1,2
+20.11.2022 07:00,Akron Togliatti,Arsenal Tula,0,0
+20.11.2022 07:00,Rodina Moscow,Veles Moscow,1,1
+20.11.2022 06:00,Neftekhimik,Ulyanovsk,1,2
+20.11.2022 05:00,Yenisey,Alania Vladikavkaz,2,0
+20.11.2022 04:00,Ufa,Rubin Kazan,1,2
+19.11.2022 11:00,Baltika,Yaroslavl,1,0
+13.11.2022 09:00,Alania Vladikavkaz,Rodina Moscow,1,3
+13.11.2022 08:00,Arsenal Tula,Krasnodar 2,3,1
+13.11.2022 08:00,Kuban,Neftekhimik,0,1
+13.11.2022 08:00,Rubin Kazan,Yenisey,0,0
+13.11.2022 08:00,Yaroslavl,Akron Togliatti,1,0
+13.11.2022 07:00,Volgar-Astrakhan,Baltika,1,2
+13.11.2022 03:00,SKA Khabarovsk,Kamaz,3,1
+12.11.2022 08:00,Ulyanovsk,Ufa,2,1
+12.11.2022 06:00,Veles Moscow,Dynamo Makhachkala,0,1
+06.11.2022 09:00,Baltika,Alania Vladikavkaz,2,1
+06.11.2022 09:00,Kamaz,Arsenal Tula,0,1
+06.11.2022 08:00,Dynamo Makhachkala,Rubin Kazan,0,1
+06.11.2022 07:00,Akron Togliatti,Veles Moscow,3,0
+06.11.2022 07:00,Rodina Moscow,Ulyanovsk,2,1
+06.11.2022 06:00,Krasnodar 2,Volgar-Astrakhan,0,2
+06.11.2022 05:00,Yenisey,Kuban,2,1
+06.11.2022 04:00,Ufa,Neftekhimik,0,0
+06.11.2022 02:00,SKA Khabarovsk,Yaroslavl,3,1
+30.10.2022 07:00,Rubin Kazan,Baltika,3,3
+30.10.2022 06:00,Veles Moscow,Krasnodar 2,1,0
+29.10.2022 10:30,Neftekhimik,Yenisey,1,1
+29.10.2022 09:00,Alania Vladikavkaz,Akron Togliatti,3,3
+29.10.2022 09:00,Kamaz,Ufa,2,2
+29.10.2022 09:00,Kuban,Rodina Moscow,0,1
+29.10.2022 08:00,Volgar-Astrakhan,SKA Khabarovsk,1,3
+29.10.2022 07:00,Ulyanovsk,Dynamo Makhachkala,0,0
+28.10.2022 11:00,Yaroslavl,Arsenal Tula,2,1
+24.10.2022 07:00,Yenisey,Ufa,3,1
+23.10.2022 10:00,Baltika,Ulyanovsk,2,2
+23.10.2022 10:00,Rodina Moscow,Neftekhimik,0,2
+23.10.2022 09:00,Arsenal Tula,Volgar-Astrakhan,3,2
+23.10.2022 08:00,Dynamo Makhachkala,Kuban,2,1
+23.10.2022 08:00,Krasnodar 2,Alania Vladikavkaz,0,3
+23.10.2022 08:00,Yaroslavl,Kamaz,1,0
+23.10.2022 07:00,Akron Togliatti,Rubin Kazan,0,0
+23.10.2022 02:00,SKA Khabarovsk,Veles Moscow,6,0
+16.10.2022 10:00,Alania Vladikavkaz,SKA Khabarovsk,4,1
+16.10.2022 10:00,Kuban,Baltika,0,0
+16.10.2022 09:00,Neftekhimik,Dynamo Makhachkala,2,1
+16.10.2022 09:00,Volgar-Astrakhan,Yaroslavl,1,0
+16.10.2022 08:00,Rubin Kazan,Krasnodar 2,5,2
+16.10.2022 07:00,Ulyanovsk,Akron Togliatti,1,2
+16.10.2022 06:00,Veles Moscow,Arsenal Tula,1,0
+16.10.2022 04:00,Ufa,Rodina Moscow,0,1
+14.10.2022 09:00,Kamaz,Yenisey,1,0
+10.10.2022 11:30,Arsenal Tula,Alania Vladikavkaz,0,2
+09.10.2022 10:00,Baltika,Neftekhimik,2,2
+09.10.2022 10:00,Rodina Moscow,Yenisey,0,2
+09.10.2022 08:00,Dynamo Makhachkala,Ufa,0,1
+09.10.2022 08:00,Volgar-Astrakhan,Kamaz,0,0
+09.10.2022 08:00,Yaroslavl,Veles Moscow,2,0
+09.10.2022 07:00,Akron Togliatti,Kuban,0,0
+09.10.2022 06:00,Krasnodar 2,Ulyanovsk,0,0
+09.10.2022 02:00,SKA Khabarovsk,Rubin Kazan,1,2
+01.10.2022 11:00,Alania Vladikavkaz,Yaroslavl,3,1
+01.10.2022 10:00,Kuban,Krasnodar 2,4,0
+01.10.2022 10:00,Neftekhimik,Akron Togliatti,0,1
+01.10.2022 08:00,Kamaz,Rodina Moscow,2,0
+01.10.2022 08:00,Rubin Kazan,Arsenal Tula,1,2
+01.10.2022 07:00,Ulyanovsk,SKA Khabarovsk,0,0
+01.10.2022 06:00,Veles Moscow,Volgar-Astrakhan,1,3
+01.10.2022 05:00,Yenisey,Dynamo Makhachkala,2,0
+01.10.2022 03:45,Ufa,Baltika,0,2
+25.09.2022 10:00,Dynamo Makhachkala,Rodina Moscow,0,0
+25.09.2022 09:00,Arsenal Tula,Ulyanovsk,2,0
+25.09.2022 09:00,Baltika,Yenisey,3,2
+25.09.2022 09:00,Volgar-Astrakhan,Alania Vladikavkaz,0,0
+25.09.2022 08:00,Akron Togliatti,Ufa,1,1
+25.09.2022 08:00,Yaroslavl,Rubin Kazan,1,0
+25.09.2022 07:00,Krasnodar 2,Neftekhimik,0,0
+25.09.2022 06:00,Veles Moscow,Kamaz,1,1
+25.09.2022 02:00,SKA Khabarovsk,Kuban,2,0
+19.09.2022 12:00,Kuban,Arsenal Tula,2,1
+18.09.2022 11:00,Alania Vladikavkaz,Veles Moscow,1,0
+18.09.2022 10:00,Neftekhimik,SKA Khabarovsk,0,1
+18.09.2022 10:00,Rubin Kazan,Volgar-Astrakhan,3,2
+18.09.2022 09:00,Kamaz,Dynamo Makhachkala,1,2
+18.09.2022 07:00,Rodina Moscow,Baltika,1,2
+18.09.2022 07:00,Ulyanovsk,Yaroslavl,1,1
+18.09.2022 05:00,Ufa,Krasnodar 2,2,1
+18.09.2022 05:00,Yenisey,Akron Togliatti,0,0
+12.09.2022 13:00,Baltika,Dynamo Makhachkala,1,1
+11.09.2022 11:00,Alania Vladikavkaz,Kamaz,4,2
+11.09.2022 10:00,Krasnodar 2,Yenisey,1,2
+11.09.2022 10:00,SKA Khabarovsk,Ufa,1,1
+11.09.2022 10:00,Yaroslavl,Kuban,1,0
+11.09.2022 09:00,Arsenal Tula,Neftekhimik,2,1
+11.09.2022 09:00,Volgar-Astrakhan,Ulyanovsk,1,0
+11.09.2022 08:00,Akron Togliatti,Rodina Moscow,2,2
+11.09.2022 06:00,Veles Moscow,Rubin Kazan,1,2
+04.09.2022 11:00,Kuban,Volgar-Astrakhan,0,0
+04.09.2022 10:00,Dynamo Makhachkala,Akron Togliatti,1,1
+04.09.2022 10:00,Neftekhimik,Yaroslavl,1,0
+04.09.2022 10:00,Rubin Kazan,Alania Vladikavkaz,2,2
+04.09.2022 09:00,Kamaz,Baltika,0,0
+04.09.2022 09:00,Ulyanovsk,Veles Moscow,0,2
+04.09.2022 08:00,Rodina Moscow,Krasnodar 2,1,2
+04.09.2022 03:00,Yenisey,SKA Khabarovsk,1,1
+02.09.2022 08:00,Ufa,Arsenal Tula,0,2
+29.08.2022 12:00,Arsenal Tula,Yenisey,2,2
+28.08.2022 10:00,Rubin Kazan,Kamaz,1,1
+27.08.2022 11:00,Alania Vladikavkaz,Ulyanovsk,1,2
+27.08.2022 11:00,Krasnodar 2,Dynamo Makhachkala,0,1
+27.08.2022 10:00,Volgar-Astrakhan,Neftekhimik,0,1
+27.08.2022 10:00,Yaroslavl,Ufa,3,0
+27.08.2022 09:00,SKA Khabarovsk,Rodina Moscow,2,1
+27.08.2022 08:00,Akron Togliatti,Baltika,1,3
+27.08.2022 06:00,Veles Moscow,Kuban,3,1
+21.08.2022 12:00,Kuban,Alania Vladikavkaz,1,2
+21.08.2022 12:00,Rodina Moscow,Arsenal Tula,1,1
+21.08.2022 11:00,Dynamo Makhachkala,SKA Khabarovsk,0,0
+21.08.2022 10:00,Baltika,Krasnodar 2,2,1
+21.08.2022 10:00,Neftekhimik,Veles Moscow,2,0
+21.08.2022 09:00,Kamaz,Akron Togliatti,4,0
+21.08.2022 08:00,Ufa,Volgar-Astrakhan,0,0
+21.08.2022 05:00,Yenisey,Yaroslavl,2,1
+21.08.2022 04:45,Ulyanovsk,Rubin Kazan,1,2
+15.08.2022 11:30,Rubin Kazan,Kuban,3,0
+14.08.2022 11:00,Alania Vladikavkaz,Neftekhimik,1,0
+14.08.2022 11:00,Krasnodar 2,Akron Togliatti,0,1
+14.08.2022 10:00,Arsenal Tula,Dynamo Makhachkala,1,1
+14.08.2022 10:00,SKA Khabarovsk,Baltika,2,2
+14.08.2022 10:00,Volgar-Astrakhan,Yenisey,2,0
+13.08.2022 11:00,Yaroslavl,Rodina Moscow,1,1
+13.08.2022 09:00,Ulyanovsk,Kamaz,0,2
+13.08.2022 06:00,Veles Moscow,Ufa,0,2
+08.08.2022 12:00,Baltika,Arsenal Tula,1,0
+08.08.2022 10:00,Neftekhimik,Rubin Kazan,2,2
+07.08.2022 11:00,Dynamo Makhachkala,Yaroslavl,2,1
+07.08.2022 09:00,Kamaz,Krasnodar 2,1,1
+07.08.2022 09:00,Ulyanovsk,Kuban,1,4
+07.08.2022 08:00,Rodina Moscow,Volgar-Astrakhan,0,0
+07.08.2022 08:00,Ufa,Alania Vladikavkaz,1,3
+06.08.2022 10:00,SKA Khabarovsk,Akron Togliatti,3,0
+06.08.2022 05:00,Yenisey,Veles Moscow,2,1
+01.08.2022 12:00,Rubin Kazan,Ufa,0,0
+31.07.2022 11:00,Alania Vladikavkaz,Yenisey,1,1
+31.07.2022 11:00,Kuban,Kamaz,0,1
+31.07.2022 11:00,Yaroslavl,Baltika,1,1
+31.07.2022 10:00,SKA Khabarovsk,Krasnodar 2,0,1
+31.07.2022 10:00,Volgar-Astrakhan,Dynamo Makhachkala,2,1
+30.07.2022 10:00,Arsenal Tula,Akron Togliatti,1,1
+30.07.2022 09:00,Ulyanovsk,Neftekhimik,0,2
+30.07.2022 09:00,Veles Moscow,Rodina Moscow,0,2
+25.07.2022 12:00,Kamaz,SKA Khabarovsk,3,2
+24.07.2022 11:00,Baltika,Volgar-Astrakhan,3,1
+24.07.2022 11:00,Dynamo Makhachkala,Veles Moscow,1,0
+24.07.2022 11:00,Krasnodar 2,Arsenal Tula,0,3
+24.07.2022 10:00,Neftekhimik,Kuban,0,0
+24.07.2022 09:00,Akron Togliatti,Yaroslavl,2,3
+24.07.2022 08:00,Rodina Moscow,Alania Vladikavkaz,1,3
+24.07.2022 05:00,Yenisey,Rubin Kazan,3,2
+23.07.2022 06:00,Ufa,Ulyanovsk,2,1
+18.07.2022 12:00,Alania Vladikavkaz,Dynamo Makhachkala,0,0
+17.07.2022 11:00,Kuban,Ufa,2,0
+17.07.2022 11:00,Yaroslavl,Krasnodar 2,0,2
+17.07.2022 10:00,Arsenal Tula,SKA Khabarovsk,3,2
+17.07.2022 10:00,Rubin Kazan,Rodina Moscow,2,0
+17.07.2022 10:00,Volgar-Astrakhan,Akron Togliatti,1,0
+17.07.2022 06:00,Veles Moscow,Baltika,2,1
+16.07.2022 10:00,Neftekhimik,Kamaz,0,1
+16.07.2022 10:00,Ulyanovsk,Yenisey,1,1
