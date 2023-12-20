@@ -346,7 +346,7 @@ def recorrer_toda_una_liga(link_partidos):
     num_partidos = 0
     print("Total de partidos a scrappear",len(lista_links_partidos))
 
-    for link in lista_links_partidos[168:]:
+    for link in lista_links_partidos[-9:]:
         print("Scrappeando el partido : "+link)
         try:
             retorno=league_matches_scraper_fbref(link,datos_header_partidos,datos_por_partido,num_partidos)
@@ -375,4 +375,4 @@ def recorrer_toda_una_liga(link_partidos):
 
 
 # league_matches_scraper_fbref("","")
-recorrer_toda_una_liga("https://fbref.com/es/comps/24/horario/Resultados-y-partidos-en-Serie-A")
+recorrer_toda_una_liga("https://fbref.com/es/comps/20/horario/Resultados-y-partidos-en-Bundesliga")

@@ -53,10 +53,11 @@ def league_matches_scraper(link, output_file, cant_omitir):
 
         # Match info retrieving
         try:
-            time.sleep(0.25)
+            print(i)
+            time.sleep(0.5)
             browser.get("https://www.flashscore.co/partido/" + i + "/#/resumen-del-partido/estadisticas-del-partido/0")
             WebDriverWait(browser, timeout_in_seconds).until(
-                ec.presence_of_element_located((By.CLASS_NAME, 'stat__worseSideOrEqualBackground')))
+                ec.presence_of_element_located((By.CLASS_NAME, '_row_lq1k0_9')))
             html = browser.page_source
             soup = BeautifulSoup(html, features="html.parser")
         except TimeoutException:
@@ -86,15 +87,15 @@ def league_matches_scraper(link, output_file, cant_omitir):
         
         # print(info_header)
         # Stats
-        stats = browser.find_elements(By.CLASS_NAME,"stat__row")
+        stats = browser.find_elements(By.CLASS_NAME,"_row_lq1k0_9")
         # print(stats)
         lines_stats = []
         info_stats=[]
         for j in stats:
-            home_value=j.find_element(By.CLASS_NAME,"stat__homeValue").get_attribute("textContent")
-            away_value=j.find_element(By.CLASS_NAME,"stat__awayValue").get_attribute("textContent")
-            nombre_stat_act= j.find_element(By.CLASS_NAME,"stat__categoryName").get_attribute("textContent")
-            info_stats.append(nombre_stat_act)
+            home_value=j.find_element(By.CLASS_NAME,"_homeValue_1efsh_10").get_attribute("textContent")
+            away_value=j.find_element(By.CLASS_NAME,"_awayValue_1efsh_14").get_attribute("textContent")
+            nombre_stat_act= j.find_element(By.CLASS_NAME,"_category_rbkfg_5").get_attribute("textContent")
+            info_stats.append(nombre_stat_act.strip())
             # print(home_value,away_value,nombre_stat_act)
             lines_stats.append(home_value)
             lines_stats.append(away_value)
@@ -119,6 +120,8 @@ def league_matches_scraper(link, output_file, cant_omitir):
         #     print()
         #     index += 1
         #     continue
+
+        print(info_stats)
 
         # Escritura del archivo excel
         nom_hoja = (info_header[0].split("-"))[0] + season.split("/")[0]
@@ -175,7 +178,7 @@ def league_matches_scraper(link, output_file, cant_omitir):
                 stats_gen.append(lines_stats[cont_est+1])
                 cont_est = cont_est + 2
 
-        stats_gen.append(int(datos_local[-2:]) - int(datos_visita[-2:]))  # Resultado
+        # stats_gen.append(int(datos_local[-2:]) - int(datos_visita[-2:]))  # Resultado
 
         # if file_exists and (first_value["Date"] == stats_gen[0]) and (
         #         first_value["HomeTeam"] == stats_gen[1]) and (

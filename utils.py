@@ -9,7 +9,7 @@ from selenium.common.exceptions import TimeoutException
 nom_estadisticas = ['Goles esperados (xG)','Posesión de balón', 'Remates', 'Remates a puerta', 'Remates fuera', 'Remates rechazados',
                     'Tiros libres', 'Córneres', 'Fueras de juego', 'Saques de banda', 'Paradas', 'Faltas',
                     'Tarjetas rojas', 'Tarjetas amarillas', 'Pases totales', 'Pases completados', 'Tackles',
-                    'Ataques', 'Ataques peligrosos']
+                    'Ataques', 'Ataques peligrosos', 'Despejes completados', 'Centros completados','Intercepciones','Distancia cubierta (km)']
 titulos_estadisticas = (
                     'Date',
                     'HomeTeam',
@@ -54,6 +54,10 @@ titulos_estadisticas = (
                     'AA',  # Away Attacks
                     'HDA',  # Home Dangerous Attacks
                     'ADA',  # Away Dangerous Attacks
+                    'HDC',  # Home Despejes completados
+                    'ADC',  # Away Despejes completados
+                    'HDistancia Cubierta (km)', # Home Distancia cubierta (km)
+                    'ADistancia Cubierta (km)', # Away Distancia cubierta (km)
                     'Resultado'
                 )
 
