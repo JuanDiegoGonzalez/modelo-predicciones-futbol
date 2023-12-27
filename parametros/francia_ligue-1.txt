@@ -1,3 +1,0 @@
-pais = "francia"
-liga = "ligue-1"
-cant_omitir = 0

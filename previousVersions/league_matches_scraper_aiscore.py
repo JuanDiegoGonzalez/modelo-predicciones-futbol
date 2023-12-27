@@ -3,7 +3,7 @@ import os
 import re
 
 import pandas as pd
-from utils import *
+from scripts.utils import *
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException, NoSuchElementException

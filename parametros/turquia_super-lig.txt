@@ -1,3 +1,0 @@
-pais = "turquia"
-liga = "super-lig"
-cant_omitir = 0

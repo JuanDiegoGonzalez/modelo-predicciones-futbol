@@ -1,3 +1,0 @@
-pais = "inglaterra"
-liga = "championship"
-cant_omitir = 0

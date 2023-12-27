@@ -1,3 +1,0 @@
-pais = "belgica"
-liga = "jupiler-pro-league"
-cant_omitir = 0

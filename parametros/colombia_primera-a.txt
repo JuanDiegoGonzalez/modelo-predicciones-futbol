@@ -1,3 +1,0 @@
-pais = "colombia"
-liga = "primera-a"
-cant_omitir = 226

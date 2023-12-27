@@ -1,3 +1,0 @@
-pais = "italia"
-liga = "serie-a"
-cant_omitir = 0

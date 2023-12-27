@@ -1,3 +1,0 @@
-pais = "espana"
-liga = "laliga-smartbank"
-cant_omitir = 0
